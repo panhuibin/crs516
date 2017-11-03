@@ -1,0 +1,29 @@
+     1                  Variable number (>0 ITIS taxon code,<0 WOD taxon or group code)
+     2                  upper_depth;     meters
+     3                  lower_depth;     meters
+     4                  int_value; biomass measurement (see tax_biom.txt)
+     5                  Taxon_lifestage
+     6                  Taxon_sex_code
+     7                  Taxon_present 
+     8                  Taxon_troph 
+     9                  Taxon_realm 
+    10                  Taxon_count      count of taxon / UNIT
+    11                  Sample volume    (if >0, m3/UNIT; if <0, ml/UNIT)
+    12                  Taxon_volume     (if >0, ml/UNIT, if <0, pl/UNIT) 
+    13                  Taxon_wet_wt     (if >0,  g/UNIT, if <0, ug/UNIT)
+    14                  Taxon_dry_wt     (if >0,  g/UNIT, if <0, ug/UNIT)
+    15                  Taxon_ashf_wt    (if >0, mg/UNIT, if <0, ng/UNIT)
+    16                  Taxon_feature  
+    17                  Taxon_modifier 
+    18                  Size_min; min. size range sampled (mm) (<0 = code
+    19                  Size_max; max. size range sampled (mm)
+    20                  Units
+    21                  Taxon_radius     micrometer (or diameter/2) 
+    22                  Taxon_length     micrometer (longest dimension/height)
+    23                  Taxon_width      micrometer  
+    25                  Taxon carbon content  (if >0, mg/UNIT, if <0, ng/UNIT)
+    26                  Special count method
+    27                  Comparable Biological Value (CBV)
+    28                  CBV calculation method
+    29                  ...
+    30                  Biological Grouping Code (BGC)

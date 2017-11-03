@@ -1,0 +1,7 @@
+code_name,realm
+units,WOD code table
+1,BENTHIC
+2,EPIBIONT ; EPIZOIC, EPIPHYTIC
+3,ENDOBIONT ; Intestinal, ENDOZOIC
+4,MEROPLANKTONIC ; Adults are benthic or nektonic
+5,BATHYPELAGIC 

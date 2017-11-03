@@ -1,0 +1,276 @@
+09:05:21,356  INFO FileBasedDataService:146 - Cleaning up work directory
+09:05:21,371  INFO FileBasedDataService:136 - Service ID is 0
+09:05:21,387  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:21 EDT 2015
+09:05:21,387  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:21,387  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+09:05:21,387  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:22,371  INFO FileBasedDataService:136 - Service ID is 1
+09:05:22,371  INFO FileBasedDataService:136 - Service ID is 2
+09:05:22,371  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:22 EDT 2015
+09:05:22,371  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:22,371  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+09:05:22,371  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:23,389  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:23,405  INFO FileBasedDataService:136 - Service ID is 3
+09:05:23,405  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:23 EDT 2015
+09:05:23,405  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:23,405  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\3/0.db
+09:05:23,405  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:24,415  INFO FileBasedDataService:136 - Service ID is 4
+09:05:24,415  INFO FileBasedDataService:136 - Service ID is 5
+09:05:24,415  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:24 EDT 2015
+09:05:24,415  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:24,415  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\5/0.db
+09:05:24,415  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:25,416  INFO FileBasedDataService:136 - Service ID is 6
+09:05:25,416  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue May 19 09:05:25 EDT 2015
+09:05:25,416  INFO FileBasedDataService:387 - dataSize is now 72
+09:05:25,416  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\6/0.db
+09:05:25,416  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:05:26,418  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:26,418  INFO FileBasedDataService:136 - Service ID is 7
+09:05:26,418  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:26 EDT 2015
+09:05:26,418  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:26,418  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\7/0.db
+09:05:26,418  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:27,419  INFO FileBasedDataService:136 - Service ID is 8
+09:05:27,419  INFO FileBasedDataService:136 - Service ID is 9
+09:05:27,419  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:27 EDT 2015
+09:05:27,419  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:27,419  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\9/0.db
+09:05:27,419  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:28,420  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:28,420  INFO FileBasedDataService:136 - Service ID is 10
+09:05:28,420  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:28 EDT 2015
+09:05:28,420  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:28,420  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\10/0.db
+09:05:28,420  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:29,421  INFO FileBasedDataService:136 - Service ID is 11
+09:05:29,421  INFO FileBasedDataService:136 - Service ID is 12
+09:05:29,421  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:29 EDT 2015
+09:05:29,421  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:29,421  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\12/0.db
+09:05:29,421  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:30,422  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:30,422  INFO FileBasedDataService:136 - Service ID is 13
+09:05:30,422  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:30 EDT 2015
+09:05:30,422  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:30,422  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\13/0.db
+09:05:30,422  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:31,423  INFO FileBasedDataService:136 - Service ID is 14
+09:05:31,423  INFO FileBasedDataService:136 - Service ID is 15
+09:05:31,423  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue May 19 09:05:31 EDT 2015
+09:05:31,423  INFO FileBasedDataService:387 - dataSize is now 72
+09:05:31,423  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\15/0.db
+09:05:31,423  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:05:32,425  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:32,425  INFO FileBasedDataService:136 - Service ID is 16
+09:05:32,425  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:32 EDT 2015
+09:05:32,425  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:32,425  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\16/0.db
+09:05:32,425  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:33,426  INFO FileBasedDataService:136 - Service ID is 17
+09:05:33,426  INFO FileBasedDataService:136 - Service ID is 18
+09:05:33,426  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:33 EDT 2015
+09:05:33,426  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:33,426  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\18/0.db
+09:05:33,426  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:34,427  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:34,427  INFO FileBasedDataService:136 - Service ID is 19
+09:05:34,427  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:34 EDT 2015
+09:05:34,427  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:34,427  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\19/0.db
+09:05:34,427  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:35,428  INFO FileBasedDataService:136 - Service ID is 20
+09:05:35,428  INFO FileBasedDataService:136 - Service ID is 21
+09:05:35,428  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:35 EDT 2015
+09:05:35,428  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:35,428  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\21/0.db
+09:05:35,428  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:36,429  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:36,429  INFO FileBasedDataService:136 - Service ID is 22
+09:05:36,429  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:36 EDT 2015
+09:05:36,429  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:36,429  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\22/0.db
+09:05:36,429  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:37,430  INFO FileBasedDataService:136 - Service ID is 23
+09:05:37,430  INFO FileBasedDataService:136 - Service ID is 24
+09:05:37,430  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue May 19 09:05:37 EDT 2015
+09:05:37,430  INFO FileBasedDataService:387 - dataSize is now 72
+09:05:37,430  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\24/0.db
+09:05:37,430  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:05:38,431  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:38,431  INFO FileBasedDataService:136 - Service ID is 25
+09:05:38,431  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:38 EDT 2015
+09:05:38,431  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:38,431  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\25/0.db
+09:05:38,431  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:39,432  INFO FileBasedDataService:136 - Service ID is 26
+09:05:39,432  INFO FileBasedDataService:136 - Service ID is 27
+09:05:39,432  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:39 EDT 2015
+09:05:39,432  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:39,432  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\27/0.db
+09:05:39,432  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:40,433  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:40,433  INFO FileBasedDataService:136 - Service ID is 28
+09:05:40,433  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:40 EDT 2015
+09:05:40,433  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:40,433  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\28/0.db
+09:05:40,433  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:41,434  INFO FileBasedDataService:136 - Service ID is 29
+09:05:41,434  INFO FileBasedDataService:136 - Service ID is 30
+09:05:41,434  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:41 EDT 2015
+09:05:41,434  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:41,434  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\30/0.db
+09:05:41,434  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:42,435  INFO FileBasedDataServiceTest:268 - Shutting down executor
+09:05:42,435  INFO FileBasedDataService:136 - Service ID is 31
+09:05:42,435  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:42 EDT 2015
+09:05:42,435  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:42,435  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\31/0.db
+09:05:42,435  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:43,436  INFO FileBasedDataService:136 - Service ID is 32
+09:05:43,436  INFO FileBasedDataService:136 - Service ID is 33
+09:05:43,436  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Tue May 19 09:05:43 EDT 2015
+09:05:43,436  INFO FileBasedDataService:387 - dataSize is now 1
+09:05:43,436  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\33/0.db
+09:05:43,436  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+09:05:44,437  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:12,889  INFO FileBasedDataService:146 - Cleaning up work directory
+22:06:12,904  INFO FileBasedDataService:136 - Service ID is 0
+22:06:12,920  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:12 EDT 2016
+22:06:12,920  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:12,920  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+22:06:12,920  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:13,920  INFO FileBasedDataService:136 - Service ID is 1
+22:06:13,920  INFO FileBasedDataService:136 - Service ID is 2
+22:06:13,920  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:13 EDT 2016
+22:06:13,920  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:13,920  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+22:06:13,920  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:14,937  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:14,952  INFO FileBasedDataService:136 - Service ID is 3
+22:06:14,952  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:14 EDT 2016
+22:06:14,952  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:14,952  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\3/0.db
+22:06:14,952  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:15,953  INFO FileBasedDataService:136 - Service ID is 4
+22:06:15,953  INFO FileBasedDataService:136 - Service ID is 5
+22:06:15,953  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:15 EDT 2016
+22:06:15,953  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:15,953  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\5/0.db
+22:06:15,953  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:16,954  INFO FileBasedDataService:136 - Service ID is 6
+22:06:16,954  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat Jun 11 22:06:16 EDT 2016
+22:06:16,954  INFO FileBasedDataService:387 - dataSize is now 72
+22:06:16,954  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\6/0.db
+22:06:16,954  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:06:17,955  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:17,955  INFO FileBasedDataService:136 - Service ID is 7
+22:06:17,955  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:17 EDT 2016
+22:06:17,955  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:17,955  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\7/0.db
+22:06:17,955  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:18,956  INFO FileBasedDataService:136 - Service ID is 8
+22:06:18,956  INFO FileBasedDataService:136 - Service ID is 9
+22:06:18,956  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:18 EDT 2016
+22:06:18,956  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:18,956  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\9/0.db
+22:06:18,956  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:19,957  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:20,004  INFO FileBasedDataService:136 - Service ID is 10
+22:06:20,004  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:20 EDT 2016
+22:06:20,004  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:20,004  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\10/0.db
+22:06:20,004  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:21,052  INFO FileBasedDataService:136 - Service ID is 11
+22:06:21,052  INFO FileBasedDataService:136 - Service ID is 12
+22:06:21,052  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:21 EDT 2016
+22:06:21,052  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:21,052  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\12/0.db
+22:06:21,052  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:22,053  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:22,053  INFO FileBasedDataService:136 - Service ID is 13
+22:06:22,053  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:22 EDT 2016
+22:06:22,053  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:22,053  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\13/0.db
+22:06:22,053  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:23,054  INFO FileBasedDataService:136 - Service ID is 14
+22:06:23,054  INFO FileBasedDataService:136 - Service ID is 15
+22:06:23,054  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat Jun 11 22:06:23 EDT 2016
+22:06:23,054  INFO FileBasedDataService:387 - dataSize is now 72
+22:06:23,054  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\15/0.db
+22:06:23,054  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:06:24,055  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:24,055  INFO FileBasedDataService:136 - Service ID is 16
+22:06:24,055  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:24 EDT 2016
+22:06:24,055  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:24,055  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\16/0.db
+22:06:24,055  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:25,056  INFO FileBasedDataService:136 - Service ID is 17
+22:06:25,056  INFO FileBasedDataService:136 - Service ID is 18
+22:06:25,056  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:25 EDT 2016
+22:06:25,056  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:25,056  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\18/0.db
+22:06:25,056  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:26,057  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:26,057  INFO FileBasedDataService:136 - Service ID is 19
+22:06:26,057  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:26 EDT 2016
+22:06:26,057  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:26,057  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\19/0.db
+22:06:26,057  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:27,058  INFO FileBasedDataService:136 - Service ID is 20
+22:06:27,058  INFO FileBasedDataService:136 - Service ID is 21
+22:06:27,058  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:27 EDT 2016
+22:06:27,058  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:27,058  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\21/0.db
+22:06:27,058  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:28,059  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:28,059  INFO FileBasedDataService:136 - Service ID is 22
+22:06:28,059  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:28 EDT 2016
+22:06:28,059  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:28,059  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\22/0.db
+22:06:28,059  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:29,060  INFO FileBasedDataService:136 - Service ID is 23
+22:06:29,060  INFO FileBasedDataService:136 - Service ID is 24
+22:06:29,060  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat Jun 11 22:06:29 EDT 2016
+22:06:29,060  INFO FileBasedDataService:387 - dataSize is now 72
+22:06:29,060  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\24/0.db
+22:06:29,060  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:06:30,061  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:30,061  INFO FileBasedDataService:136 - Service ID is 25
+22:06:30,061  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:30 EDT 2016
+22:06:30,061  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:30,061  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\25/0.db
+22:06:30,061  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:31,062  INFO FileBasedDataService:136 - Service ID is 26
+22:06:31,062  INFO FileBasedDataService:136 - Service ID is 27
+22:06:31,062  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:31 EDT 2016
+22:06:31,062  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:31,062  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\27/0.db
+22:06:31,062  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:32,063  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:32,063  INFO FileBasedDataService:136 - Service ID is 28
+22:06:32,063  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:32 EDT 2016
+22:06:32,063  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:32,063  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\28/0.db
+22:06:32,063  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:33,064  INFO FileBasedDataService:136 - Service ID is 29
+22:06:33,064  INFO FileBasedDataService:136 - Service ID is 30
+22:06:33,064  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:33 EDT 2016
+22:06:33,064  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:33,064  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\30/0.db
+22:06:33,064  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:34,065  INFO FileBasedDataServiceTest:268 - Shutting down executor
+22:06:34,065  INFO FileBasedDataService:136 - Service ID is 31
+22:06:34,065  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:34 EDT 2016
+22:06:34,065  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:34,065  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\31/0.db
+22:06:34,065  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:35,066  INFO FileBasedDataService:136 - Service ID is 32
+22:06:35,066  INFO FileBasedDataService:136 - Service ID is 33
+22:06:35,066  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sat Jun 11 22:06:35 EDT 2016
+22:06:35,066  INFO FileBasedDataService:387 - dataSize is now 1
+22:06:35,066  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\33/0.db
+22:06:35,066  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+22:06:36,067  INFO FileBasedDataServiceTest:268 - Shutting down executor

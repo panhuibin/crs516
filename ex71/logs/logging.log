@@ -1,0 +1,20 @@
+21:22:04,865  INFO FileBasedDataService:149 - Cleaning up work directory
+21:22:04,881  INFO FileBasedDataService:139 - Service ID is 0
+21:22:32,600  INFO WODController:238 - Loading C:\crs516\sourcecode\data\CTDO5101.gz
+21:22:32,805  INFO WODController:269 - About to read file CTDO5101.gz
+21:22:32,805  INFO FileBasedDataService:85 - Data loader loading C:\crs516\sourcecode\data\CTDO5101.gz at Sat Jun 11 21:22:32 EDT 2016
+21:22:33,071  INFO FileBasedDataService:390 - dataSize is now 103
+21:22:33,071  INFO FileBasedDataService:346 - Reading block C:\crs516\sourcecode\work\0/0.db
+21:22:33,118  INFO FileBasedDataService:93 - Data from C:\crs516\sourcecode\data\CTDO5101.gz loaded
+21:22:33,337  INFO WODController:276 - All stations from CTDO5101.gz are loaded!
+21:49:20,213  INFO FileBasedDataService:150 - Cleaning up work directory
+21:49:20,213  INFO FileBasedDataService:140 - Service ID is 0
+21:49:30,932  INFO WODController:238 - Loading C:\crs516\sourcecode\data\CTDO5101.gz
+21:49:31,152  INFO WODController:269 - About to read file CTDO5101.gz
+21:49:31,152  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\CTDO5101.gz at Sat Jun 11 21:49:31 EDT 2016
+21:49:31,371  INFO FileBasedDataService:371 - dataSize is now 103
+21:49:31,371  INFO FileBasedDataService:327 - Reading block C:\crs516\sourcecode\work\0/0.db
+21:49:31,433  INFO FileBasedDataService:94 - Data from C:\crs516\sourcecode\data\CTDO5101.gz loaded
+21:49:31,527  INFO WODController:276 - All stations from CTDO5101.gz are loaded!
+21:51:07,483  INFO FileBasedDataService:150 - Cleaning up work directory
+21:51:07,483  INFO FileBasedDataService:140 - Service ID is 0

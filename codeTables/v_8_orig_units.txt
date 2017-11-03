@@ -1,0 +1,54 @@
+7,&#0181;g-at&#0183;l<sup>-1</sup> (NB: &#0181;g-at&#0183;l<sup>-1</sup> = mmol&#0183;m-3 = &#0181;mol&#0183;l<sup>-1</sup> = &#0181;M = &#0181;mol&#0183;dm-3)
+9,m&#0183;s<sup>-1</sup>
+11,Percent
+16,Mg&#0183;m-3
+23,mgC&#0183;m-3&#0183;incubation t<sup>-1</sup>
+24,mgC&#0183;m-2&#0183;incubation t<sup>-1</sup>
+29,&#0181;mol&#0183;kg<sup>-1</sup>
+32,mg&#0183;l<sup>-1</sup> (NB: mg&#0183;l<sup>-1</sup> = ppm = &#0181;g&#0183;g<sup>-1</sup> = &#0181;g&#0183;ml<sup>-1</sup> = &#0181;l&#0183;l<sup>-1</sup> = g&#0183;m-3)
+33,&#0181;g&#0183;kg<sup>-1</sup>
+34,&#0181;eq&#0183;kg<sup>-1</sup> (NB: use &#0181;mol&#0183;kg<sup>-1</sup> for alkalinity ONLY)
+36,&#0181;g&#0183;l<sup>-1</sup> (NB: &#0181;g&#0183;l<sup>-1</sup> = mg&#0183;m-3 = ppb = g&#0183;0.001&#0183;m-3
+37,mg-at&#0183;l<sup>-1</sup>
+39,ng&#0183;l<sup>-1</sup> (NB: ng&#0183;l<sup>-1</sup> = &#0181;g&#0183;m-3)
+40,mgC&#0183;m-3&#0183;hr<sup>-1</sup>
+42,mgC&#0183;m-3&#0183;day<sup>-1</sup> (NB: mgC&#0183;m-3&#0183;day<sup>-1</sup> = &#0181;gC&#0183;l<sup>-1</sup>&#0183;day<sup>-1</sup>)
+48,&#0181;-atm
+49,gC&#0183;m-2&#0183;day<sup>-1</sup>
+50,gC&#0183;m-2&#0183;hr<sup>-1</sup>
+51,&#0181;eq&#0183;l<sup>-1</sup> (NB: use &#0181;mol&#0183;l<sup>-1</sup> for alkalinity ONLY)
+54,meq&#0183;kg<sup>-1</sup>
+56,mgC&#0183;m-2&#0183;day<sup>-1</sup>
+57,mgC&#0183;m-2&#0183;hr<sup>-1</sup>
+58,mg-at&#0183;kg<sup>-1</sup>
+59,mg&#0183;kg<sup>-1</sup>
+61,mmol&#0183;kg<sup>-1</sup>
+62,mmol&#0183;l<sup>-1</sup>
+66,ng&#0183;kg<sup>-1</sup>
+64,molesC&#0183;m-2&#0183;day<sup>-1</sup>
+65,molesC&#0183;m-2&#0183;hr<sup>-1</sup>
+68,per sample
+69,per m<sup>2</sup>
+70,per m<sup>3</sup>
+71,per individual
+72,per ml
+73,mg/Chl-a&#0183;m-3
+74,ml&#0183;kg<sup>-1</sup>
+75,&#0181;gC&#0183;m-3
+76,S&#0183;m<sup>-1</sup>
+78,per liter
+81,parts per million
+82,degrees Fahrenheit
+83,foot
+84,per microliter
+85,mg&#0183;m-2
+86,fathom
+87,millimeter
+136,&#0181;g&#0183;l<sup>-1</sup> (NB: Alternate Nutrient Conversion (use instead of #36)
+107,&#0181;mol&#0183;l<sup>-1</sup> (NB: Alternate Oxygen Conversion (use instead of #7)
+200,Tritium Unit (TU)
+210,nanomol per liter (nmol&#0183;l<sup>-1</sup>)
+211,picomol per liter (pmol&#0183;l<sup>-1</sup>)
+212,per mille
+213,nanomol per kilogram (nmol&#0183;kg<sup>-1</sup>)
+214,picomol per kilogram (pmol&#0183;kg<sup>-1</sup>)

@@ -1,0 +1,16 @@
+code_name,WOD Comparable Biological Value
+units,#/ul; #/ml; #/m<sup>3</sup>; #/m<sup>3</sup>; ml/m<sup>3</sup>; ml/m<sup>3</sup>; ml/m<sup>3</sup>; mg/m<sup>3</sup>; mg/m<sup>3</sup>; mg/m<sup>3</sup>; mg/m<sup>3</sup>; m<sup>3</sup>/m<sup>3</sup>; kg/m<sup>3</sup>
+1000000,Bacterioplankton Counts
+2000000,Phytoplankton Counts
+4000000,Zooplankton Counts
+5000000,Ichthyoplankton Counts
+   -400,All Biomass Types (excluding ichthyoplankton)
+   -401,Total Displacement Volume (excluding ichthyoplankton)
+   -402,Total Settled Volume (excluding ichthyoplankton)
+   -403,Total Wet Weight (excluding ichthyoplankton)
+   -404,Total Dry Weight (excluding ichthyoplankton)
+   -405,Total Ashfree Dry Weight (excluding ichthyoplankton)
+   -500,All Ichthyoplankton Biomass Types
+   -501,Ichthyoplankton Displacement Volume 
+   -503,Ichthyoplankton Wet Weight
+

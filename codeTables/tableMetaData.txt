@@ -1,0 +1,69 @@
+tableName	code name or description	headers	units
+b_4_type_tow.txt	Type of tow	units,WOD code	-
+b_6_large_removed.txt	Large plankters removed	units,WOD code	-
+b_7_gear_and_flowmeter.txt	Gear	units,WOD code	-
+b_10_preservative_method.txt	Preservation method	units,WOD code	-
+b_11_weight_method.txt	Weight method	units,WOD code	-
+b_13_count_method.txt	Count method	units,WOD code	-
+b_19_flowmeter_calibration.txt	Flowmeter calibration	units,WOD code	-
+b_24_depth_determined.txt	Depth determination	units,WOD code	-
+b_25_volume_method.txt	Volume method	units,WOD code	-
+b_30_accession.txt	Accession_number	units,NODC code	Acc#,date submitted (mm/dd/yyyy),date entered in database(mm/dd/yyyy),submitting person,submitting institute
+s_1_accession.txt	Accession	units,NODC code	Accession #,Date Submitted (mm/dd/yyyy),Date entered in database (mm/dd/yyyy),Submitting person,Submitting institute
+s_2_project.txt	Project	units,NODC code	-
+s_3_platform.txt	Platform	units,OCL code	-
+s_3_platforms_withNODC.txt	Platform	units,OCL code	-
+s_4_institute.txt	Institute	units,NODC code	-
+s_4_institutes_withNODC.txt	NODC_code	units,NODC code	-
+s_9_weather_station.txt	Ocean Weather Station	units,WOD Code	-
+s_12_cast_direction.txt	Cast direction	-	-
+s_14_water_color.txt	Water color	units,Extended Forel-Ule Scale	-
+s_16_wave_direction.txt	Wave direction	units,WMO code 0877	-
+s_17_wave_height.txt	Wave Height	units,WMO code 01555	-
+s_18_sea_state.txt	Sea State	units,WMO code 3700	-
+s_19_wind_force.txt	Wind Force	units,Beaufort Scale	-
+s_20_wave_period.txt	Wave Period	units,WMO code 3155	-
+s_21_wind_direction.txt	Wind Direction	-	-
+s_26_weather_condition.txt	weather condition	Code,Description	-
+s_27_cloud_type.txt	Cloud type	units,WMO code 500	-
+s_28_cloud_cover.txt	Cloud cover	units,WMO code 2700	-
+s_29_probe_type.txt	probe_type	-	-
+s_32_bt_recorder.txt	Recorder type	units,WMO code 4770	-
+s_35_digitization_method.txt	Digitization method	units,NODC code 0612	-
+s_36_digitization_interval.txt	Digitization interval	units,NODC code 0613	-
+s_37_data_storage.txt	Data treatment and storage method	units,NODC code 0614	-
+s_40_ref_instrument.txt	ref instrument	CODE,DESCRIPTION	-
+s_41_visibility.txt	Visibility	units,WMO code 4300	-
+s_54_needs_depth_fix.txt	needs_depth_fix	units,WOD code	-
+s_74_ocean_vehicle.txt	Ocean vehicle type	units,WOD code	-
+s_84_argos_fix.txt	ARGOS satellite fix error mean	units,kilometers	-
+s_91_database_id.txt	Database origin	units,WOD code	-
+s_92_ukho_ref.txt	ukho ref	CODE,REFERENCE	-
+s_95_depth_unit.txt	Depth unit	units,NODC code	-
+s_96_origflagset.txt	Originators flag set to use	units,WOD code	-
+s_97_sampler.txt	Discrete Water Sampler	-	-
+t_1_taxa_list.txt	No code name	-	ITIS TSN,PGC code,Rank,Taxonomic Name -[ Author or comments ]-
+t_5_taxon_lifestage.txt	lifestage	units,WOD code table	-
+t_7_taxon_presence_abundance.txt	taxonomic abundance	units,WOD code table	-
+t_8_taxon_trophic_level.txt	trophic level	units,WOD code table	-
+t_9_taxon_realm.txt	realm	units,WOD code table	-
+t_16_taxon_feature.txt	Count method	units,WOD code	-
+t_17_taxon_modifier.txt	taxonomic modifier	units,WOD code table	-
+t_18_size_min.txt	minimum size	-	-
+t_19_size_max.txt	maximum size	-	-
+t_20_units.txt	units	units,WOD code table	-
+t_26_count_method.txt	Count method	units,WOD code	-
+t_27_cbv_value.txt	WOD Comparable Biological Value	-	#/ul, #/ml, #/m<sup>3</sup>, #/m<sup>3</sup>, ml/m<sup>3</sup>, ml/m<sup>3</sup>, ml/m<sup>3</sup>, mg/m<sup>3</sup>, mg/m<sup>3</sup>, mg/m<sup>3</sup>, mg/m<sup>3</sup>, m<sup>3</sup>/m<sup>3</sup>, kg/m<sup>3</sup>
+t_28_cbv_calculation_method.txt	comparable biology value calculation method	units,WOD code table	-
+t_30_biological_group.txt	Plankton Crouping Codes	units,WOD code table	-
+v_1_accession.txt	Accession_number	units,NODC code	Acc#,date submitted (mm/dd/yyyy),date entered in database(mm/dd/yyyy),submitting person,submitting institute
+v_2_project.txt	Project	units,NODC code	-
+v_3_scale.txt	scale	CODE,DESCRIPTION	-
+v_4_institute.txt	Institute	units,NODC code	-
+v_5_instrument.txt	Instrument	units,WOD code	-
+v_6_methods.txt	methods	CODE,DESCRIPTION	-
+v_8_orig_units.txt	orig units	CODE,DESCRIPTION	-
+v_10_equilibrator_type.txt	equilibrator type	CODE,DESCRIPTION	-
+v_11_filter_type_and_size.txt	filter type and size	CODE,DESCRIPTION	-
+v_12_incubation_time.txt	incubation time	CODE,DESCRIPTION	-
+t_6_taxon_sex.txt	sex	units,WOD code table	-

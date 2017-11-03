@@ -1,0 +1,65 @@
+code_name,Plankton Crouping Codes
+units,WOD code table
+1000000,BACTERIA
+1050000,Cyanobacteria
+2000000,PHYTOPLANKTON
+2040000,Granuloreticulosa (Foraminifera)
+2070000,Dinomastigota (Dinoflagellata)
+2080000,Ciliophora (ciliates)
+2100000,Haptomonada (Coccolithophorids)
+2110000,Cryptomonada (Chrytophyta)
+2120000,Discomitochondria
+2130000,Chrysomonada (Chrysophyta)
+2160000,Diatoms (Bacillariophyta)
+2270000,Actinopoda (amoeba)
+2280000,Chlorophyta (green algae)
+4000000,ZOOPLANKTON
+4020000,Porifera (sponges)
+4030000,Cnidaria (coelenterates)
+4040000,Ctenophora (comb jellies)
+4050000,Platyhelminthes (flat worms)
+4090000,Nemertina (ribbon worms)
+4100000,Nematoda (round worms)
+4130000,Rotifera (rotifers)
+4180000,Entoprocta
+4190000,Arthropoda:  Chelicerata
+4200000,Arthropoda:  Mandibulata  ('insects')
+4210000,Arthropoda:  Crustacea
+4211000,Crustacea:  Ostracoda
+4212000,Crustacea:  Copepoda
+4213000,Crustacea:  Cirripedia (barnacles)
+4214000,Crustacea:  Mysidacea
+4216000,Crustacea:  Isopoda
+4217000,Crustacea:  Amphipoda
+4218000,Crustacea:  Euphausiacea
+4219000,Crustacea:  Decapoda
+4220000,Annelida (segmented worms)
+4230000,Sipuncula
+4250000,Pogonophora (bearded tube worms)
+4260000,Mollusca
+4262500,Mollusca:  Gastropoda (snails & slugs)
+4265000,Mollusca:  Bivalvia (bivalve molluscs)
+4266000,Mollusca:  Scaphopoda (tusk or tooth shells)
+4267500,Mollusca:  Cephalopoda
+4270000,Tardigrada (water bears)
+4290000,Bryozoa (byrozoans)
+4300000,Brachiopoda (lamp shells)
+4310000,Phoronida
+4320000,Chaetognatha (arrow worms)
+4330000,Hemichordata
+4340000,Echinodermata
+4350000,Urochordata
+4352500,Urochordata:  Ascidiacea (sea squirts)
+4355000,Urochordata:  Thaliacea  (salps & doliolids)
+4357500,Urochordata:  Larvacea/Appendicularia
+4360000,Cephalochordata/Leptocardia
+5000000,ICHTHYOPLANKTON
+   -400, All Biomass Types (excluding ichthyoplankton)
+   -401, Total Displacement Volume (excluding ichthyoplankton)
+   -402, Total Settled Volume (excluding ichthyoplankton)
+   -403, Total Wet Weight (excluding ichthyoplankton)
+   -404, Total Dry Weight (excluding ichthyoplankton)
+   -405, Total Ashfree Dry Weight (excluding ichthyoplankton)
+   -500, All Ichthyoplankton Biomass Types
+   -501, Ichthyoplankton Displacement Volume
+   -503, Ichthyoplankton Wet Weight

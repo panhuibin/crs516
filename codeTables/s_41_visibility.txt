@@ -1,0 +1,12 @@
+code_name,Visibility
+units,WMO code 4300
+0 LESS THAN 50 METERS
+1,50 - 200 METERS
+2,200 - 500 METERS
+3,500 - 1000 METERS
+4,1 - 2 KM
+5,2 - 4 KM
+6,4 - 10 KM
+7,10 - 20 KM
+8,20 - 50 KM
+9,50 KM OR MORE

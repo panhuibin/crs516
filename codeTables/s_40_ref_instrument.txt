@@ -1,0 +1,12 @@
+Code table: s_40_ref_instrument; Code source: NODC code 0615,
+,
+CODE,DESCRIPTION
+1,Bucket
+2,"Injection, or unverified bucket notation, or unknown"
+3,Nansen cast (reversing thermometer)
+4,Thermograph
+5,Special calibration thermometer or equipment
+6,BT
+7,STD
+9,Hull contact sensor
+10,Engine intake

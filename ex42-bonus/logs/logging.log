@@ -1,0 +1,143 @@
+14:38:32,400  INFO Client:35 - engine located 
+14:38:32,432 ERROR Client:46 - Failed to get engine
+java.rmi.ServerException: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.io.InvalidClassException: com.ltree.crs516.tasks.CompositeCommandImpl; local class incompatible: stream classdesc serialVersionUID = 6458442696823807326, local class serialVersionUID = -6265536217992336176
+	at sun.rmi.server.UnicastServerRef.dispatch(Unknown Source)
+	at sun.rmi.transport.Transport$1.run(Unknown Source)
+	at sun.rmi.transport.Transport$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(Unknown Source)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(Unknown Source)
+	at sun.rmi.server.UnicastRef.invoke(Unknown Source)
+	at java.rmi.server.RemoteObjectInvocationHandler.invokeRemoteMethod(Unknown Source)
+	at java.rmi.server.RemoteObjectInvocationHandler.invoke(Unknown Source)
+	at $Proxy0.submitTask(Unknown Source)
+	at com.ltree.crs516.tasks.Client.prepareAndSubmitCommand(Client.java:43)
+	at ClientStarter.main(ClientStarter.java:26)
+Caused by: java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.io.InvalidClassException: com.ltree.crs516.tasks.CompositeCommandImpl; local class incompatible: stream classdesc serialVersionUID = 6458442696823807326, local class serialVersionUID = -6265536217992336176
+	at sun.rmi.server.UnicastServerRef.dispatch(Unknown Source)
+	at sun.rmi.transport.Transport$1.run(Unknown Source)
+	at sun.rmi.transport.Transport$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.InvalidClassException: com.ltree.crs516.tasks.CompositeCommandImpl; local class incompatible: stream classdesc serialVersionUID = 6458442696823807326, local class serialVersionUID = -6265536217992336176
+	at java.io.ObjectStreamClass.initNonProxy(Unknown Source)
+	at java.io.ObjectInputStream.readNonProxyDesc(Unknown Source)
+	at java.io.ObjectInputStream.readClassDesc(Unknown Source)
+	at java.io.ObjectInputStream.readOrdinaryObject(Unknown Source)
+	at java.io.ObjectInputStream.readObject0(Unknown Source)
+	at java.io.ObjectInputStream.readObject(Unknown Source)
+	at sun.rmi.server.UnicastRef.unmarshalValue(Unknown Source)
+	... 11 more
+14:40:04,220  INFO TaskEngineStarter:60 - RMI registry ready.
+14:40:04,300  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+14:40:09,598  INFO Client:36 - engine located 
+14:40:09,614  INFO Client:45 - command submitted to task engine
+14:40:24,630  INFO TaskEngineImpl:50 - Task engine says bye!.
+11:37:31,629  INFO Client:36 - engine located 
+11:37:31,645  INFO Client:45 - command submitted to task engine
+11:37:46,610  INFO Client:36 - engine located 
+11:37:46,610  INFO Client:45 - command submitted to task engine
+09:56:57,930 ERROR TaskEngineStarter:64 - Failed to start engine because there is another taskengine running on that port
+09:57:03,825  INFO Client:28 - engine located 
+09:57:04,138  INFO Client:37 - commandImpl created 
+09:57:04,185 ERROR Client:45 - Failed to get engine
+java.rmi.ServerException: RemoteException occurred in server thread; nested exception is: 
+	java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.io.IOException: unexpected exception type
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:354)
+	at sun.rmi.transport.Transport$1.run(Transport.java:178)
+	at sun.rmi.transport.Transport$1.run(Transport.java:175)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:174)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:557)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:812)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:671)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+	at sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(StreamRemoteCall.java:276)
+	at sun.rmi.transport.StreamRemoteCall.executeCall(StreamRemoteCall.java:253)
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:162)
+	at java.rmi.server.RemoteObjectInvocationHandler.invokeRemoteMethod(RemoteObjectInvocationHandler.java:194)
+	at java.rmi.server.RemoteObjectInvocationHandler.invoke(RemoteObjectInvocationHandler.java:148)
+	at com.sun.proxy.$Proxy0.submitTask(Unknown Source)
+	at com.ltree.crs516.tasks.Client.prepareAndSubmitCommand(Client.java:41)
+	at ClientStarter.main(ClientStarter.java:24)
+Caused by: java.rmi.UnmarshalException: error unmarshalling arguments; nested exception is: 
+	java.io.IOException: unexpected exception type
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:311)
+	at sun.rmi.transport.Transport$1.run(Transport.java:178)
+	at sun.rmi.transport.Transport$1.run(Transport.java:175)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:174)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:557)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:812)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:671)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: java.io.IOException: unexpected exception type
+	at java.io.ObjectStreamClass.throwMiscException(ObjectStreamClass.java:1538)
+	at java.io.ObjectStreamClass.invokeReadResolve(ObjectStreamClass.java:1110)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1810)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at java.util.ArrayList.readObject(ArrayList.java:776)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at java.io.ObjectStreamClass.invokeReadObject(ObjectStreamClass.java:1017)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1896)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.defaultReadFields(ObjectInputStream.java:1993)
+	at java.io.ObjectInputStream.readSerialData(ObjectInputStream.java:1918)
+	at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:1801)
+	at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1351)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:371)
+	at sun.rmi.server.UnicastRef.unmarshalValue(UnicastRef.java:326)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:308)
+	... 10 more
+Caused by: java.lang.NoSuchMethodException: com.ltree.crs516.tasks.Client.$deserializeLambda$(java.lang.invoke.SerializedLambda)
+	at java.lang.Class.getDeclaredMethod(Class.java:2117)
+	at java.lang.invoke.SerializedLambda$1.run(SerializedLambda.java:224)
+	at java.lang.invoke.SerializedLambda$1.run(SerializedLambda.java:221)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.lang.invoke.SerializedLambda.readResolve(SerializedLambda.java:221)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at java.io.ObjectStreamClass.invokeReadResolve(ObjectStreamClass.java:1104)
+	... 29 more
+09:59:00,881  INFO TaskEngineStarter:97 - Registry is already closed
+09:59:00,881  INFO TaskEngineStarter:99 - Registry is closed
+09:59:09,118  INFO TaskEngineStarter:60 - RMI registry ready.
+09:59:09,197  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+09:59:13,740  INFO Client:28 - engine located 
+09:59:13,782  INFO Client:37 - commandImpl created 
+09:59:13,833  INFO Client:43 - command submitted to task engine
+09:59:20,494  INFO TaskEngineImpl:50 - Task engine says bye!.
+10:56:26,928  INFO TaskEngineStarter:60 - RMI registry ready.
+10:56:27,001  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+10:56:32,289  INFO Client:28 - engine located 
+10:56:32,333  INFO Client:41 - commandImpl created 
+10:56:32,386  INFO Client:47 - command submitted to task engine
+10:56:37,205  INFO TaskEngineImpl:50 - Task engine says bye!.

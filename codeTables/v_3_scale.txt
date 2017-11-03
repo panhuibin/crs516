@@ -1,0 +1,9 @@
+Code table: v_3_scale,
+,
+CODE,DESCRIPTION
+102,Temperature: T68 (IPTS-68)
+103,Temperature: ITS-90 
+202,Salinity: PSS78
+203,Salinity: unknown (pre-PSS78)
+1461,pH:SWS25
+1462,pH:NB25

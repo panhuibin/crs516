@@ -1,0 +1,4 @@
+Examine DataServiceLocator in com.ltree.crs516.taskengine
+Edit the CommandBytesInProfileImpl, CommandCountryImpl, and CommandCruiseNumberImpl
+Edit the Client
+Run TaskEngineStarter and ClientStarter

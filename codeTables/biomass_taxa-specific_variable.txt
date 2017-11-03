@@ -1,0 +1,31 @@
+#From table 7
+#ID	DESCRIPTION	App
+1	Variable number (>0 ITIS taxon code, <0 WOD taxon or group code)	File
+15	Taxon ash-free weight (mg or ng/UNIT)	none
+2	Upper depth (meters)
+16	Taxon feature	5.6
+3	Lower depth (meters)
+17	Taxon modifier	5.7
+4	Biomass value
+18	Size min (mm)	5.8
+5	Taxon lifestage	5.1
+19	Size max (mm)	5.8
+6	Taxon sex code	5.2
+20	Originators Unit	3.4
+7	Taxon present	5.3
+21	Taxon radius (&#0181;m)
+8	Taxon trophic mode	5.4
+22	Taxon length (&#0181;m)
+9	Taxon realm	5.5
+23	Taxon width (&#0181;m)
+10	Taxon count (count of taxon/UNIT)
+25	Taxon carbon content (mg or ng/UNIT)
+11	Sample-specific sample volume (m3 or ml/UNIT)
+26	Count method	5.9
+12	Taxon volume (ml or pl/UNIT)
+27	Common Base-unit Value (CBV)	5.10
+13	Taxon wet weight (g or &#0181;g/UNIT)
+28	CBV calculation method	5.11
+14	Taxon dry weight (g or &#0181;g/UNIT)
+30	Plankton Grouping Code (PGC)
+6	The following is a description of biomass and taxa-specific variables listed in Table 7:

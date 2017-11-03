@@ -1,0 +1,11 @@
+code_name,trophic level
+units,WOD code table
+1,AUTOTROPH (unspecified)  also "holophytic"
+2,AUTOTROPH-CHEMO
+3,AUTOTROPH-PHOTO
+4,HETEROTROPH (unspecified)  also "holozoic"
+5,HETEROTROPH-PARASITIC
+6,HETEROTROPH-SAPROPHYTIC 
+7,PLASTIDIC; has plastids
+8,NON-PLASTIDIC; does not have plastids
+9,OLIGOTROPH 

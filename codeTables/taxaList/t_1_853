@@ -1,0 +1,71 @@
+85343,4212010,genus,Acrocalanus   -[  Giesbrecht; 1888 ]-
+85344,4212010,species,Acrocalanus longicornis   -[  Giesbrecht; 1888 ]-
+85345,4212010,species,Acrocalanus monachus   -[  Giesbrecht; 1888 ]-
+85333,4212010,genus,Calocalanus   -[  Giesbrecht;1888 ]-
+85339,4212010,species,Calocalanus contractus   -[  Farran; 1926 ]-
+85340,4212010,species,Calocalanus elegans   -[  Schmeleva; 1965 ]-
+85341,4212010,species,Calocalanus gracilis   -[  Tanaka; 1956 ]-
+85342,4212010,species,Calocalanus neptunus   -[  Schmeleva; 1965 ]-
+85338,4212010,species,Calocalanus ovalis   -[  Schmeleva; 1965 ]-
+85335,4212010,species,Calocalanus pavo   -[  (Dana; 1852) ]-
+85337,4212010,species,Calocalanus pavoninus   -[  Farran; 1936 ]-
+85336,4212010,species,Calocalanus plumulosus   -[  (Claus) ]-
+85334,4212010,species,Calocalanus styliremis   -[  Giesbrecht; 1888 ]-
+85350,4212010,species,Calocalanus tenuis   -[  Farran; 1826 ]-
+85352,4212010,genus,Clausocalanus   -[  Giesbrecht;1888 ]-
+85353,4212010,species,Clausocalanus arcuicornis   -[  (Dana; 1849) ]-
+85355,4212010,species,Clausocalanus furcatus   -[  (Brady; 1883) ]-
+85359,4212010,species,Clausocalanus jobei   -[  Frost & Fleminger; 1968 ]-
+85358,4212010,species,Clausocalanus lividus   -[  Frost & Fleminger; 1968 ]-
+85360,4212010,species,Clausocalanus mastigophorus   -[  Claus; 1866 ]-
+85357,4212010,species,Clausocalanus parapergens   -[  Frost & Fleminger; 1968 ]-
+85361,4212010,species,Clausocalanus paululus   -[  Farran; 1926 ]-
+85356,4212010,species,Clausocalanus pergens   -[  Farran; 1926 ]-
+85362,4212010,genus,Ctenocalanus   -[  Giesbrecht; 1888 ]-
+85363,4212010,species,Ctenocalanus vanus   -[  Giesbrecht; 1888 ]-
+85300,4212010,genus,Eucalanus   -[  Dana; 1852 ]-
+85302,4212010,species,Eucalanus bungii   -[  Giesbrecht; 1892 ]-
+85304,4212010,subspecies,Eucalanus bungii bungii   -[  Giesbrecht; 1892 ]-
+85303,4212010,subspecies,Eucalanus bungii californicus   -[  Johnson; 1935 ]-
+85309,4212010,species,Eucalanus crassus   -[  Giesbrecht; 1888 ]-
+85305,4212010,species,Eucalanus elongatus   -[  (Dana; 1848) ]-
+85306,4212010,species,Eucalanus inermis   -[  Giesbrecht; 1892 ]-
+85308,4212010,species,Eucalanus monachus   -[  Giesbrecht; 1888 ]-
+85311,4212010,species,Eucalanus mucronatus   -[  Giesbrecht; 1888 ]-
+85307,4212010,species,Eucalanus pileatus   -[  Giesbrecht; 1888 ]-
+85312,4212010,species,Eucalanus sewelli   -[  Fleminger; 1973 ]-
+85314,4212010,species,Eucalanus subcrassus   -[  Giesbrecht; 1888 ]-
+85313,4212010,species,Eucalanus subtenuis   -[  Giesbrecht; 1888 ]-
+85319,4212010,genus,Mecynocera   -[  I.C. Thompson; 1888 ]-
+85320,4212010,species,Mecynocera clausi   -[  I.C. Thompson; 1888 ]-
+85366,4212010,genus,Microcalanus   -[  Sars; 1901 ]-
+85367,4212010,species,Microcalanus pusillus   -[  (Sars; 1903) ]-
+85368,4212010,species,Microcalanus pygmaeus   -[  Sars; 1900 ]-
+85377,4212010,genus,Mimocalanus   -[  Farran; 1908 ]-
+85379,4212010,species,Mimocalanus cultrifer   -[  Farran; 1908 ]-
+85389,4212010,species,Monacilla typica   -[  G.O. Sars; 1905 ]-
+85321,4212010,family,Paracalanidae   -[  Giesbrecht; 1892 ]-
+85322,4212010,genus,Paracalanus   -[  Boeck;1865 ]-
+85328,4212010,species,Paracalanus aculeatus   -[  Girsbrecht; 1888 ]-
+85324,4212010,species,Paracalanus crassirostris   -[  Dahl; 1894 ]-
+85329,4212010,species,Paracalanus denudatus   -[  Sewell; 1929 ]-
+85326,4212010,species,Paracalanus indicus   -[  Wolfenden ]-
+85331,4212010,species,Paracalanus nanus   -[  (G.O. Sars; 1907) ]-
+85330,4212010,species,Paracalanus nudus   -[  Sewell; 1929 ]-
+85323,4212010,species,Paracalanus parvus   -[  (Claus; 1863) ]-
+85332,4212010,species,Paracalanus pygmaeus   -[  (Claus; 1863) ]-
+85327,4212010,species,Paracalanus quasimodo   -[  Bowman; 1971 ]-
+85325,4212010,species,Parvocalanus crassirostris  -[  (F. Dahl; 1894) ]-
+85351,4212010,family,Pseudocalanidae   -[  Sars; 1901 ]-
+85369,4212010,genus,Pseudocalanus   -[  Boeck; 1872 ]-
+85370,4212010,species,Pseudocalanus elongatus   -[  (Boeck; 1865) ]-
+85373,4212010,species,Pseudocalanus major   -[  G.O. Sars; 1900 ]-
+85371,4212010,species,Pseudocalanus minutus   -[  (Kroyer; 1845) ]-
+85316,4212010,genus,Rhincalanus   -[  Dana; 1852 ]-
+85317,4212010,species,Rhincalanus cornutus   -[  Dana; 1852 ]-
+85318,4212010,species,Rhincalanus nasutus   -[  Giesbrecht; 1888 ]-
+85376,4212010,family,Spinocalanidae   -[  Vervoort; 1951 ]-
+85390,4212010,genus,Spinocalanus   -[  Giesbrecht; 1888 ]-
+85391,4212010,species,Spinocalanus abruptus   -[  Grice & Hulsemann; 1965 ]-
+85392,4212010,species,Spinocalanus abyssalis   -[  Giesbrecht; 1888 ]-
+85396,4212010,species,Spinocalanus brevicaudatus   -[  Brodsky; 1950 ]-

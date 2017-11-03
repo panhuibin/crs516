@@ -1,0 +1,19 @@
+code_name	probe_type
+units	OCL_code
+0	unknown
+1	MBT
+2	XBT
+3	DBT
+4	CTD
+5	STD
+6	XCTD
+7	bottle/rossette/net
+8	underway/intake
+9	profiling float
+10	moored buoy
+11	drifting buoy
+12	towed CTD
+13	animal mounted
+14	bucket
+15	glider
+16	microBT

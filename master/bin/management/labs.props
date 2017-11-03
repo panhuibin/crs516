@@ -1,0 +1,63 @@
+#a=b
+#Fix DataConstants
+docs=@drive@\\docs
+
+demos=donow31,donow42,donow71,donow72
+
+exercises=ex11,ex21,ex22,ex22-bonus,ex31,ex31-bonus,ex32,ex32-bonus,ex32-bonus2,ex33,ex33-bonus,ex41,ex41-bonus,ex42,ex42-bonus,ex42-bonus2,\
+ex43,ex43-bonus,ex51,ex52,ex61,ex62,ex71
+
+#ex61 is the robot exercise and so not in sequence
+#Because it is not in sequence don't do things like ex61@ex62 as those don't follow from one another!!!
+#ex41-client,ex42-client,ex42-client-bonus,ex43-client,,\
+#ex41-shared,ex42-shared,ex43-shared,ex51-shared,ex52-shared,\
+#ex41-taskengine,ex42-taskengine,ex43-taskengine,ex51-taskengine,ex52-taskengine,\
+
+verbatimFolders=WebContent\\images
+#verbatimExercises=ex82-web,ex83-web
+verbatimExercises=
+version=Goes with course notes version k.3
+
+deletes=ex33-bonus\\src\\com\\ltree\\crs516\\client\\AbstractTab.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\Displayhelper.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\BiologyDisplayHelper.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\CharacterDataDisplayHelper.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\DisplayTab.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\Displayer.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\BiologyHeaderDisplayer.java,\
+ex33-bonus\\src\\com\\ltree\\crs516\\client\\CharacterDataDisplayer.java,\
+ex33-bonus\\tests\\com\\ltree\\crs516\\client\\DisplayTabTest.java,\
+ex41\\src\\com\\ltree\\crs516\\taskengine\\Command.java,\
+ex41\\src\\com\\ltree\\crs516\\tasks\\CommandImpl.java,\
+ex42\\src\\com\\ltree\\crs516\\tasks\\TaskEngineLocator.java,\
+ex42-bonus2\\src\\com\\ltree\\crs516\\tasks\\TaskEngineLocator.java,\
+ex43\\src\\com\\ltree\\crs516\\tasks\\Action.java,\
+ex51\\profile.txt,\
+ex71\\src\\com\\ltree\\crs516\\domain\\IStation.java,\
+ex71\\src\\com\\ltree\\crs516\\domain\\StationProxy.java,\
+solution-ex21\\hints_adjustment\\InstallFilesWithReducedHints.java,\
+#solution-ex33-bonus\\src\\com\\ltree\\crs516\\client\\BiologyHeaderTab.java,\
+#solution-ex33-bonus\\src\\com\\ltree\\crs516\\client\\CharacterDataTab.java,\
+#solution-ex33-bonus\\src\\com\\ltree\\crs516\\client\\AbstractTab.java,\
+#solution-ex33-bonus\\tests\\com\\ltree\\crs516\\client\\BiologyHeaderTabTest.java,\
+#solution-ex33-bonus\\tests\\com\\ltree\\crs516\\client\\CharacterDataTabTest.java,\
+#ex42\\src\\com\\ltree\\crs516\\tasks\\CompositeCommandImpl.java,\
+jmeterjars\\ex51.jar
+
+
+#For strip
+deleteFoldersInStrip=src,hints_adjustment,target,tests,tests-slow,WebContent,bin,tests-bin,store,build,ejbModule,hints
+
+#For links to documentation
+documentationLinks=Java SE 8 Documentation||file:///@drive@/docs/javase/jdk-8u5-apidocs/docs/index.html,\
+Java SE 8 API||file:///@drive@/docs/javase/jdk-8u5-apidocs/docs/api/index.html,\
+Java EE 6 API||file:///C:/glassfish3/glassfish/docs/api/index.html,\
+JUnit Javadoc||file:///@drive@/docs/junit/junit4.10/junit4.10/javadoc/index.html,\
+Hamcrest Matchers Javadoc||file:///@drive@/docs/hamcrest/index.html,\
+Mockito Javadoc||file:///@drive@/docs/mockito-1.9.5-rc1/javadoc/index.html,\
+Spring Framework||file:///@drive@/docs/spring/spring-framework-reference.pdf,\
+World Ocean Database Introduction||file:///@drive@/docs/WOD/wod09_intro.pdf,\
+World Ocean Database Readme||file:///@drive@/docs/WOD/wod09readme.pdf,\
+World Ocean Database Example Data File||file:///@drive@/docs/WOD/example.txt
+
+

@@ -1,0 +1,13 @@
+23:40:36,977  INFO FileBasedDataService:165 - Cleaning up work directory
+23:40:36,993  INFO FileBasedDataService:155 - Service ID is 0
+23:43:17,120  INFO FileBasedDataService:165 - Cleaning up work directory
+23:43:17,120  INFO FileBasedDataService:155 - Service ID is 0
+23:43:38,839  INFO FileBasedDataService:165 - Cleaning up work directory
+23:43:38,839  INFO FileBasedDataService:155 - Service ID is 0
+23:43:46,636  INFO WODController:155 - Loading C:\crs516\sourcecode\data\test.txt
+23:43:46,778  INFO WODController:186 - About to read file test.txt
+23:43:46,778  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Mar 30 23:43:46 EDT 2014
+23:43:46,778  INFO FileBasedDataService:313 - dataSize is now 1
+23:43:46,778  INFO FileBasedDataService:269 - Reading block C:\crs516\sourcecode\work\0/0.db
+23:43:46,778  INFO FileBasedDataService:103 - Data from C:\crs516\sourcecode\data\test.txt loaded
+23:43:47,231  INFO WODController:193 - All stations from test.txt are loaded!

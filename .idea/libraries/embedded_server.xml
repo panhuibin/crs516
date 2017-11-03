@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="embedded server">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/embedded server" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/embedded server" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/embedded server" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/embedded server" recursive="false" type="SOURCES" />
+  </library>
+</component>

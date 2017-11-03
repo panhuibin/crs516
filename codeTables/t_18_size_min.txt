@@ -1,0 +1,6 @@
+code_name,minimum size
+units,code table (if <0), mm (if >0)
+-1,SMALL
+-2,MEDIUM
+-3,LARGE
+-4,VERY SMALL

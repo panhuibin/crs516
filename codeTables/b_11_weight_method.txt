@@ -1,0 +1,8 @@
+code_name,Weight method
+units,WOD code
+1,TOTAL CATCH; wet weight of the total catch Bogorov, 1951. Trans. Inst. Oce. Acad. Sci. USSR 5:54-62. (Russian)
+2,BOFS PROTOCOL; BOFS mesomass ashfree drywgt protocol
+3,ZOOPLANKTON CALCULATED; Individual weight of organisms calculated from body length using tables of Standard Weights (Kanaeva 1962; Shmeleva 1963; Kryilov 1968; Gruzov 1970) or nomograms (Chislenko 1968)
+4,PHYTOPLANKTON CALCULATED; Biomasses of phytoplankton algae were calculated considering cells' volumes by equating real or average volumes of cells to corresponding geometric figures
+1001,PRIME ("carbon"); No other info
+

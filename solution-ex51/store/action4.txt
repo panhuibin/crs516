@@ -1,0 +1,36 @@
+	/**
+	 * Key idea: The Stations are massive objects but we only need the latitudes 
+	 * and longitudes. The large data sets have tens of thousands of stations 
+	 * which won't fit in memory but tens of thousands of doubles are trivial.
+	 * Just read all of the stations in sequence storing the latitudes and 
+	 * longitudes and work with them.
+	 */
+	public void action4() {
+		double maxDistance = 0;
+		double[][] stationLocations = new double[dataService.size()][];
+		// Extract latitude and longitudes from the stations.
+		try {
+			for (int i = 0; i < dataService.size(); i++) {
+				Station station = dataService.read(i);//Stations read only 
+													//once and in sequence.
+				double latitude = Double.parseDouble(station
+						.getLatitudeString());
+				double longitude = Double.parseDouble(station
+						.getLongitudeString());
+				stationLocations[i] = new double[] { latitude, longitude };
+					//double[] of length 2 is much smaller than a whole Station
+			}
+		} catch (RecordNotFoundException | IOException e) {
+			e.printStackTrace();
+		}
+
+		for (int i = 0; i < dataService.size(); i++) {
+			for (int j = i + 1; j < dataService.size(); j++) {
+				maxDistance = max(
+						maxDistance,
+						calculateDistance(stationLocations[i],
+								stationLocations[j]));
+			}
+		}
+		maximumDistance = Math.sqrt(maxDistance)*DistanceUnits.KILOMETERS.factor;
+	}

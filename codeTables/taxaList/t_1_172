@@ -1,0 +1,88 @@
+172250,5000000,family,Acanthuridae 
+172751,5000000,genus,Ancylopsetta 
+172536,5000000,genus,Ariomma 
+172860,5000000,genus,Atheresthes 
+172862,5000000,species,Atheresthes stomias   -[  (Jordan & Gilbert) ]-
+172454,5000000,genus,Auxis 
+172714,5000000,family,Bothidae 
+172758,5000000,genus,Bothus 
+172761,5000000,species,Bothus ocellatus   -[  (Agassiz) ]-
+172715,5000000,genus,Citharichthys 
+172719,5000000,species,Citharichthys arctifrons   -[  Goode ]-
+172721,5000000,species,Citharichthys cornutus   -[  (Guenther) ]-
+172723,5000000,species,Citharichthys gymnorhinus 
+172724,5000000,species,Citharichthys macrops   -[  Dresel ]-
+172725,5000000,species,Citharichthys spilopterus   -[  Guenther ]-
+172717,5000000,species,Citharichthys stigmaeus   -[  Jordan & Gilbert ]-
+172966,5000000,species,Cleisthenes herzensteini   -[  (Schmidt) ]-
+172546,5000000,species,Cubiceps pauciradiatus   -[  Guenther; 1872 ]-
+172775,5000000,genus,Cyclopsetta 
+172777,5000000,species,Cyclopsetta fimbriata   -[  (Goode & Bean) ]-
+172376,5000000,species,Diplospinus multistriatus 
+172870,5000000,species,Eopsetta exilis   -[  (Jordan & Gilbert; 1880) ]-
+172977,5000000,species,Errex zachirus   -[  (Lockington; 1879) ]-
+172728,5000000,genus,Etropus 
+172729,5000000,species,Etropus crossotus   -[  Jordan & Gilbert ]-
+172730,5000000,species,Etropus microstomus   -[  (Gill) ]-
+172732,5000000,species,Etropus rimosus   -[  Goode & Bean ]-
+172402,5000000,species,Euthynnus alletteratus   -[  (Rafinesque; 1810) ]-
+172400,5000000,species,Euthynnus pelamis   -[  Linnaeus ]-
+172354,5000000,family,Gempylidae 
+172360,5000000,species,Gempylus serpens   -[  Cuvier ]-
+172978,5000000,species,Glyptocephalus zachirus (syn) 
+172990,5000000,genus,Gymnachirus 
+172874,5000000,genus,Hippoglossoides 
+172875,5000000,species,Hippoglossoides elassodon   -[  Jordan & Gilbert ]-
+172876,5000000,species,Hippoglossoides robustus   -[  Gill & Townsend ]-
+172932,5000000,species,Hippoglossus stenolepis   -[  Schmidt ]-
+172511,5000000,genus,Hyperoglyphe 
+172486,5000000,family,Istiophoridae 
+172488,5000000,species,Istiophorus platypterus   -[  (Shaw & Nodder) ]-
+172917,5000000,species,Lepidopsetta bilineata (syn) 
+172390,5000000,genus,Lepidopus 
+172907,5000000,species,Limanda aspera (syn) 
+172909,5000000,species,Limanda ferruginea 
+172161,5000000,family,Microdesmidae 
+172887,5000000,species,Microstomus pacificus   -[  (Lockington) ]-
+172785,5000000,genus,Monolene 
+172734,5000000,genus,Paralichthys 
+172735,5000000,species,Paralichthys dentatus   -[  (Linnaeus) ]-
+172738,5000000,species,Paralichthys lethostigma   -[  Jordan & Gilbert ]-
+172921,5000000,species,Parophrys vetulus (syn) 
+172564,5000000,genus,Peprilus 
+172568,5000000,species,Peprilus burti   -[  Fowler ]-
+172566,5000000,species,Peprilus paru   -[  (Linnaeus) ]-
+172892,5000000,genus,Platichthys 
+172893,5000000,species,Platichthys stellatus   -[  (Pallas) ]-
+172906,5000000,species,Pleuronectes asper   -[  Pallas; 1814 ]-
+172916,5000000,species,Pleuronectes bilineata   -[  (Ayres; 1855) ]-
+172918,5000000,species,Pleuronectes isolepis   -[  (Lockington; 1880) ]-
+172901,5000000,species,Pleuronectes quadrituberculatus   -[  Pallas ]-
+172859,5000000,family,Pleuronectidae 
+172702,5000000,order,Pleuronectiformes 
+172924,5000000,species,Pleuronichthys decurrens   -[  Jordan & Gilbert ]-
+172555,5000000,genus,Psenes 
+172558,5000000,species,Psenes pellucidus   -[  Lutken ]-
+172928,5000000,species,Psettichthys melanostictus   -[  Girard ]-
+172929,5000000,genus,Reinhardtius 
+172930,5000000,species,Reinhardtius hippoglossoides   -[  (Walbaum) ]-
+172411,5000000,genus,Scomber   -[  Linnaeus; 1758 ]-
+172412,5000000,species,Scomber japonicus   -[  Houttuyn; 1782 ]-
+172435,5000000,species,Scomberomorus cavalla   -[  (Cuvier; 1829) ]-
+172436,5000000,species,Scomberomorus maculatus   -[  (Mitchill; 1815) ]-
+172398,5000000,family,Scombridae 
+172366,5000000,species,Scombrolabrax heterolepis 
+172746,5000000,species,Scophthalmus aquosus   -[  (Mitchill) ]-
+172980,5000000,family,Soleidae 
+172563,5000000,family,Stromateidae 
+172507,5000000,suborder,Stromateoidei 
+172790,5000000,genus,Syacium 
+172791,5000000,species,Syacium gunteri   -[  Ginsburg ]-
+172578,5000000,family,Tetragonuridae 
+172418,5000000,genus,Thunnus   -[  South; 1845 ]-
+172423,5000000,species,Thunnus albacares   -[  (Bonnaterre; 1788) ]-
+172427,5000000,species,Thunnus atlanticus   -[  (Lesson; 1830) ]-
+172421,5000000,species,Thunnus thynnus   -[  (Linnaeus; 1758) ]-
+172378,5000000,family,Trichiuridae 
+172384,5000000,genus,Trichiurus 
+172385,5000000,species,Trichiurus lepturus   -[  Linnaeus ]-

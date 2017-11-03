@@ -1,0 +1,28 @@
+code_name,taxonomic abundance
+units,WOD code table
+1,PRESENT;+;y;some;also used for body parts;e.g. spicules
+2,ABSENT; not found; -;  not observed
+3,COMMON; C; ++; many
+4,ABUNDANT; CC
+5,VERY ABUNDANT; CCC; +++
+6,PREDOMINANT; CCCC
+7,RARE; R; LITTLE
+8,VERY RARE; VR; RR
+9,HIGHLY RARE; RRR
+10,EXTREMELY RARE; RRRR                     
+11,RED TIDE; bloom
+12,EXCLUSIVELY 
+13,X     from JGOFS ANT X/6  (exact translation unknown)
+14,XX    from JGOFS ANT X/6
+15,XXX   from JGOFS ANT X/6
+16,O     from JGOFS ANT X/6
+17,OO    from JGOFS ANT X/6
+18,OOO   from JGOFS ANT X/6 
+19,FEW
+20,SEVERAL
+21,A LOT
+22,AVERAGE
+31,WDC1;present in aliquot
+32,WDC2;present in sample but not in aliquot
+33,WDC3; searched for but not found in sample
+

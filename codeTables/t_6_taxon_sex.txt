@@ -1,0 +1,12 @@
+code_name,sex
+units,WOD code table
+1,MALE                                
+2,FEMALE                              
+3,HERMAPHRODITE                       
+4,TRANSITIONAL                               
+5,GROUPED, BOTH SEXES PRESENT          
+6,HERMAPHRODITIC: FUNCTIONAL FEMALE   
+7,HERMAPHRODITIC: FUNCTIONAL MALE     
+8,INDETERMINABLE                              
+9,SEXUAL GENERATION
+10,ASEXUAL GENERATION

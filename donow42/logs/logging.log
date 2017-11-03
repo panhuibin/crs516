@@ -1,0 +1,50 @@
+14:06:08,881  INFO TaskEngineStarter:60 - RMI registry ready.
+14:06:08,945  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+14:06:16,664  INFO Client:34 - engine located 
+14:06:16,758  INFO Client:68 - commandImpl created and populated
+14:06:16,804  INFO FileBasedDataService:146 - Cleaning up work directory
+14:06:16,821  INFO FileBasedDataService:136 - Service ID is 0
+14:06:16,821  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 14:06:16 EDT 2015
+14:06:16,852  INFO FileBasedDataService:387 - dataSize is now 72
+14:06:16,852  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+14:06:16,852  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:06:18,257  INFO FileBasedDataService:136 - Service ID is 1
+14:06:18,257  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 14:06:18 EDT 2015
+14:06:18,257  INFO FileBasedDataService:387 - dataSize is now 72
+14:06:18,257  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\1/0.db
+14:06:18,257  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:06:19,273  INFO FileBasedDataService:136 - Service ID is 2
+14:06:19,273  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 14:06:19 EDT 2015
+14:06:19,273  INFO FileBasedDataService:387 - dataSize is now 72
+14:06:19,273  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+14:06:19,273  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:06:20,273  INFO Client:71 - command submitted to task engine
+14:55:50,668  INFO Client:62 - commandImpl created and populated
+14:55:50,683  INFO Client:64 - command submitted to task engine
+08:38:17,336  INFO Client:66 - commandImpl created and populated
+08:38:17,336  INFO Client:68 - command submitted to task engine
+22:12:38,978  INFO Client:74 - commandImpl created and populated
+22:12:38,994  INFO Client:76 - command submitted to task engine
+22:12:51,951  INFO TaskEngineStarter:60 - RMI registry ready.
+22:12:52,030  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+22:12:59,258  INFO Client:74 - commandImpl created and populated
+22:12:59,383  INFO FileBasedDataService:146 - Cleaning up work directory
+22:12:59,415  INFO FileBasedDataService:136 - Service ID is 0
+22:12:59,478  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jul 28 22:12:59 EDT 2015
+22:12:59,509  INFO FileBasedDataService:387 - dataSize is now 72
+22:12:59,509  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+22:12:59,525  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:13:01,149  INFO FileBasedDataService:136 - Service ID is 1
+22:13:01,149  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jul 28 22:13:01 EDT 2015
+22:13:01,149  INFO FileBasedDataService:387 - dataSize is now 72
+22:13:01,149  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\1/0.db
+22:13:01,149  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:13:02,148  INFO FileBasedDataService:136 - Service ID is 2
+22:13:02,148  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jul 28 22:13:02 EDT 2015
+22:13:02,149  INFO FileBasedDataService:387 - dataSize is now 72
+22:13:02,165  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+22:13:02,165  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+22:13:03,148  INFO Client:76 - command submitted to task engine
+22:16:18,669  INFO TaskEngineImpl:50 - Task engine says bye!.
+17:41:00,014  INFO Client:74 - commandImpl created and populated
+17:41:00,030  INFO Client:76 - command submitted to task engine

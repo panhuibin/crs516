@@ -1,0 +1,4 @@
+code_name,Depth unit
+units,NODC code
+083,foot
+086,fathom

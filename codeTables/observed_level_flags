@@ -1,0 +1,10 @@
+0,accepted value
+1,range outlier ( outside of broad range check )
+2,failed inversion check
+3,failed gradient check
+4,observed level bullseye flag and zero gradient check
+5,combined gradient and inversion checks
+6,failed range and inversion checks
+7,failed range and gradient checks
+8,failed range and questionable data checks
+9,failed range and combined gradient and inversion checks

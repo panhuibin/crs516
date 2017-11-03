@@ -1,0 +1,170 @@
+
+libraries:
+jmeter
+testing
+JUnit
+logging
+
+=========================
+
+Make sure the only projects open are ex51-shared and ex51-taskengine
+Refresh each one by right-clicking on it and selecting Refresh
+right click the project ex51-taskengine and select Export
+In the Export dialog select  Java | JAR file
+Click Next
+In the Jar File Specification dialog
+put a check on ex51-shared
+make sure that the Export generted class files and resources box is checked
+For the output folder browse to C:\crs516\sourcecode\jmeter-jars
+Call the file ex51.jar
+Click Next
+In the Jar Packaging Options dialog
+check export classes with compile warnings
+do not check export classes with compile errors
+Click Next
+In the Jar Manifest Specification choose the Generate Manifest File option
+Click Finish
+Ignore the warning about duplicate files -- we have log4j.properties in both projects.
+If you get an error message it will probably be because the projects were not refreshed.
+
+--------------------------------
+
+
+Can't find the  com.ltree.crs516.JMeterClient from inside JMeter:
+Check that in jmeter.properties (it is in the bin folder of JMeter) you have
+search_paths=C:/crs516/sourcecode/jmeterjars/ex51.jar
+
+JMEter says Uncaught Exception java.lang.NoClassDefFoundError: org/slf4j/LoggerFactory. 
+Put the following jars into the C:\crs516\apache-jmeter-2.7\lib\ext :
+log4j-1.2.17.jar
+slf4j-api-1.6.6.jar
+
+(You will find them in C:\crs516\sourcecode\lib\logging)
+
+----------------------------
+JIP needs VM argument
+-XX:-UseSplitVerifier -javaagent:C:\crs516\sourcecode\lib\jip\profile.jar -Dprofile.properties=C:\crs516\sourcecode\lib\jip\profile.properties
+
+Jmeter configuration: in 
+-----------------------------------------------------
+
+
+1. Open ex51-taskengine:com.ltree.crs516.taskengine.DistanceCalculator.java
+The analyst is using a naive approch
+Advantage it that the code it easy to understand.
+
+2. Does it produce correct results?
+Open ex51-taskengine:com.ltree.crs516.taskengineDistanceCalculatorTest
+(it is in the tests folder)
+Examine the test for action
+Run the test (Does it pass)
+
+3. Try running the code with larger files
+Run DistanceCalculator (TODO 1)
+
+(Show them the stop button)
+
+4. Benchmarks
+Open ex51-taskengine:com.ltree.crs516.taskengine.JMeterClient
+It is in the performance tests folder
+Do the TODOS.
+
+JMeter will only run code that is in a jar. 
+Create a jar for JMeter to run.
+Refresh both projects ex51-shared and ex51-taskengine
+Double click ex51-taskengine:create-jar.jardesc
+Note that we are putting both ex51-shared and ex51-taskengine in the jar.
+Click Finish
+Click OK on the warnings (they are about overwriting the existing jar and the 
+face that we have two copies of log4j.properties -- there is one in each project
+
+Start JMeter
+Double click on startJMeter.cmd
+
+Right click Test Plan and select Add | Thread Group (Users) | Thread Group
+
+We only need one thread -- leave the entries for Thread Group as in the diagram
+
+Right Click Thread Group and select Add | Logic Controller | Loop Controller
+Change the loop count to 5
+
+Right Click Loop Controller and select Add | Sampler | Java Request
+In the Java Request dialog change the classname to com.ltree.crs516.JMeterClient
+(If this class is not in the drop box then the jar creation was faulty)
+
+Right click Thread Group and select Add | Listener | Aggregate Report
+Click File | Save Test Plan As
+Save the file in C:\crs516\jMeter plans as ex51 Plan.jmx
+
+Click Run | Start
+
+----------------------------------------------------------------
+
+Open ex51-taskengine:JipRunner.java in the performance tests folder
+Perform the TODO tasks in the file
+
+To run JIP we need to start the VM with information that it will be profiles
+JIP will be connecting on a port configures in 
+Right click JIPRunner.java | Run As | Run configuration
+In the left pane click on Java Application | JipRunner
+Move to the (x)=argument
+In the lower box for VM arguments there should be
+-XX:-UseSplitVerifier -javaagent:C:\crs516\sourcecode\lib\jip\profile.jar -Dprofile.properties=C:\crs516\sourcecode\lib\jip\profile.properties
+
+(If it is not there copy that string from JipRunner-vm-args.txt and paste it there)
+
+Click Run
+
+In console wait for the message Controller -- shuttingdown
+
+The report will be in profile.txt.
+Refresh the project
+Open profile.txt
+
+At the top check that the Date entry indicates it is the one you just created and not an old one
+
+The column location at the extreme right if for the method names, for example DistanceCalculator:action
+The next two columns as you move left are for Net time and Total time. Net would be time spent actually 
+in DistanceCalculator:action rather than in methods called from DistanceCalculator:action. Total would 
+be from when DistanceCalculator:action starts to when it ends including time spent in other methods.
+In this case the Total time has to be 100% as you only called that method when you profiled.
+
+The next two columns is the same information in milliseconds rather than percentages. Times under 0.1
+milliseconds are ignored. This is configurable
+
+The column count is how many times the method is called. In the case of DistanceCalculator:action it will
+be 1.
+
+Scroll down to  Most expensive methods summarized
+What are the three top ones?
+Note that all three are related to creating a Station from the String that represents the station
+
+Scroll back towards the top and find out what percentage of the time we spend (total) in 
+StationParser:makeStation 
+
+How many times do we call StationParser:makeStation?
+
+If we reduce the number of calls we might get better performance
+Note that in action we calculate the distance from each of the 5 stations to each of the other 4 stations
+(5 * 4 makes the 20)
+
+Note that for each pair of stations i and j we are calculating the distance from i to j and also the
+distance from j to i. We should not do this.
+
+Go back to DistanceCalculator:action and create a new method action2().
+Uncomment and complete the action2() method
+This time use two nested traditional indexed for loops rather than the nested foreach loops of action
+If the index of the outer one is i and the index of the inner one is j make j start at i+1. 
+
+Go to DistanceCalulatorTest.java test case and uncomment the annotation on testAction2
+Run the test
+If it does not pass fix you code
+
+Profile again
+
+How many times is makeStation called now/
+
+GO to JMeterClient and change the method used to be action2
+Leave the data file the same to get a good comparison
+Run JMeter again
+Do you get better results?

@@ -1,0 +1,16 @@
+  1 Accession #                                    NODC Accession Number
+  2 Project                                        Project
+  3 Scale                                          units for temperature and salinity
+  4 Institution                                    Institution Code
+  5 Instrument                                     Temperature/Salinity probe type
+  6 Methods                                        Method used to measure variable                    
+  8 Originator's units                             Submittor's original units
+ 10 Equilibrator type                              Equilibrator used for CO2 measurements
+ 11 Filter type and size                           Filter type and size code
+ 12 Incubation time                                hours, 25 = dawn to noon, 26 = noon to dusk 
+ 13 CO<sub>2</sub> sea warming                     degrees C
+ 15 Analysis temperature                           degrees C
+ 16 Uncalibrated                                   = 1 if instrument is uncalibrated
+ 17 Contains nitrite                                  
+ 18 Normal Standard Seawater batch
+ 19 Adjustment                    

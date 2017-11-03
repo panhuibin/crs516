@@ -1,0 +1,36 @@
+code_name,taxonomic modifier
+units,WOD code table
+1,sp.   (single species)
+2,spp.  (multiple species) 
+3,other / unidentified / residue
+4,sp. 1 
+5,sp. 2               
+6,sp. A  or sp. 3   
+7,sp. B  or sp. 4  
+8,sp. C  or sp. 5  
+9,sp. D  or sp. 6 
+0,sp. E  or sp. 7  
+11,sp. F  or sp. 8 
+12,sp. G  or sp. 9  
+13,sp. H  or sp. 10  
+14,...
+15,TOTAL  (indicated taxa group is a sum of all members)
+16,SAHFOS-CPR "traverse count" TOTAL
+17,SAHFOS-CPR "eye count" TOTAL
+18,Empty Diatom (shell)
+19,sp. I or sp. 11
+20,sp. J or sp. 12
+21,sp. K or sp. 13
+22,sp. L or sp. 14
+23,sp. M or sp. 15
+24,sp. N or sp. 16
+25,sp. O or sp. 17
+26,sp. P or sp. 18
+27,sp. Q or sp. 19
+28,sp. R or sp. 20
+29,sp. S or sp. 21
+30,sp. T or sp. 22
+31,spicules           
+32,casts             
+33,retained non-targetted
+

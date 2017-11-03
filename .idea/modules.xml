@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/donow31/donow31.iml" filepath="$PROJECT_DIR$/donow31/donow31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donow42/donow42.iml" filepath="$PROJECT_DIR$/donow42/donow42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donow71/donow71.iml" filepath="$PROJECT_DIR$/donow71/donow71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donow72/donow72.iml" filepath="$PROJECT_DIR$/donow72/donow72.iml" />
+      <module fileurl="file://$PROJECT_DIR$/donow73/donow73.iml" filepath="$PROJECT_DIR$/donow73/donow73.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11/ex11.iml" filepath="$PROJECT_DIR$/ex11/ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex21/ex21.iml" filepath="$PROJECT_DIR$/ex21/ex21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex22/ex22.iml" filepath="$PROJECT_DIR$/ex22/ex22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex22-bonus/ex22-bonus.iml" filepath="$PROJECT_DIR$/ex22-bonus/ex22-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex31/ex31.iml" filepath="$PROJECT_DIR$/ex31/ex31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex31-bonus/ex31-bonus.iml" filepath="$PROJECT_DIR$/ex31-bonus/ex31-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex32/ex32.iml" filepath="$PROJECT_DIR$/ex32/ex32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex32-bonus/ex32-bonus.iml" filepath="$PROJECT_DIR$/ex32-bonus/ex32-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex33/ex33.iml" filepath="$PROJECT_DIR$/ex33/ex33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex33-bonus/ex33-bonus.iml" filepath="$PROJECT_DIR$/ex33-bonus/ex33-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex41/ex41.iml" filepath="$PROJECT_DIR$/ex41/ex41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex41-bonus/ex41-bonus.iml" filepath="$PROJECT_DIR$/ex41-bonus/ex41-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex41_solution/ex41_solution.iml" filepath="$PROJECT_DIR$/ex41_solution/ex41_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex42/ex42.iml" filepath="$PROJECT_DIR$/ex42/ex42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex42-bonus/ex42-bonus.iml" filepath="$PROJECT_DIR$/ex42-bonus/ex42-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex42-bonus2/ex42-bonus2.iml" filepath="$PROJECT_DIR$/ex42-bonus2/ex42-bonus2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex43/ex43.iml" filepath="$PROJECT_DIR$/ex43/ex43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex43-bonus/ex43-bonus.iml" filepath="$PROJECT_DIR$/ex43-bonus/ex43-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex51/ex51.iml" filepath="$PROJECT_DIR$/ex51/ex51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex51_bonus/ex51_bonus.iml" filepath="$PROJECT_DIR$/ex51_bonus/ex51_bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex52/ex52.iml" filepath="$PROJECT_DIR$/ex52/ex52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex61/ex61.iml" filepath="$PROJECT_DIR$/ex61/ex61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex62/ex62.iml" filepath="$PROJECT_DIR$/ex62/ex62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex71/ex71.iml" filepath="$PROJECT_DIR$/ex71/ex71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex21/solution-ex21.iml" filepath="$PROJECT_DIR$/solution-ex21/solution-ex21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex22/solution-ex22.iml" filepath="$PROJECT_DIR$/solution-ex22/solution-ex22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex22-bonus/solution-ex22-bonus.iml" filepath="$PROJECT_DIR$/solution-ex22-bonus/solution-ex22-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex31/solution-ex31.iml" filepath="$PROJECT_DIR$/solution-ex31/solution-ex31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex31-bonus/solution-ex31-bonus.iml" filepath="$PROJECT_DIR$/solution-ex31-bonus/solution-ex31-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex32/solution-ex32.iml" filepath="$PROJECT_DIR$/solution-ex32/solution-ex32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex32-bonus/solution-ex32-bonus.iml" filepath="$PROJECT_DIR$/solution-ex32-bonus/solution-ex32-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex33/solution-ex33.iml" filepath="$PROJECT_DIR$/solution-ex33/solution-ex33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex33-bonus/solution-ex33-bonus.iml" filepath="$PROJECT_DIR$/solution-ex33-bonus/solution-ex33-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex41/solution-ex41.iml" filepath="$PROJECT_DIR$/solution-ex41/solution-ex41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex41-bonus/solution-ex41-bonus.iml" filepath="$PROJECT_DIR$/solution-ex41-bonus/solution-ex41-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex42/solution-ex42.iml" filepath="$PROJECT_DIR$/solution-ex42/solution-ex42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex42-bonus/solution-ex42-bonus.iml" filepath="$PROJECT_DIR$/solution-ex42-bonus/solution-ex42-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex42-bonus2/solution-ex42-bonus2.iml" filepath="$PROJECT_DIR$/solution-ex42-bonus2/solution-ex42-bonus2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex43/solution-ex43.iml" filepath="$PROJECT_DIR$/solution-ex43/solution-ex43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex43-bonus/solution-ex43-bonus.iml" filepath="$PROJECT_DIR$/solution-ex43-bonus/solution-ex43-bonus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex51/solution-ex51.iml" filepath="$PROJECT_DIR$/solution-ex51/solution-ex51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex52/solution-ex52.iml" filepath="$PROJECT_DIR$/solution-ex52/solution-ex52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex61/solution-ex61.iml" filepath="$PROJECT_DIR$/solution-ex61/solution-ex61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex62/solution-ex62.iml" filepath="$PROJECT_DIR$/solution-ex62/solution-ex62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solution-ex71/solution-ex71.iml" filepath="$PROJECT_DIR$/solution-ex71/solution-ex71.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,907 @@
+14:38:53,814  INFO FileBasedDataService:270 - Cleaning up work directory
+14:38:53,861  INFO FileBasedDataService:256 - Service ID is 0
+14:38:53,876  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:53 EST 2014
+14:38:53,876  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:53,876  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\0/0.db
+14:38:53,876  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:54,861  INFO FileBasedDataService:256 - Service ID is 1
+14:38:54,861  INFO FileBasedDataService:256 - Service ID is 2
+14:38:54,861  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:54 EST 2014
+14:38:54,861  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:54,861  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\2/0.db
+14:38:54,861  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:55,862  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:38:55,862  INFO FileBasedDataService:256 - Service ID is 3
+14:38:55,862  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:55 EST 2014
+14:38:55,862  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:55,862  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\3/0.db
+14:38:55,862  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:56,863  INFO FileBasedDataService:256 - Service ID is 4
+14:38:56,863  INFO FileBasedDataService:256 - Service ID is 5
+14:38:56,863  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:56 EST 2014
+14:38:56,863  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:56,863  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\5/0.db
+14:38:56,863  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:57,864  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:38:57,864  INFO FileBasedDataService:256 - Service ID is 6
+14:38:57,864  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:57 EST 2014
+14:38:57,864  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:57,864  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\6/0.db
+14:38:57,864  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:58,865  INFO FileBasedDataService:256 - Service ID is 7
+14:38:58,865  INFO FileBasedDataService:256 - Service ID is 8
+14:38:58,865  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:58 EST 2014
+14:38:58,865  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:58,865  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\8/0.db
+14:38:58,865  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:38:59,866  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:38:59,866  INFO FileBasedDataService:256 - Service ID is 9
+14:38:59,866  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:38:59 EST 2014
+14:38:59,866  INFO FileBasedDataService:391 - dataSize is now 1
+14:38:59,866  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\9/0.db
+14:38:59,866  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:00,867  INFO FileBasedDataService:256 - Service ID is 10
+14:39:00,867  INFO FileBasedDataService:256 - Service ID is 11
+14:39:00,867  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:00 EST 2014
+14:39:00,867  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:00,867  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\11/0.db
+14:39:00,867  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:01,868  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:01,868  INFO FileBasedDataService:256 - Service ID is 12
+14:39:01,868  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:01 EST 2014
+14:39:01,868  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:01,868  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\12/0.db
+14:39:01,868  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:02,869  INFO FileBasedDataService:256 - Service ID is 13
+14:39:02,869  INFO FileBasedDataService:256 - Service ID is 14
+14:39:02,869  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:02 EST 2014
+14:39:02,869  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:02,869  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\14/0.db
+14:39:02,869  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:03,870  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:03,870  INFO FileBasedDataService:256 - Service ID is 15
+14:39:03,870  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:03 EST 2014
+14:39:03,870  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:03,870  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\15/0.db
+14:39:03,870  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:04,877  INFO FileBasedDataService:256 - Service ID is 16
+14:39:04,877  INFO FileBasedDataService:256 - Service ID is 17
+14:39:04,877  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:04 EST 2014
+14:39:04,877  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:04,877  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\17/0.db
+14:39:04,877  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:05,878  INFO FileBasedDataService:256 - Service ID is 18
+14:39:05,878  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Feb 09 14:39:05 EST 2014
+14:39:05,878  INFO FileBasedDataService:391 - dataSize is now 72
+14:39:05,878  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\18/0.db
+14:39:05,878  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:39:06,879  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:06,879  INFO FileBasedDataService:256 - Service ID is 19
+14:39:06,879  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:06 EST 2014
+14:39:06,879  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:06,879  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\19/0.db
+14:39:06,879  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:07,880  INFO FileBasedDataService:256 - Service ID is 20
+14:39:07,880  INFO FileBasedDataService:256 - Service ID is 21
+14:39:07,880  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\SURF_ALL.gz at Sun Feb 09 14:39:07 EST 2014
+14:39:09,756  INFO FileBasedDataService:391 - dataSize is now 9178
+14:39:09,756  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:09,788  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\SURF_ALL.gz loaded
+14:39:09,882  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:09,898  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:09,914  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:09,929  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:09,945  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,007  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,023  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,039  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,054  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,054  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,085  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,085  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,101  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,117  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,132  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,148  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,164  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,179  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,195  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,195  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,210  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,226  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,242  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,257  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,273  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,273  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,289  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,304  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,320  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,335  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,351  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,367  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,382  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,382  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,398  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,414  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,429  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,445  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,460  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,460  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,476  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,492  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,507  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,523  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,539  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,539  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,554  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,570  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,585  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,601  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,617  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,632  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,648  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,664  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,679  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,679  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,695  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,710  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,726  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,742  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,757  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,757  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,774  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,790  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,805  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,821  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,836  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,852  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,868  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,868  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,883  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,899  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,915  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,930  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,946  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,946  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,961  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:10,977  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:10,993  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,008  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,024  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,040  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,055  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,055  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,071  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,086  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,102  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,118  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,133  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,133  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,149  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,165  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,180  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,196  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,211  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,211  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,227  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,243  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,258  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,274  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,290  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,305  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,321  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,321  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,336  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,352  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,368  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,383  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,399  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,399  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,415  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,430  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,446  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,461  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,477  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,477  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,493  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,508  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,524  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,540  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,555  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,555  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,571  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,586  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,602  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,618  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,633  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,649  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,665  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,665  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,680  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,696  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,711  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,727  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,743  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,758  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,758  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,776  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,792  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,807  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,823  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,823  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,838  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,854  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,870  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,885  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,901  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,917  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,932  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,932  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,948  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,963  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:11,979  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:11,995  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,010  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,010  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,026  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,042  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,057  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,057  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,088  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,088  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,104  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,120  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,135  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,151  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,167  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,182  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,198  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,198  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,213  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,229  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,245  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,260  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,276  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,292  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,292  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,307  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,323  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,338  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,354  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,354  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,370  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,385  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,401  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,417  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,432  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,432  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,463  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,463  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,479  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,495  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,510  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,526  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,542  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,542  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,557  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,573  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,588  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,588  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,620  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,620  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,635  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,651  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,667  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,682  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,698  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,698  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,713  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,729  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,745  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,760  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,761  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,777  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,792  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,808  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,824  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,824  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,855  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,855  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,871  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,886  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,902  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,917  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,917  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,933  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,949  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,964  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,980  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:12,980  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:12,996  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,011  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,027  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,042  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,058  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,074  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,074  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,089  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,105  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,121  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,136  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,152  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,167  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,167  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,183  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,199  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,214  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,230  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,246  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,261  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,277  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,277  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,292  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,308  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,324  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,339  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,355  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,355  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,371  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,386  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,402  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,417  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,433  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,449  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,464  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,464  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,480  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,496  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,511  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,527  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,542  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,542  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,558  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,574  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,589  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,605  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,621  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,621  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,636  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,652  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,667  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,683  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,699  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,699  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,714  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,730  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,746  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,761  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,777  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,777  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,792  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,808  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,825  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,840  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,856  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,856  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,872  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,887  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,903  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,918  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,934  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,934  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,950  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,965  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:13,981  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:13,997  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,012  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,012  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,028  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,043  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,059  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,075  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,090  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,090  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,106  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,122  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,137  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,153  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,168  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,168  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,184  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,200  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,215  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,231  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,247  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,247  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,262  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,278  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,293  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,309  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,325  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,325  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,340  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,356  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,372  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,387  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,403  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,403  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,418  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,434  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,450  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,465  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,481  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,481  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,497  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,512  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,528  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,543  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,559  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,559  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,575  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,590  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,606  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,622  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,637  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,637  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,653  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,668  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,684  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,700  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,715  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,715  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,731  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,747  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,762  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,779  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,794  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,810  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,826  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,826  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,841  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,857  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,873  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,888  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,904  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,904  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,919  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,935  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,951  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,966  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,966  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:14,982  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:14,998  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,013  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,029  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,044  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,060  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,060  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,076  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,091  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,107  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,123  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,138  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,138  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,154  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,169  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,185  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,201  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,216  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,216  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,232  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,248  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,263  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,279  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,294  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,310  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,326  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,326  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,341  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,357  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,373  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,388  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,404  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,404  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,419  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,435  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,451  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,466  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,482  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,498  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,513  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,513  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,529  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,544  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,560  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,576  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,591  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,607  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,623  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,623  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,638  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,654  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,669  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,669  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,701  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,701  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,716  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,732  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,748  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,763  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,780  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,780  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,795  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,811  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,827  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,827  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,842  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,858  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,874  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,889  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,905  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,920  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,936  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,936  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,952  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,967  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:15,983  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:15,999  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,014  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,014  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,030  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,045  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,061  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,077  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,092  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,092  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,108  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,124  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,139  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,155  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,170  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,170  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,186  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,202  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,217  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,233  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,249  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,249  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,264  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,280  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,295  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,311  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,327  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,327  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,342  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,358  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,374  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,389  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,405  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,405  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,420  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,436  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,452  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,467  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,483  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,483  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,499  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,514  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,530  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,545  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,561  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,561  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,577  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,592  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,608  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,624  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,624  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,639  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,655  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,670  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,686  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,686  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,702  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,717  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,733  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,749  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,764  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,781  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,796  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,796  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,812  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,828  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,843  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,859  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,859  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,875  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,890  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,906  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,921  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,937  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,953  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,953  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:16,968  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:16,984  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,000  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,015  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,031  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,031  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,046  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,062  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,078  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,093  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,109  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,109  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,125  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,140  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,156  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,171  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,187  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,187  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,203  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,218  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,234  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,250  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,265  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,265  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,281  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,296  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,312  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,328  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,343  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,343  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,359  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,375  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,390  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,406  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,421  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,421  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,437  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,453  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,468  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,484  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,500  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,500  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,515  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,531  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,546  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,562  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,578  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,578  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,593  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,609  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,625  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,640  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,656  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,656  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,671  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,687  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,703  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,718  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,734  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,734  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,750  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,765  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,782  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,782  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,797  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,813  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,829  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,844  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,860  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,860  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,875  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,891  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,907  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,922  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,938  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,938  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,954  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:17,969  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:17,985  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,000  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,016  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,016  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,032  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,047  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,063  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,079  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,094  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,094  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,110  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,125  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,141  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,157  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,157  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,172  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,188  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,204  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,219  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,235  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,250  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,250  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,266  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,282  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,297  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,313  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,313  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,329  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,344  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,360  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,375  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,375  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,391  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,407  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,422  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,438  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,454  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,469  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,469  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,485  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,500  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,516  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,532  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,532  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,547  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,563  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,579  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,594  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,610  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,610  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,641  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,641  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,657  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,672  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,688  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,704  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,719  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,735  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,750  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,750  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,766  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,783  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,798  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,814  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,830  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,830  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,845  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,861  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,876  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,892  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,908  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,908  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,923  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,939  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,955  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,970  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:18,986  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:18,986  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,001  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,017  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,033  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,048  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,064  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,064  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,080  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,095  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,111  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,126  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,142  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,142  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,158  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,173  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,189  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,205  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,220  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,220  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,236  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,251  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,267  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,283  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,298  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,314  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,330  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,330  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,345  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,361  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,376  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,392  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,408  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,408  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,423  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,439  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,455  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,470  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,470  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,486  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,501  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,517  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,533  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,548  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,564  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,564  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,580  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,595  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,611  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,611  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,626  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,642  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,658  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,673  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,689  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,689  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,720  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,720  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,736  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,751  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,767  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,768  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,784  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,799  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,815  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,831  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,846  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,846  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,862  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,877  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/0.db
+14:39:19,893  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\21/5.db
+14:39:19,909  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:19,909  INFO FileBasedDataService:256 - Service ID is 22
+14:39:19,909  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:19 EST 2014
+14:39:19,909  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:19,909  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\22/0.db
+14:39:19,909  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:20,909  INFO FileBasedDataService:256 - Service ID is 23
+14:39:20,909  INFO FileBasedDataService:256 - Service ID is 24
+14:39:20,909  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Feb 09 14:39:20 EST 2014
+14:39:20,909  INFO FileBasedDataService:391 - dataSize is now 72
+14:39:20,909  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\24/0.db
+14:39:20,909  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:39:21,910  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:21,910  INFO FileBasedDataService:256 - Service ID is 25
+14:39:21,910  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:21 EST 2014
+14:39:21,910  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:21,910  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\25/0.db
+14:39:21,910  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:22,911  INFO FileBasedDataService:256 - Service ID is 26
+14:39:22,911  INFO FileBasedDataService:256 - Service ID is 27
+14:39:22,911  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Feb 09 14:39:22 EST 2014
+14:39:22,911  INFO FileBasedDataService:391 - dataSize is now 72
+14:39:22,911  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\27/0.db
+14:39:22,911  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:39:23,912  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:23,912  INFO FileBasedDataService:256 - Service ID is 28
+14:39:23,912  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:23 EST 2014
+14:39:23,912  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:23,912  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\28/0.db
+14:39:23,912  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:24,913  INFO FileBasedDataService:256 - Service ID is 29
+14:39:24,913  INFO FileBasedDataService:256 - Service ID is 30
+14:39:24,913  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:24 EST 2014
+14:39:24,913  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:24,913  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\30/0.db
+14:39:24,913  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:25,914  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:25,914  INFO FileBasedDataService:256 - Service ID is 31
+14:39:25,914  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:25 EST 2014
+14:39:25,914  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:25,914  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\31/0.db
+14:39:25,914  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:26,915  INFO FileBasedDataService:256 - Service ID is 32
+14:39:26,915  INFO FileBasedDataService:256 - Service ID is 33
+14:39:26,915  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:26 EST 2014
+14:39:26,915  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:26,915  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\33/0.db
+14:39:26,915  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:27,916  INFO FileBasedDataServiceTest:320 - Shutting down executor
+14:39:27,916  INFO FileBasedDataService:256 - Service ID is 34
+14:39:27,916  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:27 EST 2014
+14:39:27,916  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:27,916  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\34/0.db
+14:39:27,916  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:28,917  INFO FileBasedDataService:256 - Service ID is 35
+14:39:28,917  INFO FileBasedDataService:256 - Service ID is 36
+14:39:28,917  INFO FileBasedDataService:183 - Data loader loading C:\crs516\sourcecode\data\test.txt at Sun Feb 09 14:39:28 EST 2014
+14:39:28,917  INFO FileBasedDataService:391 - dataSize is now 1
+14:39:28,917  INFO FileBasedDataService:347 - Reading block C:\crs516\sourcecode\work\36/0.db
+14:39:28,917  INFO FileBasedDataService:200 - Data from C:\crs516\sourcecode\data\test.txt loaded
+14:39:29,918  INFO FileBasedDataServiceTest:320 - Shutting down executor

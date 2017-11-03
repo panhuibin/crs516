@@ -1,0 +1,136 @@
+code_name,Gear
+units,WOD code
+101,NORPAC Net
+102,Plankton Net (Muslin)
+103,Plankton Net (Silk)
+104,Marutoku B Net
+105,Juday Net (Tropical or Large)
+106,Juday Net (Oceanic or JOM)
+107,Ring Net
+108,Gulf IA Sampler
+109,Gulf III Sampler
+110,Gulf II (on-board CPR)
+111,Rectangular Midwater Trawl (RMT)
+112,Plankton Net (type unknown)
+113,Be' Multiple Plankton Sampler (MPS)
+114,Bathypelagic Plankton Sampler (BPS)
+115,Indian Ocean Standard Net (IOSN)
+116,Clarke-Bumpus Sampler
+117,Neuston Net
+118,Bongo Net
+119,Water Pump
+120,MOCNESS Net
+121,BR 80/113 Net
+122,Continuous Plankton Recorder (Longhurst-Hardy)
+123,Isaacs-Kidd Midwater Trawl (IKMT), depressor dimension unspecified
+124,Midwater Trawl
+125,ORI Net
+126,Kitahara Net
+127,BOTTLE:  (type unspecified)
+128,BOTTLE:  Niskin
+129,Marutoku Net (type unspecified)
+130,BOTTLE:  Go-Flos
+131,CALCOFI Net
+132,WP-2 (UNESCO Working Party 2)
+133,Nansen Surface Net
+134,Heron Tranter Net
+135,N70 Net
+136,Organdie Net
+137,75M25 Net
+138,FLOWMETER:  TSK (model unknown)
+139,Hensen Egg Net
+140,Beam Trawl
+141,Marushi Net
+142,Foredeck Net
+143,Motoda MTD Net
+144,BOTTLE:  Van Dorn
+145,FLOWMETER:  GOM 2030
+146,POFI Net
+147,Micro Net (unspecified)
+148,Open Net (unspecified)
+149,Closing Net (Unspecified)
+150,High Speed Net (unspecified)
+151,Plankton Trap (unspecified)
+152,Petersen (Closing) NORPAC Net
+153,Improved NORPAC Net
+154,FLOWMETER:  RGS (unknown model)
+155,FLOWMETER:  type and model unknown
+156,6-FT IKMT;  ISAACS KIDD MIDWATER TRAWL    
+157,10-FT IKMT; ISAACS KIDD MIDWATER TRAWL   
+158,FLOWMETER:  ATLAS
+159,TUBE HAI;          200ms                 
+160,Continuous Plankton Sampler (type unspecified)
+161,Double net (inner)
+162,Double net (outer)
+163,Jeddi Net  (typo of Juday net?)
+164,IMKT+EMPS  (IKMT w/Electric Multi-layer Plankton Samplers)
+165,VMPS 
+166,Tucker Trawl 3-net openning/closing
+167,Manta Net  (neuston sampler)
+168,Double Bongo (combined as one sample)
+169,CEPPELIN
+170,CORY NET
+171,PLANKTON NET (GAS)
+172,FLOWMETER:  RGS-236
+173,FLOWMETER:  RGS-633
+174,NIO (National Institute of Ocg) NET
+175,Vertical Closing Ringnet
+176,Tucker Trawl
+177,Sameoto Neuston Sampler
+178,0.5 x 1 M MARMAP Neuston Net
+179,Epibenthic Sled w/2 Tucker Trawls
+180,Tucker Trawl (2 nets)
+181,English Umbrella Net
+182,Gulf V Sampler (modified Gulf III, high speed)
+183,Plummet Net
+184,Pull Sled
+185,Miller High-Speed Sampler (model unspecified)
+186,Apstein Opening-closing Mesh Net (APNET)
+187,Longhurst-Hardy Plankton Recorder (LHPR)
+188,Autosampling and Recording Instrument Environmental Sampling System (ARIES NET)
+189,Special BONGO (double WP-2 nets mounted on bongo frame)
+190,Marine Lab Aberdeen PupNet (PUPNET)
+191,SAHFOS Continuous Plankton Recorder (CPR)
+192,Special HYDRO-BIOs Multinet:  Five sets of double HYDRO-BIOs Multinets (64um mesh for taxa/200um mesh for biomass)
+193,UTOW (like a SAHFOS CPR, with T,S, and flow rate also measured)
+194,Bucket (on a rope)
+195,Flow_meter:  RGS-233
+196,Free-fall plankton net
+197,Double MOCNESS
+198,Flow-meter:  General Oceanics model 2030R
+199,HYDRO-BIOs Multinet (64um mesh for taxa/200um mesh for biomass)
+200,BIONESS (10-net openning & closing net)
+201,N70V Vertical Closing Net           (Kemp, Hardy & Mackintosh 1929)
+202,Kiel MultiNet
+203,Flow-meter:  RGS-952
+204,Nakai Fish Larvae Net
+205,Modified NIPR-1
+206,Flow-meter:  G0-2030
+207,NIPR parasol net
+208,Nansen Net (50 cm diameter no. 23 mesh)
+209,K-100 Net (100 cm diameter no. 15 mesh)
+210,JUDAY NET
+214,JUDAY38 NET (569 um no. 38 mesh)
+211,Submersible Pump 
+212,Multinet (150 um mesh)
+213,Flow-meter: General Oceanics (model unspecified)
+214,JUDAY38 NET (569 um no. 38 mesh)
+215,NANSEN15 NET
+216,K100       (100 cm diameter 3 different no. mesh: 9; 15; 23 or 38)
+217,BOGOROV-RASS                            
+218,NANSEN2 NET (0.5 m diameter; no. 2 mesh upper; no 10 mesh lower)
+219,HT NET (mouth area 0.25 m2 and mesh width 0.3 mm)
+220,Plankton Net (type unspecified)
+221,Sipre Ice Corer
+222,Unspecified Water Pump
+223,JUDAY NET + MELNIKOV'S TRAWL + BOTTLE
+224,Bongo net + Multinet
+225,Water Pump + Niskin Bottle
+226,Flow-meter:  RGS-432
+227,Plankton Net (Nylon)
+229,Bogorov Net                            
+230,Apstein Surface Net
+231,JUDAY PLANKTON NET SMALL (MODEL 963)
+232,Nansen Bottle
+233,Phytoplankton net (mesh 75 micron)
+234,Miller Net (mesh 239 micron)

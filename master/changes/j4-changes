@@ -1,0 +1,6 @@
+Update Eclipse to Luna (Eclipse Luna SR2 (4.4.2) )
+Fixed the Hamcrest Javadocs
+Removed the Composite Pattern
+Added more on Lambda expressions in ex42
+Remove ex42-bonus and ex42-bonus2
+

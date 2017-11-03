@@ -1,0 +1,24 @@
+-5000,2000000,<WOD group>,Picoplankton  ( 0.2 - 2.0 um ) 
+-5001,2000000,<WOD group>,Nanoplankton  ( 2.0 - 20. um ) 
+-5002,4000000,<WOD group>,Zooplankton 
+-5003,2000000,<WOD group>,Microzooplankton ( < 200 um ) 
+-5004,5000000,<WOD group>,Fish -> pisces 
+-5006,2000000,<WOD group>,Phytoplankton 
+-5007,4219000,<WOD group>,Shrimp 
+-5008,4219000,<WOD group>,Crabs 
+-5010,4220000,<WOD group>,Worms 
+-5011,2000000,<WOD group>,Algae 
+-5012,4000000,<WOD group>,Gelatinous animals 
+-5014,2000000,<WOD group>,Flagellates or zooflagellates 
+-5015,4267500,<WOD group>,Squid 
+-5017,1,<WOD group>,Particulates or seston 
+-5018,1,<WOD group>,Plankton 
+-5019,4205000,<WOD group>,Marine insects   -[  e.g. Halobates; Hermatobates ]-
+-5021,4000000,<WOD group>,Parasites 
+-5022,2000000,<WOD group>,Nanoflagellates 
+-5025,2000000,<WOD group>,Eukaryote (cell) 
+-5026,2000000,<WOD group>,Ultra-phytoplankton (eqpac + arabian : staining features) 
+-5027,2000000,<WOD group>,Microplankton (phyto; not microzooplankton) 
+-5028,4000000,<WOD group>,Metazoa (sponges; cnidarians; ctenophores) 
+-503,5030000,<biomass>,Ichthyoplankton wet weight (kg/unit) 
+-501,5010000,<biomass>,Ichthyoplankton displacement volume (m3/unit) 

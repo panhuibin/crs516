@@ -1,0 +1,15 @@
+13:25:36,093  INFO TaskEngineStarter:60 - RMI registry ready.
+13:25:36,164  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+13:26:06,277  INFO Client:35 - engine located 
+13:26:06,292  INFO Client:44 - command submitted to task engine
+13:41:49,302  INFO TaskEngineImpl:50 - Task engine says bye!.
+12:13:59,978  INFO TaskEngineStarter:60 - RMI registry ready.
+12:14:00,058  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+12:14:04,761  INFO Client:35 - engine located 
+12:14:04,777  INFO Client:44 - command submitted to task engine
+15:14:59,705  INFO TaskEngineImpl:50 - Task engine says bye!.
+09:37:08,494  INFO TaskEngineStarter:60 - RMI registry ready.
+09:37:08,591  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+09:37:14,528  INFO Client:32 - engine located 
+09:37:14,544  INFO Client:41 - command submitted to task engine
+09:37:23,890  INFO TaskEngineImpl:50 - Task engine says bye!.

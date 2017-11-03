@@ -1,0 +1,37 @@
+159693,5000000,superclass,Agnatha 
+15927,2070000,genus,Amphidium   -[  Schimp ]-
+159664,4357500,class,Appendicularia 
+159174,4352500,genus,Ascidia   -[  Linnaeus; 1767 ]-
+159681,4369000,genus,Branchiostoma 
+159685,4369000,species,Branchiostoma belcheri   -[  (Gray;1847) ]-
+159679,4369000,class,"Cephalochordata  (aka ""leptocardia"") "
+159666,4357500,order,Copelata 
+159646,4355050,genus,Cyclosalpa 
+159637,4355010,order,Doliolida 
+159638,4355010,family,Doliolidae 
+159639,4355010,genus,Doliolum   -[  Quoy & Gaimard; 1834 ]-
+159642,4355010,species,Doliolum denticulatum 
+159640,4355010,species,Doliolum nationalis   -[  Borgert; 1893 ]-
+159699,5000000,species,Entosphenus tridentatus   -[  Gairdner ]-
+159674,4357500,genus,Fritillaria 
+159675,4357500,species,Fritillaria borealis 
+159676,4357500,species,Fritillaria haplostoma 
+159673,4357500,family,Fritillaridae 
+159783,5000000,superclass,Gnathostomata 
+159651,4355050,species,Iasis zonaria 
+159668,4357500,genus,Oikopleura 
+159669,4357500,species,Oikopleura dioica 
+159670,4357500,species,Oikopleura labradoriensis 
+159671,4357500,species,Oikopleura vanhoeffeni   -[  Lohmann; 1896 ]-
+159667,4357500,family,Oikopleuridae 
+159635,4355000,genus,Pyrosoma   -[  Peron; 1804 ]-
+159636,4355000,species,Pyrosoma atlanticum 
+159633,4355000,order,Pyrosomida 
+159652,4355050,genus,Salpa 
+159655,4355050,species,Salpa cylindrica 
+159653,4355050,species,Salpa fusiformis 
+159654,4355050,species,Salpa maxima 
+159643,4355050,order,Salpida 
+159645,4355050,family,Salpidae 
+159659,4355050,species,Thalia democratica 
+159632,4355000,class,Thaliacea 

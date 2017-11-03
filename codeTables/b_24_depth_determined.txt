@@ -1,0 +1,4 @@
+code_name,Depth determination
+units,WOD code
+1,OCL CALC, Calc by OCL from Wire out and Wire angle
+2,FIXED, One target depth reported by originator for all samples

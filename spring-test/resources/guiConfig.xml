@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.2.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context-3.2.xsd">
+
+
+	<context:component-scan 
+	base-package="com.ltree.crs516.client,com.ltree.crs516.config" />
+	 
+<!-- TODO 1: Configure a bean with id "primaryHeaderDisplayer" and class 
+"com.ltree.crs516.client.PrimaryHeaderDisplayer" -->
+
+<!-- 	<bean id="primaryHeaderDisplayer"  -->
+<!-- 					class="com.ltree.crs516.client.PrimaryHeaderDisplayer" /> -->
+
+<!-- TODO 2: Configure a bean with id "primaryHeaderTab" and 
+class "com.ltree.crs516.client.DisplayTab" Give it two properties: one called
+"title" with value "Primary Headers " and another called "displayer" which
+has a ref attribute "primaryHeaderDisplayer" -->
+
+<!-- 	<bean id="primaryHeaderTab" class="com.ltree.crs516.client.DisplayTab"> -->
+<!-- 		<property name="title" value="Primary Headers " /> -->
+<!-- 		<property name="displayer" ref="primaryHeaderDisplayer" /> -->
+<!-- 	</bean> -->
+
+<!-- TODO 3: Configure the two beans CharacterDataDisplayer and 
+characterDataTab -->
+
+<!-- 	<bean id="characterDataDisplayer" -->
+<!-- 	    class="com.ltree.crs516.client.CharacterDataDisplayer" /> -->
+	
+<!-- 	<bean id="characterDataTab" -->
+<!-- 	    class="com.ltree.crs516.client.DisplayTab"> -->
+<!-- 	  <property name="title" value="Character Data " /> -->
+<!-- 	  <property name="displayer" ref="characterDataDisplayer" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="secondaryHeaderDisplayer"  -->
+<!-- 					class="com.ltree.crs516.client.SecondaryHeaderDisplayer" /> -->
+
+<!-- 	<bean id="secondaryHeaderTab" class="com.ltree.crs516.client.DisplayTab"> -->
+<!-- 		<property name="title" value="Secondary Headers " /> -->
+<!-- 		<property name="displayer" ref="secondaryHeaderDisplayer" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="biologyHeaderDisplayer"  -->
+<!-- 					class="com.ltree.crs516.client.BiologyHeaderDisplayer" /> -->
+
+<!-- 	<bean id="biologyHeaderTab" class="com.ltree.crs516.client.DisplayTab"> -->
+<!-- 		<property name="title" value="Biology Headers " /> -->
+<!-- 		<property name="displayer" ref="taxaDisplayer" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="taxaDisplayer" class="com.ltree.crs516.client.TaxaDisplayer" /> -->
+
+<!-- 	<bean id="taxaTab" class="com.ltree.crs516.client.DisplayTab"> -->
+<!-- 		<property name="title" value="Taxa Sets " /> -->
+<!-- 		<property name="displayer" ref="taxaDisplayer" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="profileDataDisplayer"  -->
+<!-- 						class="com.ltree.crs516.client.ProfileDataDisplayer" /> -->
+
+
+<!-- 	<bean id="dataService" class="com.ltree.crs516.data.FileBasedDataService"> -->
+<!-- 		<constructor-arg><null /></constructor-arg> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="wodController" class="com.ltree.crs516.controller.WODController"> -->
+<!-- 		<property name="observers"> -->
+<!-- 			<list> -->
+<!-- 				<ref bean="primaryHeaderTab" /> -->
+<!-- 				<ref bean="characterDataTab" /> -->
+				
+<!-- TODO 4: add the other four tabs to the list -->				
+
+<!-- 				<ref bean="secondaryHeaderTab" /> -->
+<!-- 				<ref bean="biologyHeaderTab" /> -->
+<!-- 				<ref bean="taxaTab" /> -->
+<!-- 				<ref bean="profileDataTab" /> -->
+<!-- 			</list> -->
+<!-- 		</property> -->
+<!-- 		<property name="dataService" ref="dataService" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="wod" class="com.ltree.crs516.client.WOD"> -->
+	
+<!-- TODO 5: Add a constructor argument "World Ocean Database Browser"	 -->
+
+<!-- 		<constructor-arg value="World Ocean Database Browser" /> -->
+<!-- 		<property name="tabs"> -->
+		
+    <!--  TODO 6: Add a list of tabs here  --> 
+						
+<!-- 			<list> -->
+<!-- 				<ref bean="primaryHeaderTab" /> -->
+<!-- 				<ref bean="characterDataTab" /> -->
+<!-- 				<ref bean="secondaryHeaderTab" /> -->
+<!-- 				<ref bean="biologyHeaderTab" /> -->
+<!-- 				<ref bean="taxaTab" /> -->
+<!-- 				<ref bean="profileDataTab" /> -->
+<!-- 			</list> -->
+
+<!-- 		</property> -->
+<!-- 		<property name="controller" ref="wodController" /> -->
+<!-- 	</bean> -->
+
+<!-- 	<bean id="profileDataTab" class="com.ltree.crs516.client.ProfileDataTab"> -->
+<!-- 		<property name="title" value="Profile Data " /> -->
+		
+<!-- TODO 7 For later in the bonus: You will delete the property element below 
+which adds the displayer to the tab. You will instead configure it 
+by annotation -->
+
+<!-- 		<property name="displayer" ref="profileDataDisplayer" />	 -->
+<!-- 	</bean> -->
+
+		<!-- TODO 8 For later in the bonus: You will add an element that  
+		triggers scanning for configuration annotations -->
+<!--  in the bonus you add <context:annotation-config />  -->
+</beans>
+
+

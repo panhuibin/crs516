@@ -1,0 +1,9 @@
+code_name,units
+units,WOD code table
+68,per sample -- Parameter per sample
+69,per m<sup>2</sup> -- Parameter per squared meter
+70,per m<sup>3</sup> -- Parameter per cubic meter
+72,per ml -- Parameter per milliliter
+78,per l -- Parameter per liter
+84,per ul -- Parameter per microliter
+

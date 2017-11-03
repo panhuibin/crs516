@@ -1,0 +1,96 @@
+-9000,2070000,<OCL unver>,Ceratium axiale   -[  IMARPE04_                   - ]-
+-9001,2070000,<OCL unver>,Ceratium breve v schmidtii   -[  IMARPE05_        - ]-
+-9002,2070000,<OCL unver>,Ceratium buceros f claviger   -[  IMARPE04_       - ]-
+-9002,2070000,<OCL unver>,Ceratium buceros v claviger   -[  IMARPE06 ]-
+-9003,2070000,<OCL unver>,Ceratium buceros f molle   -[  PERUdig ]-
+-9004,2070000,<OCL unver>,Ceratium carnegiei   -[  IMARPE04_                - ]-
+-9005,2070000,<OCL unver>,Ceratium contortum var contortum   -[  IMARPE05_ ]-
+-9008,2070000,<OCL unver>,Ceratium fusus v fusus   -[  IMARPE05_            - ]-
+-9009,2070000,<OCL unver>,Ceratium gibberum v dispar   -[  IMARPE04_        - ]-
+-9010,2070000,<OCL unver>,Ceratium gibberum v subaequale   -[  IMARPE04_    - ]-
+-9011,2070000,<OCL unver>,Ceratium gravidum v elongatum   -[  IMARPE05_     - ]-
+-9012,2070000,<OCL unver>,Ceratium hexacanthum v contortum   -[  IMARPE04_  - ]-
+-9013,2070000,<OCL unver>,Ceratium hexacanthum v spirale   -[  IMARPE04_    - ]-
+-9014,2070000,<OCL unver>,Ceratium hystrix   -[  IMARPE04_                  - ]-
+-9015,2070000,<OCL unver>,Ceratium massiliense var massiliense   -[  IMARPE05_ ]-
+-9016,2070000,<OCL unver>,Ceratium pentagonum f turgidum   -[  IMARPE05_    - ]-
+-9017,2070000,<OCL unver>,Ceratium trichoceros var claviceps   -[  IMARPE05_ ]-
+-9018,2070000,<OCL unver>,Ceratium tripos var pulchellum   -[  IMARPE06 ]-
+-9019,2070000,<OCL unver>,Ceratium tripos v breve   -[  IMARPE07_ ]-
+-9021,2070000,<OCL unver>,Peridinium longispinum   -[  PERUdig ]-
+-9022,2070000,<OCL unver>,Peridinium peruvianum   -[  PERUdig ]-
+-9023,2080000,<OCL unver>,Codonellopsis schabi   -[  IMARPE04_              - ]-
+-9024,2100000,<OCL unver>,Corisphaera gracilis   -[  IMARPE04_              - ]-
+-9025,2080000,<OCL unver>,Craterella urceolata   -[  IMARPE04_              - ]-
+-9026,2080000,<OCL unver>,Epiplocyloides reticulata   -[  IMARPE04_         - ]-
+-9027,2070000,<OCL unver>,Exuviaella aequatorialis   -[  IMARPE04_          - ]-
+-9028,2160000,<OCL unver>,Lioloma delicatulum   -[  IMARPE04_               - ]-
+-9029,4192550,<OCL unver>,Lohmaniella oviformis   -[  IMARPE04_             - ]-
+-9030,2160000,<OCL unver>,Odontella alternans   -[  IMARPE04_               - ]-
+-9031,2100000,<OCL unver>,Pontosphaera nana   -[  IMARPE04_                 - ]-
+-9032,2100000,<OCL unver>,Pontosphaera ovalis   -[  IMARPE04_               - ]-
+-9033,2100000,<OCL unver>,Pontosphaera robusta   -[  IMARPE04_              - ]-
+-9034,2100000,<OCL unver>,Pontosphaera steueri   -[  IMARPE04_              - ]-
+-9035,2160000,<OCL unver>,Pseudo-nitzschia americana   -[  IMARPE04_        - ]-
+-9036,2080000,<OCL unver>,Strombidium conicum   -[  IMARPE04_               - ]-
+-9037,2160000,<OCL unver>,Thalassiosira partheneia   -[  IMARPE04_          - ]-
+-9038,2080000,<OCL unver>,Codonellopsis pusilla   -[  IMARPE04_             - ]-
+-9039,2080000,<OCL unver>,Strombidium conicoides   -[  IMARPE04_            - ]-
+-9040,2070000,<OCL unver>,Dinophysis lunula   -[  IMARPE04_                 - ]-
+-9041,2160000,<OCL unver>,Proboscia alata f indica   -[  IMARPE04_          - ]-
+-9042,2070000,<OCL unver>,Protoperidinium murrayi   -[  IMARPE04_           - ]-
+-9043,2070000,<OCL unver>,Ceratocorys bipes   -[  IMARPE04_                 - ]-
+-9044,2070000,<OCL unver>,Diplopelta asymmetrica   -[  IMARPE04_            - ]-
+-9045,2070000,<OCL unver>,Protoperidinium fatulipes   -[  IMARPE04_         - ]-
+-9046,2070000,<OCL unver>,Protoperidinium truncatum   -[  IMARPE04_         - ]-
+-9047,2160000,<OCL unver>,Rhizosolenia temperei   -[  IMARPE04_             - ]-
+-9048,2160000,<OCL unver>,Chaetoceros tetras   -[  IMARPE04_                - ]-
+-9049,2080000,<OCL unver>,Epiplocyloides brandti   -[  IMARPE04_            - ]-
+-9050,2070000,<OCL unver>,Protoperidinium longispinum   -[  IMARPE04_       - ]-
+-9051,2080000,<OCL unver>,Ptychocylis minor   -[  IMARPE04_                 - ]-
+-9052,2160000,<OCL unver>,Proboscia alata f gracillima   -[  IMARPE04_      - ]-
+-9053,2070000,<OCL unver>,Ceratium digitatum   -[  IMARPE04_                - ]-
+-9054,2080000,<OCL unver>,Codonaria cistellula   -[  IMARPE04_              - ]-
+-9055,2080000,<OCL unver>,Codonaria   -[  IMARPE04_                         - ]-
+-9056,2160000,<OCL unver>,Guinardia cylindrus   -[  IMARPE04_               - ]-
+-9057,2080000,<OCL unver>,Dictyocysta elegans v lepida   -[  IMARPE04_      - ]-
+-9058,2080000,<OCL unver>,Parundella inflata   -[  IMARPE04_                - ]-
+-9059,2070000,<OCL unver>,Protoperidinium tenuissimum   -[  IMARPE04_       - ]-
+-9060,2080000,<OCL unver>,Favella azorica   -[  IMARPE04_                   - ]-
+-9061,4192550,<OCL unver>,Lohmaniella   -[  IMARPE04_                       - ]-
+-9062,2160000,<OCL unver>,Rhizosolenia formosa   -[  IMARPE04_              - ]-
+-9063,2070000,<OCL unver>,Dissodinium elegans   -[  IMARPE04_               - ]-
+-9064,2080000,<OCL unver>,Rhabdonellla amor   -[  IMARPE04_                 - ]-
+-9065,2080000,<OCL unver>,Codonellopsis galea   -[  IMARPE05_               - ]-
+-9066,2160000,<OCL unver>,Ethmodiscus rex   -[  IMARPE05_                   - ]-
+-9067,2080000,<OCL unver>,Eutintinnus fraknoi   -[  IMARPE05_               - ]-
+-9068,2080000,<OCL unver>,Eutintinnus rugosus   -[  IMARPE05_               - ]-
+-9069,2070000,<OCL unver>,Gonyaulax peruviana   -[  IMARPE05_               - ]-
+-9070,2070000,<OCL unver>,Ornithocercus thumii   -[  IMARPE05_              - ]-
+-9071,2070000,<OCL unver>,Protoperidinium mendiolae   -[  IMARPE05_         - ]-
+-9073,2070000,<OCL unver>,Ceratium extensum var strictum   -[  IMARPE05_    - ]-
+-9074,2070000,<OCL unver>,Ceratium paradoxoides   -[  IMARPE05_             - ]-
+-9075,2080000,<OCL unver>,Codonella galea   -[  IMARPE05_                   - ]-
+-9076,2070000,<OCL unver>,Dissodinium gerbaultii   -[  IMARPE05_            - ]-
+-9077,2080000,<OCL unver>,Eutintinnus similis   -[  IMARPE05_               - ]-
+-9078,2070000,<OCL unver>,Oxytoxum cristatum   -[  IMARPE05_                - ]-
+-9079,2070000,<OCL unver>,Pyrodinium schilleri   -[  IMARPE05_              - ]-
+-9080,2070000,<OCL unver>,Pyrophacus vancampoae   -[  IMARPE05_             - ]-
+-9081,2070000,<OCL unver>,Protoperidinium tristylum   -[  IMARPE05_         - ]-
+-9082,2080000,<OCL unver>,Rhabdonella intermedia   -[  IMARPE05_            - ]-
+-9083,2070000,<OCL unver>,Ceratium macroceros var gallicum   -[  IMARPE05_ ]-
+-9084,2070000,<OCL unver>,Ceratium vultur f japonicum   -[  IMARPE05_ ]-
+-9085,2080000,<OCL unver>,Codonella apicata   -[  IMARPE05_ ]-
+-9086,2080000,<OCL unver>,Coxliella annulata   -[  IMARPE05_ ]-
+-9087,2080000,<OCL unver>,Epiplocylis   -[  IMARPE05_ ]-
+-9088,2080000,<OCL unver>,Epiplocylis undella   -[  IMARPE05_ ]-
+-9089,2070000,<OCL unver>,Gonyaulax inflata   -[  IMARPE05_ ]-
+-9090,2070000,<OCL unver>,Heterodinium curvatum   -[  IMARPE05_ ]-
+-9091,2080000,<OCL unver>,Proplectella perpusilla   -[  IMARPE05_ ]-
+-9092,2070000,<OCL unver>,Protoceratium spinulosum   -[  IMARPE05_ ]-
+-9093,2070000,<OCL unver>,Protoperidinium pyrum   -[  IMARPE05_ ]-
+-9094,2070000,<OCL unver>,Pyrocystis gerbaultii   -[  IMARPE05_ ]-
+-9095,2080000,<OCL unver>,Rhabdonellopsis intermedia   -[  IMARPE05_ ]-
+-9096,2080000,<OCL unver>,Steenstrupiella oliva   -[  IMARPE05_ ]-
+-9097,2080000,<OCL unver>,Tintinnopsis buetschlii v mortensonii   -[  IMARPE05_ ]-
+-9098,2080000,<OCL unver>,Tintinnopsis glans   -[  IMARPE05_ ]-

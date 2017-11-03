@@ -1,0 +1,22 @@
+code_name,comparable biology value calculation method
+units,WOD code table
+70,Original measurement in units of "per m<sup>3</sup>"
+72,Original measurement in units of "per ml"
+78,Original measurement in units of "per liter"
+84,Original measurement in units of "per ul"
+69.1,Vertical Tow: used "lower_depth - upper_depth" as "towing distance"
+
+69.2,Horizontal Tow: used provided (tow_distance) for "towing distance"
+69.3,Horizontal Tow: used (tow_speed * tow_time) for "towing distance"
+69.6,Other Tow: used (tow_distance) for "towing distance
+69.7,Other Tow: used (tow_speed * tow_time) for "towing distance"
+69.8,Other Tow: used (lower_depth - upper_depth) as "towing distance"
+-69,Insufficient metadata available to convert "per haul" to "per m<sup>3</sup>"
+68.1,Used provided Volume_filtered used for "volume filtered"
+68.2,Horizontal Tow: used (tow_distance * mouth_area) for "volume filtered"
+68.3,Horizontal Tow: used (tow_speed * tow_time * mouth_area) for "vol filt"
+68.4,Vertical Tow: used ((lower_depth - upper_depth) * mouth_area) for "
+68.5,Other Tow: used (tow_distance * mouth_area) for "volume filtered"
+68.6,Other Tow: used (tow_speed * tow_time * mouth_area) for "vol filtered"
+68.7,Other Tow: used ((lower_depth - upper_depth) * mouth_area) for "
+-68,Insufficient metadata available to convert "per haul" to "per m<sup>3</sup>"

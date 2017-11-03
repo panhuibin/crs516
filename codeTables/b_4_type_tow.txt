@@ -1,0 +1,6 @@
+code_name,Type of tow
+units,WOD code
+1,HORIZONTAL TOW
+2,VERTICAL TOW
+3,OTHER TYPE (oblique, double oblique, etc.)
+4,DEPTH STRAT (depth stratified (e.g. MOCNESS, etc.))

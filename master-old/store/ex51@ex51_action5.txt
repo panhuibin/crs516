@@ -1,0 +1,88 @@
+	/**
+	 * Key idea: Same as action4 but this time the reading of the stations is done using 
+	 * a ForkJoin pool. This will only be useful it there are multiple CPUs and actually
+	 * slow the program down if there is only one CPU available.
+	 */
+	public void action5() {
+		double maxDistance = 0;
+		double[][] stationLocations = new double[dataService.size()][];
+
+		//Create a ForkJoin pool.
+		ForkJoinPool forkPool = new ForkJoinPool();
+		
+		//To avoid thrashing use chunks that are the same size as the cache.
+		int chunkSize = FileBasedDataService.MANAGEABLE_SIZE;
+		for (int cursor = 0; 
+				cursor < dataService.size(); 
+					cursor += FileBasedDataService.MANAGEABLE_SIZE) {
+			int endPoint = min(cursor + chunkSize - 1, dataService.size() - 1);
+			
+			//Create and submit the job to the ForkJoinPool.
+			ForkStationReader fsr 
+					= new ForkStationReader(stationLocations, cursor, endPoint);
+			forkPool.invoke(fsr);//This thread will block until job is done.
+		}
+		
+		logger.info("done!");
+		for (int i = 0; i < dataService.size(); i++) {
+			for (int j = i + 1; j < dataService.size(); j++) {
+				maxDistance = max(
+						maxDistance,
+						calculateDistance(stationLocations[i],
+								stationLocations[j]));
+			}
+		}
+		maximumDistance = Math.sqrt(maxDistance)*DistanceUnits.KILOMETERS.factor;
+	}
+	
+	/**
+	 * The ForkJoin task.
+	 * @author crs 516 Development team.
+	 *
+	 */
+	class ForkStationReader extends RecursiveAction{
+
+		private static final long serialVersionUID = 1L;
+		double[][] stationLocations;
+		int startingI;
+		int endingI;
+		
+		public ForkStationReader(double[][] stationLocations, int startingI, int endingI) {
+			super();
+			this.stationLocations = stationLocations;
+			this.startingI = startingI;
+			this.endingI = endingI;
+		}
+
+		@Override
+		protected void compute() {
+			logger.info("Thread {}", Thread.currentThread().getId());
+			logger.info("Computing from {} to {}",startingI, endingI);
+			int span = endingI - startingI;
+			//Small jobs are done directly.
+			if(span<1000){
+				computeDirectly();
+			}
+			else{
+				//Break the job into two pieces and submit the pieces to the pool.
+				int middle = startingI+span/2;
+				invokeAll(new ForkStationReader(stationLocations, startingI, middle),
+						new ForkStationReader(stationLocations, middle+1, endingI));
+			}
+		}
+		
+		protected void computeDirectly(){
+			try {
+				for (int i = startingI; i <= endingI; i++) {
+					Station station = dataService.read(i);
+					double latitude = Double.parseDouble(station
+							.getLatitudeString());
+					double longitude = Double.parseDouble(station
+							.getLongitudeString());
+					stationLocations[i] = new double[] { latitude, longitude };
+				}
+			} catch (RecordNotFoundException | IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}

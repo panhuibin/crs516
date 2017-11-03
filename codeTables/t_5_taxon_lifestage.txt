@@ -1,0 +1,85 @@
+code_name,lifestage
+units,WOD code table
+1,EGG/OVA
+2,NAUPLIUS/NAUPLII
+3,ZOEA      (decapods)
+4,MEGALOPA  (decapods)
+5,VELIGER  (gastropods)
+6,LARVA
+7,JUVENILE
+8,ADULT
+9,LARVA+JUV+ADULTS  (Codes 6+7+8)
+10,C5: COPEPODITE V
+11,POSTLARVAE/SUB-ADULT    (Codes 7+8)
+12,CYPHONAUTES larva (byrozoa)
+13,PHYLLOSOMA larva  (Palinuridae)
+14,PILIDIUM larva (Nemertea)
+15,TORNARIA larva (Enteropneusta)
+16,TROCHOPHORE larva
+17,ARACHNACTIS* larva      (Cerianthida)
+18,ACTINOTROCHA* larva     (Phoronidae)
+19,EMBRYO        (e.g., sea urchin embryo)
+20,CYPRIS larva  (barnacle)
+21,BIPINNARIA larva  (Asteroidea)
+22,OPHIOPLUTEUS larva      (Ophiuroidea)
+23,ECHINOPLUTEUS larva     (Echinoidea)
+24,"hypnospores" refers to "resting stages", "cysts", etc.
+25,C1: COPEPODITE I
+26,C2: COPEPODITE II
+27,C3: COPEPODITE III
+28,C4: COPEPODITE IV
+29,COPEPODITE(S) sum of various (unspecified) copepodite stages
+30,CALYPTOPIS    (Euphausids)
+31,FURCILIA      (Euphausids)
+32,N1: NAUPLIUS I
+33,N2: NAUPLIUS II
+34,N3: NAUPLIUS III
+35,N4: NAUPLIUS IV
+36,N5: NAUPLIUS V
+37,METANAUPLIUS
+38,POLYP  (Anthozoa, Scyphozoa, or Hydrozoa)
+39,MEDUSAE
+40,INDETERMINABLE
+41,GAMETES
+42,ORTHONAUPLIUS
+43,C1-5: COPEPODITE I-V    all stages (1-5) were counted
+44,DEAD or non-viable
+45,LIVING or viable
+46,MULLERS LARVA (Turbellaria)
+47,EGGS + LARVAE (Codes 1+6)
+48,N6: NAUPLIUS VI         could be metanauplius
+49,PLUTEUS larva (Echinodermata)
+50,C3-4: COPEPODITE 3 - 4  stages (3-4) were counted in one group
+51,C5-6: COPEPODITE 5 - 6  stages (5-6) were counted in one group
+52,C6: COPEPODITE VI
+53,N2-3: NAUPLII 2 - 3
+54,N3-4: NAUPLII 3 - 4
+55,N4-5: NAUPLII 4 - 5
+56,N5-6: NAUPLII 5 - 6
+57,C4-5: COPEPODITE 4 - 5
+58,N3-5: NAUPLII 3 - 5
+59,C1-2: COPEPODITE 1 - 2
+60,C2-3: COPEPODITE 2 - 3
+61,PUPA
+62,NYMPH
+63,PROTOZOEA
+64,MYSIS
+65,GLAUCOTHOE
+66,POLYGASTRIC PHASE
+67,EUDOXID PHASE
+71,MOLT STAGE 1  (decapods)
+72,MOLT STAGE 2  (decapods)
+73,MOLT STAGE 3  (decapods)
+74,MOLT STAGE 4  (decapods)
+75,MOLT STAGE 5  (decapods)
+76,MOLT STAGE 6  (decapods)
+77,MOLT STAGE 7  (decapods)
+78,MOLT STAGE 8  (decapods)
+79,MOLT STAGE 9  (decapods)
+80,C1-4: COPEPODITE 1 - 4
+81,C1-6: COPEPODITE 1 - 6
+82,N1-6: NAUPLII 1 - 6
+83,ECHINOSPIRA  veliger larva of Lamellaria persicua
+84,MASTIGOPUS   "first post-larval stage" of Shrimp (+crabs)
+85,EPHYRA life stage genus Aurelia
+86,C1-3: COPEPODITE 1 - 3  stages (1-3) were counted in one group

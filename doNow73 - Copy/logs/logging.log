@@ -1,0 +1,201 @@
+04:34:16,561  INFO FileBasedDataService:146 - Cleaning up work directory
+04:34:16,561  INFO FileBasedDataService:136 - Service ID is 0
+04:37:49,978  INFO FileBasedDataService:146 - Cleaning up work directory
+04:37:49,978  INFO FileBasedDataService:136 - Service ID is 0
+04:37:49,995  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:49 EDT 2015
+04:37:49,995  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:49,995  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+04:37:49,995  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:50,995  INFO FileBasedDataService:136 - Service ID is 1
+04:37:50,995  INFO FileBasedDataService:136 - Service ID is 2
+04:37:50,995  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:50 EDT 2015
+04:37:50,995  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:50,995  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+04:37:50,995  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:51,996  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:37:51,996  INFO FileBasedDataService:136 - Service ID is 3
+04:37:51,996  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:51 EDT 2015
+04:37:51,996  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:51,996  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\3/0.db
+04:37:51,996  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:52,997  INFO FileBasedDataService:136 - Service ID is 4
+04:37:52,997  INFO FileBasedDataService:136 - Service ID is 5
+04:37:52,997  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:52 EDT 2015
+04:37:52,997  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:52,997  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\5/0.db
+04:37:52,997  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:53,998  INFO FileBasedDataService:136 - Service ID is 6
+04:37:53,998  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 04:37:53 EDT 2015
+04:37:54,124  INFO FileBasedDataService:387 - dataSize is now 72
+04:37:54,124  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\6/0.db
+04:37:54,124  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+04:37:54,999  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:37:54,999  INFO FileBasedDataService:136 - Service ID is 7
+04:37:54,999  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:54 EDT 2015
+04:37:54,999  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:54,999  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\7/0.db
+04:37:54,999  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:56,000  INFO FileBasedDataService:136 - Service ID is 8
+04:37:56,000  INFO FileBasedDataService:136 - Service ID is 9
+04:37:56,000  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:56 EDT 2015
+04:37:56,000  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:56,000  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\9/0.db
+04:37:56,000  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:57,001  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:37:57,001  INFO FileBasedDataService:136 - Service ID is 10
+04:37:57,001  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:57 EDT 2015
+04:37:57,001  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:57,001  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\10/0.db
+04:37:57,001  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:58,002  INFO FileBasedDataService:136 - Service ID is 11
+04:37:58,002  INFO FileBasedDataService:136 - Service ID is 12
+04:37:58,002  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:58 EDT 2015
+04:37:58,002  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:58,002  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\12/0.db
+04:37:58,002  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:37:59,003  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:37:59,003  INFO FileBasedDataService:136 - Service ID is 13
+04:37:59,003  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:37:59 EDT 2015
+04:37:59,003  INFO FileBasedDataService:387 - dataSize is now 1
+04:37:59,003  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\13/0.db
+04:37:59,003  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:00,004  INFO FileBasedDataService:136 - Service ID is 14
+04:38:00,004  INFO FileBasedDataService:136 - Service ID is 15
+04:38:00,004  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 04:38:00 EDT 2015
+04:38:00,004  INFO FileBasedDataService:387 - dataSize is now 72
+04:38:00,004  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\15/0.db
+04:38:00,004  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+04:38:01,005  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:01,005  INFO FileBasedDataService:136 - Service ID is 16
+04:38:01,005  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:01 EDT 2015
+04:38:01,005  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:01,005  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\16/0.db
+04:38:01,005  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:02,006  INFO FileBasedDataService:136 - Service ID is 17
+04:38:02,006  INFO FileBasedDataService:136 - Service ID is 18
+04:38:02,006  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:02 EDT 2015
+04:38:02,006  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:02,006  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\18/0.db
+04:38:02,006  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:03,007  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:03,007  INFO FileBasedDataService:136 - Service ID is 19
+04:38:03,007  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:03 EDT 2015
+04:38:03,007  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:03,007  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\19/0.db
+04:38:03,007  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:04,008  INFO FileBasedDataService:136 - Service ID is 20
+04:38:04,008  INFO FileBasedDataService:136 - Service ID is 21
+04:38:04,008  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:04 EDT 2015
+04:38:04,008  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:04,008  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\21/0.db
+04:38:04,008  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:05,009  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:05,009  INFO FileBasedDataService:136 - Service ID is 22
+04:38:05,009  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:05 EDT 2015
+04:38:05,009  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:05,009  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\22/0.db
+04:38:05,009  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:06,010  INFO FileBasedDataService:136 - Service ID is 23
+04:38:06,010  INFO FileBasedDataService:136 - Service ID is 24
+04:38:06,010  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Mon May 18 04:38:06 EDT 2015
+04:38:06,026  INFO FileBasedDataService:387 - dataSize is now 72
+04:38:06,026  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\24/0.db
+04:38:06,026  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+04:38:07,011  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:07,011  INFO FileBasedDataService:136 - Service ID is 25
+04:38:07,011  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:07 EDT 2015
+04:38:07,011  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:07,011  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\25/0.db
+04:38:07,011  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:08,012  INFO FileBasedDataService:136 - Service ID is 26
+04:38:08,012  INFO FileBasedDataService:136 - Service ID is 27
+04:38:08,012  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:08 EDT 2015
+04:38:08,044  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:08,044  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\27/0.db
+04:38:08,044  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:09,013  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:09,013  INFO FileBasedDataService:136 - Service ID is 28
+04:38:09,013  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:09 EDT 2015
+04:38:09,013  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:09,013  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\28/0.db
+04:38:09,013  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:10,014  INFO FileBasedDataService:136 - Service ID is 29
+04:38:10,014  INFO FileBasedDataService:136 - Service ID is 30
+04:38:10,014  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:10 EDT 2015
+04:38:10,014  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:10,014  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\30/0.db
+04:38:10,014  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:11,015  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:11,015  INFO FileBasedDataService:136 - Service ID is 31
+04:38:11,015  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:11 EDT 2015
+04:38:11,015  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:11,015  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\31/0.db
+04:38:11,015  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:12,016  INFO FileBasedDataService:136 - Service ID is 32
+04:38:12,016  INFO FileBasedDataService:136 - Service ID is 33
+04:38:12,016  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 04:38:12 EDT 2015
+04:38:12,016  INFO FileBasedDataService:387 - dataSize is now 1
+04:38:12,016  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\33/0.db
+04:38:12,016  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\test.txt loaded
+04:38:13,017  INFO FileBasedDataServiceTest:268 - Shutting down executor
+04:38:13,627  INFO FileBasedDataService:136 - Service ID is 34
+04:41:19,335  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:41:19 EDT 2015]; root of context hierarchy
+04:41:19,398  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:41:19,554  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:43:54,456  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:43:54 EDT 2015]; root of context hierarchy
+04:43:54,518  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:43:54,690  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:56:38,099  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:56:38 EDT 2015]; root of context hierarchy
+04:56:38,146  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:56:38,318  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:57:09,288  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:57:09 EDT 2015]; root of context hierarchy
+04:57:09,350  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:57:09,522  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:58:15,587  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:58:15 EDT 2015]; root of context hierarchy
+04:58:15,634  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:58:15,806  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:58:15,915  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+04:58:15,931  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,WODController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+04:58:15,931  INFO DefaultListableBeanFactory:433 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,WODController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+04:59:04,401  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:59:04 EDT 2015]; root of context hierarchy
+04:59:04,448  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:59:04,620  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:59:04,729  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+04:59:04,745  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,WODController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+04:59:04,761  INFO FileBasedDataService:152 - Cleaning up work directory
+04:59:04,776  INFO FileBasedDataService:142 - Service ID is 0
+04:59:51,984  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 04:59:51 EDT 2015]; root of context hierarchy
+04:59:52,047  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+04:59:52,218  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+04:59:52,343  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+04:59:52,343  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,wodController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+04:59:52,359  INFO FileBasedDataService:152 - Cleaning up work directory
+04:59:52,359  INFO FileBasedDataService:142 - Service ID is 0
+05:00:01,268  INFO WODController:166 - Loading C:\crs516\sourcecode\data\test.txt
+05:00:01,784  INFO WODController:197 - About to read file test.txt
+05:00:01,784  INFO FileBasedDataService:85 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 05:00:01 EDT 2015
+05:00:01,784  INFO FileBasedDataService:393 - dataSize is now 1
+05:00:01,784  INFO FileBasedDataService:349 - Reading block C:\crs516\sourcecode\work\0/0.db
+05:00:01,784  INFO FileBasedDataService:93 - Data from C:\crs516\sourcecode\data\test.txt loaded
+05:00:02,269  INFO WODController:204 - All stations from test.txt are loaded!
+15:49:03,529  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 15:49:03 EDT 2015]; root of context hierarchy
+15:49:03,638  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+15:49:04,154  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+15:49:04,500  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+15:49:04,515  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,wodController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+15:49:04,531  INFO FileBasedDataService:152 - Cleaning up work directory
+15:49:04,531  INFO FileBasedDataService:142 - Service ID is 0
+17:03:55,458  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Mon May 18 17:03:55 EDT 2015]; root of context hierarchy
+17:03:55,630  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+17:03:55,818  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+17:03:55,943  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+17:03:55,958  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2038ae61: defining beans [fileBasedDataService,wodController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+17:03:55,958  INFO FileBasedDataService:153 - Cleaning up work directory
+17:03:55,974  INFO FileBasedDataService:143 - Service ID is 0
+17:04:02,975  INFO WODController:170 - Loading C:\crs516\sourcecode\data\test.txt
+17:04:03,460  INFO WODController:201 - About to read file test.txt
+17:04:03,460  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\test.txt at Mon May 18 17:04:03 EDT 2015
+17:04:03,476  INFO FileBasedDataService:394 - dataSize is now 1
+17:04:03,476  INFO FileBasedDataService:350 - Reading block C:\crs516\sourcecode\work\0/0.db
+17:04:03,476  INFO FileBasedDataService:94 - Data from C:\crs516\sourcecode\data\test.txt loaded
+17:04:04,132  INFO WODController:208 - All stations from test.txt are loaded!

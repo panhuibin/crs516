@@ -1,0 +1,122 @@
+14:37:01,111  INFO TaskEngineStarter:58 - RMI registry ready.
+14:37:01,193  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+14:37:07,335  INFO Client:43 - commandImpl created 
+14:39:58,343  INFO TaskEngineStarter:90 - Registry is closed
+14:39:58,343  INFO TaskEngineImpl:69 - Task engine says bye!.
+14:40:30,101  INFO TaskEngineStarter:58 - RMI registry ready.
+14:40:30,180  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+14:41:32,147  INFO Client:43 - commandImpl created 
+14:41:32,272  INFO TaskEngineLocator:30 - engine located 
+14:41:32,303  INFO CompositeCommandImpl:42 - run() called 
+14:41:32,303  INFO Client:55 - task submitted
+14:41:32,303  INFO CommandBytesInProfileImpl:17 - run() called 
+14:41:32,303  INFO FileBasedDataService:155 - Cleaning up work directory
+14:41:32,319  INFO FileBasedDataService:145 - Service ID is 0
+14:41:32,319  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:41:32 EST 2014
+14:41:32,321  INFO FileBasedDataService:308 - dataSize is now 72
+14:41:32,321  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+14:41:32,322  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:41:33,766  INFO CommandCountryImpl:17 - run() called 
+14:41:33,766  INFO FileBasedDataService:145 - Service ID is 1
+14:41:33,766  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:41:33 EST 2014
+14:41:33,766  INFO FileBasedDataService:308 - dataSize is now 72
+14:41:33,766  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+14:41:33,766  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:41:34,783  INFO CommandCruiseNumberImpl:17 - run() called 
+14:41:34,783  INFO FileBasedDataService:145 - Service ID is 2
+14:41:34,783  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:41:34 EST 2014
+14:41:34,783  INFO FileBasedDataService:308 - dataSize is now 72
+14:41:34,783  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+14:41:34,783  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:54:07,686  INFO TaskEngineStarter:90 - Registry is closed
+14:54:07,686  INFO TaskEngineImpl:69 - Task engine says bye!.
+14:54:16,752  INFO TaskEngineStarter:58 - RMI registry ready.
+14:54:16,831  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+14:54:21,550  INFO Client:43 - commandImpl created 
+14:54:21,675  INFO TaskEngineLocator:23 - engine located 
+14:54:21,691  INFO Client:55 - task submitted
+14:54:21,691  INFO CompositeCommandImpl:42 - run() called 
+14:54:21,691  INFO CommandBytesInProfileImpl:19 - run() called 
+14:54:21,706  INFO FileBasedDataService:155 - Cleaning up work directory
+14:54:21,706  INFO FileBasedDataService:145 - Service ID is 0
+14:54:21,706  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:54:21 EST 2014
+14:54:21,723  INFO FileBasedDataService:308 - dataSize is now 72
+14:54:21,723  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+14:54:21,739  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:54:22,958  INFO CommandCountryImpl:19 - run() called 
+14:54:22,958  INFO FileBasedDataService:145 - Service ID is 1
+14:54:22,958  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:54:22 EST 2014
+14:54:22,958  INFO FileBasedDataService:308 - dataSize is now 72
+14:54:22,958  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+14:54:22,958  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+14:54:23,975  INFO CommandCruiseNumberImpl:19 - run() called 
+14:54:23,975  INFO FileBasedDataService:145 - Service ID is 2
+14:54:23,975  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Jan 30 14:54:23 EST 2014
+14:54:23,975  INFO FileBasedDataService:308 - dataSize is now 72
+14:54:23,975  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+14:54:23,975  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+15:54:12,093  INFO TaskEngineStarter:90 - Registry is closed
+15:54:12,093  INFO TaskEngineImpl:69 - Task engine says bye!.
+11:29:15,303  INFO TaskEngineStarter:60 - RMI registry ready.
+11:29:15,490  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+11:29:21,691  INFO Client:43 - commandImpl created 
+11:29:21,714  INFO CommandBytesInProfileImpl:19 - run() called 
+11:29:21,714  INFO Client:45 - command submitted to task engine
+11:29:21,722  INFO FileBasedDataService:146 - Cleaning up work directory
+11:29:21,727  INFO FileBasedDataService:136 - Service ID is 0
+11:29:21,732  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:29:21 EST 2014
+11:29:21,749  INFO FileBasedDataService:387 - dataSize is now 72
+11:29:21,749  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+11:29:21,750  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+11:29:22,849  INFO CommandCountryImpl:19 - run() called 
+11:29:22,850  INFO FileBasedDataService:136 - Service ID is 1
+11:29:22,850  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:29:22 EST 2014
+11:29:22,855  INFO FileBasedDataService:387 - dataSize is now 72
+11:29:22,855  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\1/0.db
+11:29:22,856  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+11:29:23,865  INFO CommandCruiseNumberImpl:19 - run() called 
+11:29:23,867  INFO FileBasedDataService:136 - Service ID is 2
+11:29:23,867  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:29:23 EST 2014
+11:29:23,872  INFO FileBasedDataService:387 - dataSize is now 72
+11:29:23,872  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+11:29:23,873  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+11:32:14,856  INFO CommandBytesInProfileImpl:19 - run() called 
+11:32:14,857  INFO FileBasedDataService:136 - Service ID is 3
+11:32:14,858  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:32:14 EST 2014
+11:32:14,863  INFO FileBasedDataService:387 - dataSize is now 72
+11:32:14,863  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\3/0.db
+11:32:14,863  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+11:32:15,873  INFO CommandCountryImpl:19 - run() called 
+11:32:15,874  INFO FileBasedDataService:136 - Service ID is 4
+11:32:15,874  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:32:15 EST 2014
+11:32:15,877  INFO FileBasedDataService:387 - dataSize is now 72
+11:32:15,877  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\4/0.db
+11:32:15,877  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+11:32:16,887  INFO CommandCruiseNumberImpl:19 - run() called 
+11:32:16,888  INFO FileBasedDataService:136 - Service ID is 5
+11:32:16,888  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 11:32:16 EST 2014
+11:32:16,893  INFO FileBasedDataService:387 - dataSize is now 72
+11:32:16,893  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\5/0.db
+11:32:16,894  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+12:00:54,873  INFO Client:44 - commandImpl created 
+12:00:54,888  INFO Client:46 - command submitted to task engine
+12:00:54,888  INFO CommandBytesInProfileImpl:19 - run() called 
+12:00:54,888  INFO FileBasedDataService:136 - Service ID is 6
+12:00:54,888  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 12:00:54 EST 2014
+12:00:54,889  INFO FileBasedDataService:387 - dataSize is now 72
+12:00:54,905  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\6/0.db
+12:00:54,905  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+12:00:55,889  INFO CommandCountryImpl:19 - run() called 
+12:00:55,890  INFO FileBasedDataService:136 - Service ID is 7
+12:00:55,890  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 12:00:55 EST 2014
+12:00:55,906  INFO FileBasedDataService:387 - dataSize is now 72
+12:00:55,906  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\7/0.db
+12:00:55,906  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+12:00:56,906  INFO CommandCruiseNumberImpl:19 - run() called 
+12:00:56,906  INFO FileBasedDataService:136 - Service ID is 8
+12:00:56,906  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sun Nov 09 12:00:56 EST 2014
+12:00:56,906  INFO FileBasedDataService:387 - dataSize is now 72
+12:00:56,906  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\8/0.db
+12:00:56,906  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+12:12:46,134  INFO TaskEngineStarter:99 - Registry is closed
+12:12:46,134  INFO TaskEngineImpl:69 - Task engine says bye!.

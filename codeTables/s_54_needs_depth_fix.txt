@@ -1,0 +1,8 @@
+code_name,needs_depth_fix
+units,WOD code
+-1,insufficient information
+0,no fix necessary
+1,Hanawa et al.; 1994 (XBT)
+2,Kizu et al.; 2005 (XBT)
+103,Johnson; 1995 (XCTD)
+104,Mizuno and Watanabe; 1998 (XCTD)

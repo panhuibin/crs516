@@ -1,0 +1,86 @@
+Code table: s_92_ukho_ref,
+,
+CODE,REFERENCE 
+77 - 107,"ICES (1902?1914, 1919?1937)"
+381 - 519,No information provided
+522 - 530,Japan (1923?1941)
+531 - 659,No information provided
+2010 - 3265,No information provided
+3260,ICES (1938?1939)
+3520 - 6652,No information provided
+6752,Danish Light Vessels (1932)
+6790 - 6865,No information provided
+6944,Danish Light Vessels (1938)
+6945,Danish Light Vessels (1945)
+6961 - 7065,No information provided
+7110,No information provided
+7138 - 7337,No information provided
+7410,Danish Light Vessels (1946)
+7635 - 7838,No information provided
+8125,Danish Light Vessels (1947)
+8313,No information provided
+8470,Danish Light Vessels (1948)
+8471,Danish Light Vessels (1949)
+8517 - 8562,No information provided
+8567,Danish Light Vessels (1950)
+8568 ? 8823,No Information Provided
+8888,Danish Light Vessels (1951)
+9349,No Information Provided
+9357,No Information Provided
+9448,Danish Light Vessels (1953)
+9554,Danish Light Vessels (1952)
+9580 -10383,No Information Provided
+10477,Danish Light Vessels (1939)
+10478,Danish Light Vessels (1940)
+10777,No Information Provided
+10816,Danish Light Vessels (1954)
+10923 -10940,No Information Provided
+-1,ICES Bulletin Hydrographique
+-2,Norwegian Records
+"-3, -4",Ernest Holt (1949 - 1958)
+-5,SMED
+-6,Caspian Sea
+-7,Canadian Oceanographic Data Center
+-8,COEC
+-9,EXPL. MER URSS
+"-10, -11",JOHAN HJORT (1900 - 1901)
+"-12, -13",DAMPIER (1965)
+"-14, -15",ALBATROSS (1948)
+-16,GRAMPUS (1963)
+-17,NARWHAL (1964)
+-18,NC847
+-19,VEIDING (1931)
+-20,WMH
+-21,Analysis De Hydrographique
+-22,Northern Waters
+-23,Bulletin Russian Hydrographic Institute
+-24,ZUBOV
+-25,F14
+-26,BPMR
+-27,PALLISES
+-28,ROSNELL
+-29,Ocean Weather Station E
+-30,Ocean Weather Station
+-31,RUSSELL
+-32,0 or 00
+-33,ELBE 1
+-34,ELBF 1 / ELBF I
+-35,ELSE 1
+-36,ELBE 2
+-37,WESER
+-38,S2
+-39,R74
+-40,Ocean Weather Station J
+-41,ONT
+-42,DUNKIR
+-43,Q
+-44,PRISSEL
+-45,BORKUMR
+-46,368C
+-47,368A
+-48,DISCOVERY II (1955 ? 1956)
+-49,BUYAYED
+-50,100T
+-51,No information provided
+,
+"If the UKHO originator=s code was not numeric (e.g. text string), the OCL assigned a negative numeric code ",

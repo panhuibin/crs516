@@ -1,0 +1,28 @@
+#Note that this file is manually created from table 6. The third
+#value is the table to reference
+#ID	DESCRIPTION	App
+1	Water volume filtered (m3)
+14	Tow distance (meters)
+2	Sampling duration (minutes)
+15	Average towing speed (knots)
+3	Mesh size (&#0181;m)
+16	Sampling start time (GMT)
+4	Type of tow	4.1
+18	Flowmeter type	4.3
+5	Large removed volume (ml)
+19	Flowmeter calibration	4.7
+6	Large plankters removed	4.2
+20	Counting institution	File
+7	Gear code	4.3
+21	Voucher Institution	File
+8	Sampler volume (liters)
+22	Wire angle start (degrees)
+9	Net mouth area (m2)
+23	Wire angle end (degrees)
+10	Preservative	4.4
+24	Depth determination method	4.8
+11	Weight method	4.5
+25	Volume method	4.9
+12	Large removed length (cm)
+30	Accession number for the biology	File
+13	Count method	4.6

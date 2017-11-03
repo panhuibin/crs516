@@ -1,0 +1,10 @@
+0,accepted value
+1,bullseye marker
+2,density inversion
+3,failed annual standard deviation check
+4,failed seasonal standard deviation check
+5,failed monthly standard deviation check
+6,failed annual and seasonal standard deviation check
+7,failed annual and monthly standard deviation check
+8,failed seasonal and monthly standard deviation check
+9,failed annual; seasonal and monthly standard deviation check

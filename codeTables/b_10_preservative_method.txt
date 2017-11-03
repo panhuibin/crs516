@@ -1,0 +1,34 @@
+code_name,Preservation method
+units,WOD code
+1,4-5% formalin, unbuffered
+2,4-5% formalin, hexamine buffered
+3,4-5% formalin, borax or borate buffered 
+4,10%  formalin, seawater, buffered
+5,4-5% formalin,seawater(buffered/unbuffered unspecified)
+6,4-5% formalin, no ref. to water-type or buffering 
+7,4-5% formalin, buffered, (buffer unspecified)
+8,10% filtered paraformaldehyde                     
+9,2-10% formalin, seawater, buffered(buffer unspecified)
+10,5-10% formalin, seawater, buffered,buffer unspecified) 
+11,1% formalin, buffered (buffer unspecified)
+12,2% formalin, buffered (buffer unspecified)             
+13,3-5% formalin, seawater, unbuffered                   
+14,5% formalin, seawater, borax buffered                
+15,4-5% formalin, seawater, sodium bicarbonate         
+16,liquid nitrogen                                    
+17,Lugol's Solution ("acidified Lugol's iodine")     
+18,formalin, no info on: %,buffering,water type     
+19,preservative used, no additional information provided 
+20,10% buffered formalin                                
+21,Formol-hexamine (5% concentraction)
+22,20% buffered formalin
+23,20% buffered formalin + strontium chloride
+24,1%-paraform + deep freeze (frozen in liquid nitrogen at -85 dec. C)
+25,1%-glutaraldehyde + deep freeze (frozen in liquid nitrogen at -85 dec. C)
+26,3% formalin, seawater, (buffered/unbuffered unspecified)
+27,2% formalin, no ref. to water-type or buffering
+29,10% formalin, no ref. to water-type or buffering
+31,90% Acetone
+32,2% Glutaraldehyde
+33,N-dimethylfloramide
+34,Lugol+Formalin,fixed by Lugol's solution after sample blooming by 40% formaldehyde

@@ -1,0 +1,27 @@
+code_name,Count method
+units,WOD code
+1,COUNTING CHAMBER; counting chamber method
+2,ACID LUGOLS STAIN; stained (acid Lugols) and counted
+3,AUTOFLUORESCE;autoflourescing/counted under microscope
+4,DAPI; stained/counted using epifluorescence microscopy
+5,MUD (or MPN); Method of Ultimate Dilution
+6,MICROSCOPE; counted under a microscope
+7,COMPLETE ENUMERATION; complete enumeration
+8,FOLSOM SPLITTER; complete enumeration using Folsom Spl
+9,EPIFLUOR MICROSCOPIC; staining unspecified
+10,CENTRIFUGE METHOD; centrifuge method (Gran, 1932)
+11,ALIQUOT AND FULL; counted aliquout, then counted FULL
+12,COULTER COUNTER; counted with a coulter counter
+13,INVERTED MICROSCOPE
+14,BACTERIA Epiflour microscopy - Acrodine Orange stained
+15,CELL CYTOMETRY
+16,BACTERIA Epiflour microscopy - unspecified stained
+17,OPTICAL PLANKTON COUNTER (OPC)
+18,OPTICAL MICROSCOPY with correction for cell lose during fixation
+19,FMIAS; Flourescence microscope image analysis system
+20,Monger & Landry cytometry via "Monger & Landry, 1993"
+21,Olson & Sosik split beam cytometry (range 1-40 um)
+22,Replicate aliquots were counted and averaged
+23,Perez IMECOCAL; Folsom splitter to 1/8-1/16 (~ 800-900 individuals) then stereoscopic microscope
+24,SEDIMENTATION AND INVERTED MICROSCOPE
+25,RELATIVE ABUNDANCE

@@ -1,0 +1,34 @@
+
+Ex 2.1
+Add the solution of TODO 4 bonus to the load
+In the import statements use * because some use assertTrue and others assertEquals
+
+
+Ex 2.2
+In the solution (not bonus) for the very last test change 1000 to 20
+
+DoNow 3.1 In the tehi program in the rules it says youto instead of you to. Add a space
+
+Ex31
+Ex 3-31
+Fix size of GUI. It starts off too small
+Changed it to use a BorderLayout which it should have done to start with
+
+Iterator in the FileBasedDataService should start at 0, not 1
+
+
+
+Ex 42
+Added to FileBasedDataService
+			//Just in case there was an exception and the writeLock was not unlocked 
+			if(rwLock.writeLock().isHeldByCurrentThread()){
+				rwLock.writeLock().unlock();
+			}
+			
+
+Ex 51
+JIPRunner arguments should be
+-noverify -javaagent:C:\crs516\sourcecode\lib\jip\profile.jar -Dprofile.properties=C:\crs516\sourcecode\lib\jip\profile.properties
+
+Ex72
+The tests were not on the build path

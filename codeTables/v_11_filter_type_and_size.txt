@@ -1,0 +1,24 @@
+Code table: v_11_filter_type_and_size,
+,
+CODE,DESCRIPTION
+100,GLASS-FIBER FILTER FINE MESH (GF/F)
+101,Reeve Angel GF/F 984H
+102,Whatman GF/F 25
+103,Whatman GF/F 47 mm
+104,Gelman GF/F 0.45u
+105,Gelman GF/F 0.8u
+106,Glass-Fiber Filter Coarse Mesh (GF/C)
+107,Whatman GF/F 0.8-1.2u
+200,MILLIPORE
+201,HA Millipore 47 mm (pore size = 0.45 u)
+300,NUCLEOPORE
+301,Nucleopore >10 micron
+302,Nucleopore 2-10 micron
+303,Nucleopore <2 micron
+400,PAPER FILTER
+500,UNSPECIFIED FILTER-TYPE
+501,>10 micron (unspecified type)
+502,2-10 micron (unspecified type)
+503,<2 micron (unspecified type)
+900,COMBINATION FILTER-TYPES
+901,Whatman GF/C and HA Millipore

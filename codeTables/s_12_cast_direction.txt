@@ -1,0 +1,6 @@
+code_name,Cast direction
+units,
+-1,DIRECTION NOT RECORDED
+0,DOWN
+1,UP
+2,AVERAGE OF UP AND DOWN CASTS

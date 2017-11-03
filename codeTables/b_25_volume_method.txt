@@ -1,0 +1,7 @@
+code_name,Volume method
+units,WOD code
+1,IOSD; IOSD 1991 (stored in 5% formalin solution/ measured several months later after initial shrinkage occured)
+2,WICKSTEAD (1965); Indonesian Data Reports
+3,24 HRS/50; Settle 24hrs in 50 ml grad. cylinder; Indonesian Data Reports 
+4,CENTRIFUGE; Centrifuge and measure all plankton together; IMARPE data
+

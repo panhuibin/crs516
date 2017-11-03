@@ -1,0 +1,409 @@
+17:35:16,887 ERROR TaskEngineStarter:64 - Failed to start engine because there is another taskengine running on that port
+17:35:20,263  INFO TaskEngineStarter:97 - Registry is already closed
+17:35:20,263  INFO TaskEngineStarter:99 - Registry is closed
+17:35:29,674  INFO TaskEngineStarter:60 - RMI registry ready.
+17:35:29,753  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+17:38:02,254  INFO Client:37 - engine located 
+17:38:02,254  INFO Client:74 - commandImpl created and populated
+17:38:02,270  INFO CommandBytesInProfileImpl:19 - run() called 
+17:38:02,275  INFO FileBasedDataService:146 - Cleaning up work directory
+17:38:02,291  INFO FileBasedDataService:136 - Service ID is 0
+17:38:02,291  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat May 16 17:38:02 EDT 2015
+17:38:02,306  INFO FileBasedDataService:387 - dataSize is now 72
+17:38:02,306  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\0/0.db
+17:38:02,306  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+17:38:03,419  INFO CommandCountryImpl:19 - run() called 
+17:38:03,419  INFO FileBasedDataService:136 - Service ID is 1
+17:38:03,419  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat May 16 17:38:03 EDT 2015
+17:38:03,435  INFO FileBasedDataService:387 - dataSize is now 72
+17:38:03,435  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\1/0.db
+17:38:03,435  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+17:38:04,419  INFO CommandCruiseNumberImpl:19 - run() called 
+17:38:04,452  INFO FileBasedDataService:136 - Service ID is 2
+17:38:04,452  INFO FileBasedDataService:82 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Sat May 16 17:38:04 EDT 2015
+17:38:04,452  INFO FileBasedDataService:387 - dataSize is now 72
+17:38:04,452  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\2/0.db
+17:38:04,452  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+17:38:05,452  INFO Client:77 - command submitted to task engine
+17:39:03,876  INFO TaskEngineImpl:50 - Task engine says bye!.
+13:36:43,100  INFO Client:54 - commandImpl created and populated
+13:36:43,116  INFO Client:56 - command submitted to task engine
+13:40:50,079  INFO Client:54 - commandImpl created and populated
+13:40:50,095  INFO Client:56 - command submitted to task engine
+17:31:28,548  INFO Client:56 - commandImpl created and populated
+17:31:28,564  INFO Client:58 - command submitted to task engine
+17:34:25,556  INFO Client:56 - commandImpl created and populated
+17:34:25,572  INFO Client:58 - command submitted to task engine
+17:45:03,551  INFO Client:61 - commandImpl created and populated
+17:45:03,566  INFO Client:63 - command submitted to task engine
+17:47:32,447  INFO Client:61 - commandImpl created and populated
+17:47:32,462  INFO Client:63 - command submitted to task engine
+17:49:19,248  INFO Client:61 - commandImpl created and populated
+17:49:19,248  INFO Client:63 - command submitted to task engine
+18:00:23,908  INFO Client:61 - commandImpl created and populated
+18:00:23,908  INFO Client:63 - command submitted to task engine
+18:02:09,559  INFO Client:61 - commandImpl created and populated
+18:02:09,559  INFO Client:63 - command submitted to task engine
+20:19:04,684  INFO TaskEngineStarter:60 - RMI registry ready.
+20:19:04,888  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+20:19:12,857  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:19:12 EDT 2015]; root of context hierarchy
+20:19:12,966  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [config.xml]
+20:21:24,891  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:21:24 EDT 2015]; root of context hierarchy
+20:21:24,969  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [config.xml]
+20:21:48,329  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:21:48 EDT 2015]; root of context hierarchy
+20:21:48,407  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/config.xml]
+20:23:10,098  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:23:10 EDT 2015]; root of context hierarchy
+20:23:10,177  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [config.xml]
+20:24:31,643  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:24:31 EDT 2015]; root of context hierarchy
+20:24:31,737  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [config.xml]
+20:27:46,119  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:27:46 EDT 2015]; root of context hierarchy
+20:27:46,197  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clinet-config.xml]
+20:28:10,710  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:28:10 EDT 2015]; root of context hierarchy
+20:28:10,804  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client-config.xml]
+20:29:43,985  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:29:43 EDT 2015]; root of context hierarchy
+20:29:44,064  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client-config.xml]
+20:30:33,791  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:30:33 EDT 2015]; root of context hierarchy
+20:30:33,869  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client-config.xml]
+20:34:22,262  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:34:22 EDT 2015]; root of context hierarchy
+20:34:22,340  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client-config.xml]
+20:34:51,117  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:34:51 EDT 2015]; root of context hierarchy
+20:34:51,195  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client-config.xml]
+20:35:43,449  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:35:43 EDT 2015]; root of context hierarchy
+20:35:43,527  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client_config.xml]
+20:47:09,585  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:47:09 EDT 2015]; root of context hierarchy
+20:47:09,664  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client_config.xml]
+20:49:10,695  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:49:10 EDT 2015]; root of context hierarchy
+20:49:10,773  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client_config.xml]
+20:50:04,574  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:50:04 EDT 2015]; root of context hierarchy
+20:50:04,652  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client_config.xml]
+20:51:07,097  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:51:07 EDT 2015]; root of context hierarchy
+20:51:07,175  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client_config.xml]
+20:56:53,821  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:56:53 EDT 2015]; root of context hierarchy
+20:56:53,899  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+20:58:29,246  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:58:29 EDT 2015]; root of context hierarchy
+20:58:29,324  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+20:59:05,970  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 20:59:05 EDT 2015]; root of context hierarchy
+20:59:06,049  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:00:02,896  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:00:02 EDT 2015]; root of context hierarchy
+21:00:02,975  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:00:55,547  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:00:55 EDT 2015]; root of context hierarchy
+21:00:55,625  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:02:38,668  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:02:38 EDT 2015]; root of context hierarchy
+21:02:38,746  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:03:10,850  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:03:10 EDT 2015]; root of context hierarchy
+21:03:10,928  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:05:27,902  INFO TaskEngineImpl:50 - Task engine says bye!.
+21:05:38,185  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:05:38 EDT 2015]; root of context hierarchy
+21:05:38,263  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:08:33,848  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:08:33 EDT 2015]; root of context hierarchy
+21:08:33,926  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:08:56,177  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:08:56 EDT 2015]; root of context hierarchy
+21:08:56,239  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:10:34,409  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:10:34 EDT 2015]; root of context hierarchy
+21:10:34,487  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:11:34,686  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:11:34 EDT 2015]; root of context hierarchy
+21:11:34,764  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:14:31,146  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:14:31 EDT 2015]; root of context hierarchy
+21:14:31,240  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:14:52,131  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:14:52 EDT 2015]; root of context hierarchy
+21:14:52,209  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:15:09,523  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:15:09 EDT 2015]; root of context hierarchy
+21:15:09,602  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:15:42,665  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:15:42 EDT 2015]; root of context hierarchy
+21:15:42,743  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:16:11,311  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:16:11 EDT 2015]; root of context hierarchy
+21:16:11,389  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/clientConfig.xml]
+21:16:22,530  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:16:22 EDT 2015]; root of context hierarchy
+21:16:22,624  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/clientConfig.xml]
+21:16:34,125  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:16:34 EDT 2015]; root of context hierarchy
+21:16:34,203  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/clientConfig.xml]
+21:17:21,663  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:17:21 EDT 2015]; root of context hierarchy
+21:17:21,741  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [resources/clientConfig.xml]
+21:19:09,738  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:19:09 EDT 2015]; root of context hierarchy
+21:19:09,816  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:19:41,896  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:19:41 EDT 2015]; root of context hierarchy
+21:19:41,974  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:20:49,704  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:20:49 EDT 2015]; root of context hierarchy
+21:20:49,782  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:21:43,685  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:21:43 EDT 2015]; root of context hierarchy
+21:21:43,763  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:24:29,032  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:24:29 EDT 2015]; root of context hierarchy
+21:24:29,126  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:25:35,752  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:25:35 EDT 2015]; root of context hierarchy
+21:25:35,830  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [clientConfig.xml]
+21:30:04,182  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:30:04 EDT 2015]; root of context hierarchy
+21:30:04,260  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:35:10,112  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:35:10 EDT 2015]; root of context hierarchy
+21:35:10,206  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:36:40,406  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:36:40 EDT 2015]; root of context hierarchy
+21:36:40,484  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:36:56,016  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:36:56 EDT 2015]; root of context hierarchy
+21:36:56,094  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:37:23,285  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 11; columnNumber: 66; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/context/spring-context-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:325)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2457)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:766)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:355)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+21:37:30,115  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:37:30 EDT 2015]; root of context hierarchy
+21:37:30,193  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:37:55,965  INFO TaskEngineStarter:60 - RMI registry ready.
+21:37:56,076  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+21:39:02,870  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:39:02 EDT 2015]; root of context hierarchy
+21:39:02,948  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:/resources/client.xml]
+21:39:43,513 ERROR TaskEngineStarter:64 - Failed to start engine because there is another taskengine running on that port
+21:39:47,702  INFO TaskEngineStarter:97 - Registry is already closed
+21:39:47,702  INFO TaskEngineStarter:99 - Registry is closed
+21:39:51,016  INFO TaskEngineImpl:50 - Task engine says bye!.
+21:39:57,347  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:39:57 EDT 2015]; root of context hierarchy
+21:39:57,425  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:/resources/client.xml]
+21:40:23,052  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:40:23 EDT 2015]; root of context hierarchy
+21:40:23,130  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:41:07,195  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:41:07 EDT 2015]; root of context hierarchy
+21:41:07,288  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:41:48,294  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 11; columnNumber: 66; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/context/spring-context-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:325)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2457)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:766)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:355)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+21:41:59,577  INFO TaskEngineStarter:60 - RMI registry ready.
+21:41:59,656  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+21:42:07,250  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:42:07 EDT 2015]; root of context hierarchy
+21:42:07,328  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:43:36,508  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:43:36 EDT 2015]; root of context hierarchy
+21:43:36,586  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:44:04,026  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:44:04 EDT 2015]; root of context hierarchy
+21:44:04,104  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:44:35,656  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:44:35 EDT 2015]; root of context hierarchy
+21:44:35,734  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [client.xml]
+21:45:01,751  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:45:01 EDT 2015]; root of context hierarchy
+21:45:01,829  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:45:43,473  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:45:43 EDT 2015]; root of context hierarchy
+21:45:43,551  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:46:31,767  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:46:31 EDT 2015]; root of context hierarchy
+21:46:31,846  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:50:16,938  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 21:50:16 EDT 2015]; root of context hierarchy
+21:50:17,016  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+21:50:58,759  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 11; columnNumber: 66; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/context/spring-context-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:325)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2457)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:766)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:355)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+22:06:19,442  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 22:06:19 EDT 2015]; root of context hierarchy
+22:06:19,520  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+22:08:11,827  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 22:08:11 EDT 2015]; root of context hierarchy
+22:08:11,890  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+22:09:02,413  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; systemId: http://www.springframework.org/schema/context/spring-context-3.2.xsd; lineNumber: 12; columnNumber: 150; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/tool/spring-tool-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaErr(XSDHandler.java:4162)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaWarning(XSDHandler.java:4153)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.resolveSchema(XSDHandler.java:2061)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.constructTrees(XSDHandler.java:1008)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.parseSchema(XSDHandler.java:620)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadSchema(XMLSchemaLoader.java:616)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2453)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:766)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:355)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2770)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+22:09:27,447  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 22:09:27 EDT 2015]; root of context hierarchy
+22:09:27,526  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+22:09:39,628  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 76; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/beans/spring-beans-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:325)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2457)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:746)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:378)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:604)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3122)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:880)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+22:11:37,454  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 22:11:37 EDT 2015]; root of context hierarchy
+22:11:37,532  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]
+22:12:03,238  WARN XmlBeanDefinitionReader:47 - Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 76; schema_reference.4: Failed to read schema document 'http://www.springframework.org/schema/beans/spring-beans-3.2.xsd', because 1) could not find the document; 2) the document could not be read; 3) the root element of the document is not <xsd:schema>.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:325)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2457)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.startElement(XMLSchemaValidator.java:746)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:378)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl$NSContentDriver.scanRootElementHook(XMLNSDocumentScannerImpl.java:604)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:3122)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:880)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:75)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:388)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:334)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:243)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:527)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:441)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at ClientStarter.main(ClientStarter.java:26)
+22:32:55,442  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5fcfe4b2: startup date [Sun May 17 22:32:55 EDT 2015]; root of context hierarchy
+22:32:55,520  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from URL [file:resources/client.xml]

@@ -1,0 +1,6 @@
+Code table: v_12_incubation_time,
+,
+CODE,DESCRIPTION
+0 to 24,Incubation time in hours
+25,dawn  noon
+26,noon  dusk 

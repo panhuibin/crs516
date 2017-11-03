@@ -1,0 +1,11 @@
+0,accepted cast
+1,failed annual standard deviation check
+2,two or more density inversions ( Levitus; 1982 criteria )
+3,flagged cruise
+4,failed seasonal standard deviation check
+5,failed monthly standard deviation check
+6,failed annual and seasonal standard deviation check
+7,bullseye from standard level data or failed annual and monthly standard deviation check
+8,failed seasonal and monthly standard deviation check
+9,failed annual; seasonal and monthly standard deviation check
+

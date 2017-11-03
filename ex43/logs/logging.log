@@ -1,0 +1,52 @@
+10:45:41,423  INFO TaskEngineStarter:58 - RMI registry ready.
+10:45:41,486  INFO TaskEngineImpl:37 - Task engine is registered in rmiRegistry
+10:45:49,299  INFO Client:42 - Annotation based commandImpl created 
+10:47:21,976  INFO Client:42 - Annotation based commandImpl created 
+10:47:22,086  INFO TaskEngineLocator:34 - engine located 
+10:47:22,117  INFO AnnotationReceiverImpl:22 - action 1 called 
+10:47:22,117  INFO AnnotationReceiverImpl:32 - action 2 called 
+10:47:22,117  INFO AnnotationReceiverImpl:42 - action 3 called 
+10:47:22,117  INFO NamingPatternReceiverImpl:21 - action called 
+10:47:22,117  INFO NamingPatternReceiverImpl:45 - yearAction called 
+10:47:22,117  INFO NamingPatternReceiverImpl:33 - locationAction called 
+10:58:03,678  INFO TaskEngineImpl:48 - Task engine says bye!.
+11:25:13,009  INFO TaskEngineStarter:60 - RMI registry ready.
+11:25:13,090  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+11:25:18,700  INFO Client:42 - Annotation based commandImpl created 
+11:25:18,809  INFO TaskEngineLocator:34 - engine located 
+11:25:18,825  INFO AnnotationReceiverImpl:22 - action 1 called 
+11:25:18,825  INFO AnnotationReceiverImpl:32 - action 2 called 
+11:25:18,825  INFO AnnotationReceiverImpl:42 - action 3 called 
+11:25:18,842  INFO NamingPatternReceiverImpl:21 - action called 
+11:25:18,842  INFO NamingPatternReceiverImpl:45 - yearAction called 
+11:25:18,842  INFO NamingPatternReceiverImpl:33 - locationAction called 
+11:25:45,968  INFO TaskEngineImpl:50 - Task engine says bye!.
+15:50:54,926  INFO TaskEngineStarter:60 - RMI registry ready.
+15:50:55,008  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+15:51:00,899  INFO Client:42 - Annotation based commandImpl created 
+15:51:01,024  INFO TaskEngineLocator:34 - engine located 
+15:51:01,040  INFO AnnotationReceiverImpl:21 - method 1 called 
+15:51:01,040  INFO AnnotationReceiverImpl:27 - method 2 called 
+15:51:01,040  INFO AnnotationReceiverImpl:33 - method 3 called 
+19:36:24,914  INFO TaskEngineImpl:50 - Task engine says bye!.
+19:10:32,406  INFO TaskEngineStarter:60 - RMI registry ready.
+19:10:32,485  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+19:10:38,594  INFO Client:42 - Annotation based commandImpl created 
+19:10:38,735  INFO TaskEngineLocator:34 - engine located 
+19:10:38,766  INFO AnnotationReceiverImpl:27 - method 2 called 
+19:10:38,766  INFO AnnotationReceiverImpl:21 - method 1 called 
+19:10:38,766  INFO AnnotationReceiverImpl:33 - method 3 called 
+19:47:48,826  INFO Client:42 - Annotation based commandImpl created 
+19:47:48,967  INFO TaskEngineLocator:34 - engine located 
+19:47:48,983  INFO AnnotationReceiverImpl:27 - method 2 called 
+19:47:48,983  INFO AnnotationReceiverImpl:21 - method 1 called 
+19:47:48,983  INFO AnnotationReceiverImpl:33 - method 3 called 
+20:17:27,764  INFO Client:45 - Annotation based commandImpl created 
+20:17:27,905  INFO TaskEngineLocator:34 - engine located 
+20:17:27,920  INFO AnnotationReceiverImpl:27 - method 2 called 
+20:17:27,920  INFO AnnotationReceiverImpl:21 - method 1 called 
+20:17:27,920  INFO AnnotationReceiverImpl:33 - method 3 called 
+20:17:27,920  INFO NamingPatternReceiverImpl:33 - yearAction called 
+20:17:27,920  INFO NamingPatternReceiverImpl:26 - locationAction called 
+20:17:27,920  INFO NamingPatternReceiverImpl:20 - bytesInProfileAction called 
+21:00:35,723  INFO TaskEngineImpl:50 - Task engine says bye!.

@@ -1,0 +1,38 @@
+Depth-dependent variables in WOD
+Code,Parameter,WOD standard unit or scale (nominal abbreviation),Dataset(s) where variable(s) is/are stored
+,(nominal abbreviations)
+1,Temperature,Degrees Celsius (&#0176;C),OSD; CTD; MBT; XBT; SUR; APB; MRB; PFL; UOR; DRB; GLD
+2,Salinity,Dimensionless (unitless),OSD;CTD; SUR; MRB; PFL; UOR; DRB; GLD
+3,Oxygen [O2],Milliliter per liter (ml l<sup>-1</sup>),OSD; CTD; PFL; UOR
+4,Phosphate [HPO4-2],Micromole per liter (&#0181;M),OSD
+6,Silicate [Si(OH)4],Micromole per liter (&#0181;M),OSD
+8,Nitrate [NO3-] and Nitrate+Nitrite,Micromole per liter (&#0181;M),OSD
+9,pH,Dimensionless,OSD; SUR
+11,Total Chlorophyll [Chl] unless specified,Microgram per liter (&#0181;g l<sup>-1</sup>),OSD; CTD; SUR; UOR
+17,Alkalinity [TALK] unless specified,Milliequivalent per liter (meq l<sup>-1</sup>),OSD; SUR
+20,Partial pressure of carbon dioxide [pCO2],Microatmosphere (&#0181;atm),OSD; SUR
+21,Dissolved Inorganic carbon [DIC],Millimole per liter (mM),OSD
+24,Transmissivity (BAC)1,Per meter (m<sup>-1</sup>),CTD
+25,Pressure,Decibar,OSD; CTD; UOR; GLD; PFL
+26,Air temperature,Degree Celsius (&#0176;C),SUR
+27,CO2warming,Degree Celsius (&#0176;C),SUR
+28,xCO2atmosphere,Parts per million (ppm),SUR
+29,Air pressure,Millibar (mbar),SUR
+30,Latitude3,Degrees,SUR; APB; UOR
+31,Longitude3,Degrees,SUR; APB; UOR
+32,Julian year-day2;3,Day,SUR; APB; UOR
+33,Tritium [3H],Tritium Unit (TU),OSD
+34,Helium [He],Nanomol per liter (nM),OSD
+35,Delta Helium-3 [3He],Percent (%),OSD
+36,Delta Carbon-14 [14C],Per mille (),OSD
+37,Delta Carbon-13 [13C],Per mille (),OSD
+38,Argon [Ar],Nanomol per liter (nM),OSD
+39,Neon [Ne],Nanomol per liter (nM),OSD
+40,Chlorofluorocarbon 11 (CFC 11),Picomole per liter (pM),OSD
+41,Chlorofluorocarbon 12 (CFC 12),Picomole per liter (pM),OSD
+42,Chlorofluorocarbon 113 (CFC113),Picomole per liter (pM),OSD
+43,Delta Oxygen-18 [18O],Per mille (),OSD
+Notes:
+1 Beam Attenuation Coefficient,,,
+2 Julian year-day is the decimal day for the year in which the observations were made (see Section I. F7),,,
+3 Codes: 30; 31; and 32 (latitude; longitude; and Julian year-day respectively) are not depth-dependent variables and are not in WODselect.

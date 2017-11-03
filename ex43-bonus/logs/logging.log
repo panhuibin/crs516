@@ -1,0 +1,359 @@
+13:54:53,094  INFO TaskEngineStarter:58 - RMI registry ready.
+13:54:53,157  INFO TaskEngineImpl:37 - Task engine is registered in rmiRegistry
+13:55:06,314  INFO Client:42 - Annotation based commandImpl created 
+13:56:11,724  INFO Client:42 - Annotation based commandImpl created 
+13:56:11,881  INFO TaskEngineLocator:34 - engine located 
+13:56:11,912  INFO AnnotationReceiverImpl:22 - action 1 called 
+13:56:11,912  INFO AnnotationReceiverImpl:32 - action 2 called 
+13:56:11,912  INFO AnnotationReceiverImpl:42 - action 3 called 
+13:56:11,928  INFO NamingPatternReceiverImpl:21 - action called 
+13:56:11,928  INFO NamingPatternReceiverImpl:33 - locationAction called 
+13:56:11,928  INFO NamingPatternReceiverImpl:45 - yearAction called 
+14:02:18,953  INFO TaskEngineImpl:48 - Task engine says bye!.
+19:36:16,050 ERROR TaskEngineStarter:61 - Failed to start engine
+java.rmi.server.ExportException: Port already in use: 1099; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+	at sun.rmi.transport.tcp.TCPTransport.listen(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.exportObject(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.exportObject(Unknown Source)
+	at sun.rmi.transport.LiveRef.exportObject(Unknown Source)
+	at sun.rmi.server.UnicastServerRef.exportObject(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.setup(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.<init>(Unknown Source)
+	at java.rmi.registry.LocateRegistry.createRegistry(Unknown Source)
+	at TaskEngineStarter$startButtonListener.actionPerformed(TaskEngineStarter.java:57)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$000(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.newServerSocket(Unknown Source)
+	... 45 more
+19:36:18,927  INFO TaskEngineStarter:88 - Registry is already closed
+19:36:18,927  INFO TaskEngineStarter:90 - Registry is closed
+19:36:41,793  INFO TaskEngineStarter:58 - RMI registry ready.
+19:36:41,874  INFO TaskEngineImpl:37 - Task engine is registered in rmiRegistry
+19:36:47,687  INFO Client:42 - Annotation based commandImpl created 
+19:36:47,812  INFO TaskEngineLocator:34 - engine located 
+19:36:47,827  INFO AnnotationReceiverImpl:25 - action 1 called 
+19:36:47,844  INFO FileBasedDataService:155 - Cleaning up work directory
+19:36:47,844  INFO FileBasedDataService:145 - Service ID is 0
+19:36:47,860  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Wed Feb 05 19:36:47 EST 2014
+19:36:47,875  INFO FileBasedDataService:308 - dataSize is now 72
+19:36:47,875  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+19:36:47,875  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+19:36:49,111  INFO AnnotationReceiverImpl:35 - action 2 called 
+19:36:49,111  INFO FileBasedDataService:145 - Service ID is 1
+19:36:49,111  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Wed Feb 05 19:36:49 EST 2014
+19:36:49,111  INFO FileBasedDataService:308 - dataSize is now 72
+19:36:49,111  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+19:36:49,111  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+19:36:50,127  INFO AnnotationReceiverImpl:45 - action 3 called 
+19:36:50,127  INFO FileBasedDataService:145 - Service ID is 2
+19:36:50,127  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Wed Feb 05 19:36:50 EST 2014
+19:36:50,127  INFO FileBasedDataService:308 - dataSize is now 72
+19:36:50,127  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+19:36:50,127  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+19:36:51,144  INFO NamingPatternReceiverImpl:21 - action called 
+19:36:51,144  INFO NamingPatternReceiverImpl:45 - yearAction called 
+19:36:51,144  INFO NamingPatternReceiverImpl:33 - locationAction called 
+20:15:52,246  INFO TaskEngineImpl:48 - Task engine says bye!.
+09:03:59,411  INFO TaskEngineStarter:60 - RMI registry ready.
+09:03:59,537  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+09:10:59,873  INFO FileBasedDataService:155 - Cleaning up work directory
+09:12:00,628  INFO FileBasedDataService:155 - Cleaning up work directory
+09:12:19,207  INFO FileBasedDataService:155 - Cleaning up work directory
+09:13:11,600  INFO FileBasedDataService:155 - Cleaning up work directory
+09:14:46,226  INFO Client:37 - Annotation based commandImpl created 
+09:14:46,336  INFO TaskEngineLocator:34 - engine located 
+09:14:46,367  INFO AnnotationReceiverImpl:21 - bytesInProfile action called 
+09:14:46,371  INFO FileBasedDataService:155 - Cleaning up work directory
+09:14:46,386  INFO FileBasedDataService:145 - Service ID is 0
+09:14:46,402  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:14:46 EST 2014
+09:14:46,418  INFO FileBasedDataService:308 - dataSize is now 72
+09:14:46,418  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+09:14:46,418  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:14:47,919  INFO AnnotationReceiverImpl:35 - country action called 
+09:14:47,919  INFO FileBasedDataService:145 - Service ID is 1
+09:14:47,919  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:14:47 EST 2014
+09:14:47,919  INFO FileBasedDataService:308 - dataSize is now 72
+09:14:47,919  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+09:14:47,919  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:14:48,935  INFO AnnotationReceiverImpl:51 - cruise number action called 
+09:14:48,935  INFO FileBasedDataService:145 - Service ID is 2
+09:14:48,935  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:14:48 EST 2014
+09:14:48,935  INFO FileBasedDataService:308 - dataSize is now 72
+09:14:48,935  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+09:14:48,935  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:20:42,243  INFO TaskEngineStarter:95 - Registry is closed
+09:20:42,243  INFO TaskEngineImpl:69 - Task engine says bye!.
+09:26:45,803  INFO TaskEngineStarter:60 - RMI registry ready.
+09:26:45,866  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+09:26:49,913 ERROR TaskEngineStarter:63 - Failed to start engine
+java.rmi.server.ExportException: Port already in use: 1099; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+	at sun.rmi.transport.tcp.TCPTransport.listen(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.exportObject(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.exportObject(Unknown Source)
+	at sun.rmi.transport.LiveRef.exportObject(Unknown Source)
+	at sun.rmi.server.UnicastServerRef.exportObject(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.setup(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.<init>(Unknown Source)
+	at java.rmi.registry.LocateRegistry.createRegistry(Unknown Source)
+	at TaskEngineStarter$startButtonListener.actionPerformed(TaskEngineStarter.java:59)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$000(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.newServerSocket(Unknown Source)
+	... 45 more
+09:26:52,336  INFO TaskEngineStarter:93 - Registry is already closed
+09:26:52,336  INFO TaskEngineStarter:95 - Registry is closed
+09:26:54,167  INFO TaskEngineStarter:95 - Registry is closed
+09:26:54,167  INFO TaskEngineImpl:69 - Task engine says bye!.
+09:27:03,607  INFO TaskEngineStarter:60 - RMI registry ready.
+09:27:03,659  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+09:27:09,472 ERROR TaskEngineStarter:63 - Failed to start engine
+java.rmi.server.ExportException: Port already in use: 1099; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+	at sun.rmi.transport.tcp.TCPTransport.listen(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.exportObject(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.exportObject(Unknown Source)
+	at sun.rmi.transport.LiveRef.exportObject(Unknown Source)
+	at sun.rmi.server.UnicastServerRef.exportObject(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.setup(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.<init>(Unknown Source)
+	at java.rmi.registry.LocateRegistry.createRegistry(Unknown Source)
+	at TaskEngineStarter$startButtonListener.actionPerformed(TaskEngineStarter.java:59)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$000(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.newServerSocket(Unknown Source)
+	... 45 more
+09:30:56,173  INFO TaskEngineStarter:93 - Registry is already closed
+09:30:56,173  INFO TaskEngineStarter:95 - Registry is closed
+09:31:01,924  INFO TaskEngineStarter:93 - Registry is already closed
+09:31:01,924  INFO TaskEngineStarter:95 - Registry is closed
+09:31:04,613  INFO TaskEngineStarter:95 - Registry is closed
+09:31:04,613  INFO TaskEngineImpl:69 - Task engine says bye!.
+09:31:12,944  INFO TaskEngineStarter:60 - RMI registry ready.
+09:31:12,992  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+09:31:19,039 ERROR TaskEngineStarter:64 - Failed to start engine because there is another taskengine running on that port
+09:31:24,212  INFO TaskEngineStarter:97 - Registry is already closed
+09:31:24,212  INFO TaskEngineStarter:99 - Registry is closed
+09:31:27,058  INFO TaskEngineStarter:99 - Registry is closed
+09:31:27,058  INFO TaskEngineImpl:69 - Task engine says bye!.
+09:34:31,273  INFO TaskEngineStarter:60 - RMI registry ready.
+09:34:31,321  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+09:34:39,306  INFO Client:37 - Annotation based commandImpl created 
+09:34:39,384  INFO TaskEngineLocator:34 - engine located 
+09:34:39,415  INFO AnnotationReceiverImpl:21 - bytesInProfile action called 
+09:34:39,432  INFO FileBasedDataService:155 - Cleaning up work directory
+09:34:39,432  INFO FileBasedDataService:145 - Service ID is 0
+09:34:39,432  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:34:39 EST 2014
+09:34:39,463  INFO FileBasedDataService:308 - dataSize is now 72
+09:34:39,463  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+09:34:39,463  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:34:40,653  INFO AnnotationReceiverImpl:36 - country action called 
+09:34:40,653  INFO FileBasedDataService:145 - Service ID is 1
+09:34:40,653  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:34:40 EST 2014
+09:34:40,668  INFO FileBasedDataService:308 - dataSize is now 72
+09:34:40,668  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+09:34:40,668  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:34:41,669  INFO AnnotationReceiverImpl:58 - cruise number action called 
+09:34:41,669  INFO FileBasedDataService:145 - Service ID is 2
+09:34:41,669  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 09:34:41 EST 2014
+09:34:41,669  INFO FileBasedDataService:308 - dataSize is now 72
+09:34:41,669  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+09:34:41,669  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+09:48:35,389  INFO TaskEngineStarter:99 - Registry is closed
+09:48:35,389  INFO TaskEngineImpl:69 - Task engine says bye!.
+10:01:11,760  INFO TaskEngineStarter:60 - RMI registry ready.
+10:01:11,824  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+10:01:17,246  INFO Client:37 - Annotation based commandImpl created 
+10:01:17,355  INFO TaskEngineLocator:34 - engine located 
+10:01:17,386  INFO NamingPatternReceiverImpl:23 - bytesInProfileAction called 
+10:01:17,386  INFO FileBasedDataService:155 - Cleaning up work directory
+10:01:17,386  INFO AnnotationReceiverImpl:21 - bytesInProfile action called 
+10:01:17,386  INFO FileBasedDataService:145 - Service ID is 0
+10:01:17,387  INFO FileBasedDataService:145 - Service ID is 1
+10:01:17,403  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:01:17 EST 2014
+10:01:17,403  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:01:17 EST 2014
+10:01:17,419  INFO FileBasedDataService:308 - dataSize is now 72
+10:01:17,419  INFO FileBasedDataService:308 - dataSize is now 72
+10:01:17,419  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\1/0.db
+10:01:17,419  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+10:01:17,434  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:01:17,434  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:01:18,435  INFO CodeTables:274 - No table name corresponding to abbreviation s_3_. Maybe it is not an abbreviation.
+10:01:18,435 ERROR CodeTables:357 - Can't create the table s_3_
+10:01:18,513  INFO CodeTables:274 - No table name corresponding to abbreviation t_7_. Maybe it is not an abbreviation.
+10:01:18,513 ERROR CodeTables:357 - Can't create the table t_7_
+10:01:18,529  INFO CodeTables:274 - No table name corresponding to abbreviation t_20_. Maybe it is not an abbreviation.
+10:01:18,529 ERROR CodeTables:357 - Can't create the table t_20_
+10:01:18,529  INFO CodeTables:274 - No table name corresponding to abbreviation t_28_. Maybe it is not an abbreviation.
+10:01:18,529 ERROR CodeTables:357 - Can't create the table t_28_
+10:01:18,529  INFO CodeTables:274 - No table name corresponding to abbreviation s_17_. Maybe it is not an abbreviation.
+10:01:18,529 ERROR CodeTables:357 - Can't create the table s_17_
+10:01:18,529  INFO CodeTables:274 - No table name corresponding to abbreviation v_3_. Maybe it is not an abbreviation.
+10:01:18,545 ERROR CodeTables:357 - Can't create the table v_3_
+10:01:18,545  INFO CodeTables:274 - No table name corresponding to abbreviation v_6_. Maybe it is not an abbreviation.
+10:01:18,545 ERROR CodeTables:357 - Can't create the table v_6_
+10:01:18,545  INFO CodeTables:274 - No table name corresponding to abbreviation s_12_. Maybe it is not an abbreviation.
+10:01:18,545 ERROR CodeTables:357 - Can't create the table s_12_
+10:01:18,623  INFO FileBasedDataService:145 - Service ID is 2
+10:01:18,623  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:01:18 EST 2014
+10:01:18,623  INFO FileBasedDataService:308 - dataSize is now 72
+10:01:18,623  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\2/0.db
+10:01:18,623  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:01:19,640  INFO FileBasedDataService:145 - Service ID is 3
+10:01:19,640  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:01:19 EST 2014
+10:01:19,640  INFO FileBasedDataService:308 - dataSize is now 72
+10:01:19,640  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\3/0.db
+10:01:19,656  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:05:03,962  INFO Client:37 - Annotation based commandImpl created 
+10:05:04,072  INFO TaskEngineLocator:34 - engine located 
+10:05:04,072  INFO NamingPatternReceiverImpl:23 - bytesInProfileAction called 
+10:05:04,072  INFO FileBasedDataService:145 - Service ID is 4
+10:05:04,072  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:05:04 EST 2014
+10:05:04,072  INFO FileBasedDataService:308 - dataSize is now 72
+10:05:04,072  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\4/0.db
+10:05:04,072  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:05:05,089  INFO FileBasedDataService:145 - Service ID is 5
+10:05:05,089  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:05:05 EST 2014
+10:05:05,089  INFO FileBasedDataService:308 - dataSize is now 72
+10:05:05,089  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\5/0.db
+10:05:05,089  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:05:06,122  INFO FileBasedDataService:145 - Service ID is 6
+10:05:06,122  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Thu Feb 06 10:05:06 EST 2014
+10:05:06,122  INFO FileBasedDataService:308 - dataSize is now 72
+10:05:06,122  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\6/0.db
+10:05:06,122  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+10:33:05,050  INFO TaskEngineImpl:69 - Task engine says bye!.
+10:33:05,050  INFO TaskEngineStarter:99 - Registry is closed

@@ -1,0 +1,65 @@
+1	NODC Accession Number	File
+35	Digitization Method (NODC 0612)	2.15
+2	NODC Project Code	File
+36	Digitization Interval (NODC 0613)	2.16
+3	WOD Platform Code	File
+37	Data Treatment and Storage Method (NODC 0614)	2.17
+4	NODC Institution Code	File
+38	Trace Correction	none
+5	Cast/Tow number	none
+39	Temperature Correction	none
+7	Originator’s station number	none
+40	Instrument for reference temperature (NODC 0615)	2.18
+8	Depth Precision	none
+41	Horizontal visibility (WMO Code 4300)	2.19
+9	Ocean Weather Station	2.1
+45	Absolute Humidity (g/m3)	none
+10	Bottom Depth (meters)	none
+46	Reference/Sea Surface Temperature	none
+11	Cast Duration (hours)	none
+47	Sea Surface Salinity	none
+12	Cast Direction (down assumed)	2.2
+48	Year in which probe was manufactured	none
+13	High-resolution pairs	none
+49	Speed of ship (knots) when probe was dropped	none
+14	Water Color	2.3
+54	Depth fix	2.20
+15	Water Transparency (Secchi disk)	none
+71	Real time	none
+16	Wave Direction (WMO 0877 or NODC 0110)	2.4
+72	XBT Wait (code no longer used)	none
+17	Wave Height (WMO 1555 or NODC 0104)	2.5
+73	XBT Frequency (code no longer used)	none
+18	Sea State (WMO 3700 or NODC 0109)	2.6
+74	Oceanographic measuring vehicle	2.21
+19	Wind Force (Beaufort scale or NODC 0052)	2.7
+77	xCO2 in atmosphere (ppm)	none
+20	Wave Period (WMO 3155 or NODC 0378)	2.8
+84	ARGOS fix code	2.22
+21	Wind Direction (WMO 0877 or NODC 0110)	2.9
+85	ARGOS time (hours) from last fix	none
+22	Wind Speed (knots)	none
+86	ARGOS time (hours) to next fix	none
+23	Barometric Pressure (millibars)	none
+87	Height (meters) of XBT launch	none
+24	Dry Bulb Temperature (EC)	none
+88	Depth of sea surface sensor	none
+25	Wet Bulb Temperature (EC)	none
+91	Database ID	2.23
+26	Weather Conditions (WMO 4501/4677)	2.10
+92	UKHO Bibliographic Reference Number	2.24
+27	Cloud Type (WMO 0500 or NODC 0053)	2.11
+93	Consecutive profile in a tow segment	none
+28	Cloud Cover (WMO 2700 or NODC 0105)	2.12
+94	WMO Identification Code	none
+29	Probe Type	2.13
+95	Originator’s Depth unit	2.25
+30	Calibration Depth	none
+96	Originator’s flags	2.26
+31	Calibration Temperature	none
+97	Water Sampler	2.27
+32	Recorder (WMO 4770)	2.14
+98	ARGOS ID number	none
+33	Depth Correction	none
+99	Time Stamp: in format YYYYJJJ (where YYYY=year, JJJ=Julian year day) time-stamp of the ASCII version of a cast creation 
+34	Bottom Hit

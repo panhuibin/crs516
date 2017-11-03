@@ -1,0 +1,12 @@
+code_name,Originators flag set to use
+units,WOD code
+1,WOCE
+3,GTSPP
+5,GEOSECS
+6,CalCOFI
+7,Wilkes Land Expedition
+8,OMEX
+9,Accession #0000440
+10,Accession #0001086
+11,PMEL TAO/PIRATA database
+12,ARGO profiling floats

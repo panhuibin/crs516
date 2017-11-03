@@ -1,0 +1,83 @@
+
+	/*
+	 * How it works:
+	 * Key idea is to minimize thrashing. For the larger data sets when you find
+	 * the distance say between station 5 and station 5000 you are making the 
+	 * dataService scroll from 5 to 5000. This might involve a disk read as the  
+	 * stations are probably not both in the cache. The same is true when 
+	 * processing a large result set in JDBC. Jumping around will force 
+	 * many fetches.
+	 *
+	 * New approach: Suppose the cache is of size 100. Extract the latitudes and
+	 * longitudes of stations 1-100 into a List<double[]> called stationBatch. 
+	 * Now calculate the distances between stations station1 and station2 where 
+	 * station1 is in stationBatch and station2 is obtained by 
+	 * dataService.read(j), j = 2, 3, ..., dataService.size(). The j's are 
+	 * consecutive so dataService will not thrash. For each j, find the distance 
+	 * between station j and all the stations in stationBatch. This does not 
+	 * involve a read as the numbers are in the List<double[]>.
+	 * 
+	 * Next do a consecutive read of stations 101 to 200 putting their latitudes
+	 * and longitudes in stationBatch Do a consecutive read j = 102, 103, 
+	 * ..., dataService.size(). For each one find the distances between it and 
+	 * all the stations in stationBatch.
+	 * 
+	 * Keep doing this until all stations are done.
+	 * */
+	public void action3() {
+		double maxDistance = 0;
+		List<double[]> stationBatch;
+		try {
+			for (int i = 0; i < dataService.size(); 
+					i += FileBasedDataService.MANAGEABLE_SIZE) {
+				//MANAGEABLE_SIZE is the size of the cache that 
+				//FileBasedDataService keeps in memory.
+				stationBatch = new ArrayList<>();
+				
+				//The size of the data set might not be a multiple 
+				//of MANAGEABLE_SIZE.
+				int endPoint = min(dataService.size(), i
+						+ FileBasedDataService.MANAGEABLE_SIZE);
+				//Read the next batch extracting latitudes and longitudes.
+				for (int k = i; k < endPoint; k++) {//Note the consecutive reads
+					Station station1 = dataService.read(k);
+					double latitude1 = Double.parseDouble(station1
+							.getLatitudeString());
+					double longitude1 = Double.parseDouble(station1
+							.getLongitudeString());
+					stationBatch.add(new double[] { latitude1, longitude1 });
+				}
+				
+				//Calculate distances from stations in stationBatch to stations 
+				//with index > beginning point of batch. i is the index where 
+				//stationBatch starts. Distances to stations with index <= 
+				//beginning of batch have already been done.
+				for (int j = i + 1; j < dataService.size(); j++) {
+					Station station2 = dataService.read(j);//This index is 
+											//greater than where batch starts
+					double latitude2 = Double.parseDouble(station2
+							.getLatitudeString());
+					double longitude2 = Double.parseDouble(station2
+							.getLongitudeString());
+					for (int batchCursor = 0; 
+							batchCursor < stationBatch.size(); 
+								batchCursor++) {//Stations in batch
+						double latitude1 = stationBatch.get(batchCursor)[0];
+						double longitude1 = stationBatch.get(batchCursor)[1];
+						maxDistance = max(
+								maxDistance,
+								calculateDistance(latitude1, longitude1,
+										latitude2, longitude2));
+					}
+				}
+				maximumDistance = Math.sqrt(maxDistance) 
+											*DistanceUnits.KILOMETERS.factor ;
+			}
+		} catch (NumberFormatException e) {
+			e.printStackTrace();
+		} catch (RecordNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}

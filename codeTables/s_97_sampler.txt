@@ -1,0 +1,21 @@
+WODcode_name, Discrete Water Sampler
+7,Bottle, model and brand unknown
+442,Zond-bathometer
+445,Hydrozond
+701,Bathometer (Russia)
+702,Trace metal free bottle, model and brand unknown
+703,Open bucket, model and brand unknown
+705,WHOI-developed SEA SAMPLER (circa 1950 MBT ON BOTTLE ROSETTE)
+706,Van Dorn, model and brand unknown
+716,Gerard-Ewing metal sampler
+717,Niskin water sampler, model and brand unknown
+718,Nansen water sampler, model and brand unknown
+760,Sub-surface continuous water pump sampler, brand and model unknown
+775,Hale apparatus with thermometer (Prestwich, 1875)
+7001,Niskin water sampler, model unknown, 1.2-liter (General Oceanics, Inc.)
+7010,Niskin water sampler, model unknown, 10-liter (Ocean Data Facility, SIO, UCSD)
+7011,Niskin water sampler, model unknown, 10-liter (General Oceanics, Inc.)
+7012,Niskin water sampler, model unknown, 12-liter (General Oceanics, Inc.)
+7015,Fjarlie water sampler (Fjarlie, 1953)
+7255,Niskin water sampler, model unknown, 2.5/5-liter (General Oceanics, Inc.)
+

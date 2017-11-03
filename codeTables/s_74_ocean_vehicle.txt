@@ -1,0 +1,18 @@
+code_name,Ocean vehicle type
+units,WOD code
+1,Undulating Oceanographic Recorder
+2,SeaSoar
+3,Profiling Float
+4,Surface Drifter
+5,Net
+6,Animal
+302,PROVOR (free-drifting hydrographic profiler, IFREMER/MARTEC, France)
+303,P-ALACE (Autonomous Lagrangian Circulation Explorer, Webb Research Corporation)
+304,SOLO (Sounding Oceanographic Lagrangian Observer, SIO)
+305,APEX (Autonomous Profiling Explorer, Webb Research Corporation)
+306,R1 (Webb Research Corporation)
+308,NINJA (New Profiling Float of Japan)
+309,NEMO (Navigating European Marine Observer)
+401,J-CAD (JAMSTEC Compact Arctic Drifter)
+501,Ground Trawl Net
+601,Elephant Seal

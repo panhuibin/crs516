@@ -1,0 +1,114 @@
+19:13:24,327 ERROR TaskEngineStarter:61 - Failed to start engine
+java.rmi.server.ExportException: Port already in use: 1099; nested exception is: 
+	java.net.BindException: Address already in use: JVM_Bind
+	at sun.rmi.transport.tcp.TCPTransport.listen(Unknown Source)
+	at sun.rmi.transport.tcp.TCPTransport.exportObject(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.exportObject(Unknown Source)
+	at sun.rmi.transport.LiveRef.exportObject(Unknown Source)
+	at sun.rmi.server.UnicastServerRef.exportObject(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.setup(Unknown Source)
+	at sun.rmi.registry.RegistryImpl.<init>(Unknown Source)
+	at java.rmi.registry.LocateRegistry.createRegistry(Unknown Source)
+	at TaskEngineStarter$startButtonListener.actionPerformed(TaskEngineStarter.java:57)
+	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+	at java.awt.Component.processMouseEvent(Unknown Source)
+	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.awt.Component.processEvent(Unknown Source)
+	at java.awt.Container.processEvent(Unknown Source)
+	at java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.awt.Component.dispatchEvent(Unknown Source)
+	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.awt.EventQueue.access$000(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.awt.EventQueue$3.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.awt.EventQueue$4.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.bind(Unknown Source)
+	at java.net.PlainSocketImpl.bind(Unknown Source)
+	at java.net.ServerSocket.bind(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at java.net.ServerSocket.<init>(Unknown Source)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createServerSocket(Unknown Source)
+	at sun.rmi.transport.tcp.TCPEndpoint.newServerSocket(Unknown Source)
+	... 45 more
+19:13:27,578  INFO TaskEngineStarter:88 - Registry is already closed
+19:13:27,578  INFO TaskEngineStarter:90 - Registry is closed
+19:13:28,829  INFO TaskEngineStarter:88 - Registry is already closed
+19:13:28,829  INFO TaskEngineStarter:90 - Registry is closed
+19:13:43,693  INFO TaskEngineStarter:58 - RMI registry ready.
+19:13:43,741  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+19:15:53,681  INFO TaskEngineImpl:50 - Task engine says bye!.
+19:16:22,716  INFO TaskEngineStarter:58 - RMI registry ready.
+19:16:22,783  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+19:16:32,565  INFO Client:30 - engine located 
+19:16:32,565  INFO Client:39 - commandImpl created 
+19:16:32,565  INFO Client:48 - command submitted to task engine
+19:16:56,645  INFO TaskEngineImpl:50 - Task engine says bye!.
+00:01:21,761  INFO TaskEngineStarter:58 - RMI registry ready.
+00:01:21,825  INFO TaskEngineImpl:35 - Task engine is registered in rmiRegistry
+00:01:27,762  INFO Client:30 - engine located 
+00:01:27,762  INFO Client:37 - commandImpl created 
+00:01:27,762  INFO Client:42 - command submitted to task engine
+00:01:39,638  INFO TaskEngineStarter:81 - Registry is closed
+00:01:55,595  INFO TaskEngineStarter:79 - Registry is already closed
+00:01:55,595  INFO TaskEngineStarter:81 - Registry is closed
+00:03:09,264  INFO TaskEngineStarter:58 - RMI registry ready.
+00:03:09,328  INFO TaskEngineImpl:35 - Task engine is registered in rmiRegistry
+00:03:14,626  INFO TaskEngineStarter:81 - Registry is closed
+00:03:17,627  INFO TaskEngineStarter:79 - Registry is already closed
+00:03:17,627  INFO TaskEngineStarter:81 - Registry is closed
+00:04:51,114  INFO TaskEngineStarter:60 - RMI registry ready.
+00:04:51,166  INFO TaskEngineImpl:35 - Task engine is registered in rmiRegistry
+00:04:59,698  INFO Client:30 - engine located 
+00:04:59,698  INFO Client:37 - commandImpl created 
+00:04:59,698  INFO Client:42 - command submitted to task engine
+00:05:11,950  INFO TaskEngineStarter:87 - Registry is closed
+00:05:15,624  INFO TaskEngineStarter:60 - RMI registry ready.
+00:05:15,625  INFO TaskEngineImpl:35 - Task engine is registered in rmiRegistry
+00:05:17,875  INFO TaskEngineStarter:87 - Registry is closed
+00:05:20,470  INFO TaskEngineStarter:85 - Registry is already closed
+00:05:20,470  INFO TaskEngineStarter:87 - Registry is closed
+12:39:41,385  INFO TaskEngineStarter:60 - RMI registry ready.
+12:39:41,620  INFO TaskEngineImpl:35 - Task engine is registered in rmiRegistry
+12:39:51,120  INFO Client:30 - engine located 
+12:39:51,136  INFO Client:37 - commandImpl created 
+12:39:51,151  INFO Client:42 - command submitted to task engine
+14:19:41,586 ERROR TaskEngineStarter:64 - Failed to start engine because there is another taskengine running on that port
+14:19:53,557  INFO TaskEngineStarter:88 - Registry is already closed
+14:19:53,557  INFO TaskEngineStarter:90 - Registry is closed
+14:19:56,294  INFO TaskEngineStarter:90 - Registry is closed
+14:20:03,124  INFO TaskEngineStarter:60 - RMI registry ready.
+14:20:03,203  INFO TaskEngineImpl:36 - Task engine is registered in rmiRegistry
+14:20:10,047  INFO Client:30 - engine located 
+14:20:10,047  INFO Client:37 - commandImpl created 
+14:20:10,079  INFO Client:42 - command submitted to task engine
+14:20:39,413  INFO TaskEngineStarter:90 - Registry is closed
+14:20:41,930  INFO TaskEngineStarter:88 - Registry is already closed
+14:20:41,930  INFO TaskEngineStarter:90 - Registry is closed

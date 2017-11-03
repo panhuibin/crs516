@@ -1,0 +1,6 @@
+Open solution-73
+open Driver.java in the default package
+Perform TODO1 (changing the ClassPathXmlApplicationContext to AnnotationConfigApplicationContext
+and give it the confguration java class GuiConfig.class
+ java file com.ltree.crs516.config/GuiConfig.java
+ Confgure 

@@ -1,0 +1,28 @@
+21:26:00,633  INFO FileBasedDataService:165 - Cleaning up work directory
+21:26:00,648  INFO FileBasedDataService:155 - Service ID is 0
+21:26:00,648  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jan 28 21:26:00 EST 2014
+21:26:00,680  INFO FileBasedDataService:313 - dataSize is now 72
+21:26:00,680  INFO FileBasedDataService:269 - Reading block C:\crs516\sourcecode\work\0/0.db
+21:26:00,680  INFO FileBasedDataService:103 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+21:26:01,857  INFO FileBasedDataService:483 - closing
+23:29:26,903  INFO FileBasedDataService:155 - Cleaning up work directory
+23:29:26,903  INFO FileBasedDataService:145 - Service ID is 0
+23:29:26,919  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jan 28 23:29:26 EST 2014
+23:29:26,935  INFO FileBasedDataService:308 - dataSize is now 72
+23:29:26,935  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+23:29:26,935  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+23:29:27,903  INFO FileBasedDataService:411 - closing
+23:30:33,488  INFO FileBasedDataService:155 - Cleaning up work directory
+23:30:33,503  INFO FileBasedDataService:145 - Service ID is 0
+23:30:33,503  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jan 28 23:30:33 EST 2014
+23:30:33,535  INFO FileBasedDataService:308 - dataSize is now 72
+23:30:33,535  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+23:30:33,535  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+23:30:34,708  INFO FileBasedDataService:411 - closing
+23:33:10,083  INFO FileBasedDataService:155 - Cleaning up work directory
+23:33:10,098  INFO FileBasedDataService:145 - Service ID is 0
+23:33:10,098  INFO FileBasedDataService:86 - Data loader loading C:\crs516\sourcecode\data\OSDO5711.gz at Tue Jan 28 23:33:10 EST 2014
+23:33:10,114  INFO FileBasedDataService:308 - dataSize is now 72
+23:33:10,114  INFO FileBasedDataService:264 - Reading block C:\crs516\sourcecode\work\0/0.db
+23:33:10,114  INFO FileBasedDataService:100 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
+23:33:11,303  INFO FileBasedDataService:411 - closing

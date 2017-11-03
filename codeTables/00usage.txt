@@ -1,0 +1,2 @@
+These are the files after the non-ASCII characters have been 
+fixed.

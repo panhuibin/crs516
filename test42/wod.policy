@@ -1,0 +1,8 @@
+grant {
+  permission java.net.SocketPermission "127.0.0.1:1099", "accept, connect, resolve";
+  permission java.net.SocketPermission "*", "accept, connect, resolve";
+  permission java.io.FilePermission "./logs/logging.log", "read, write";
+  permission java.io.FilePermission "resources/client.xml", "read, write";
+  permission java.io.FilePermission "*.jar", "read, write";
+};
+

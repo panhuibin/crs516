@@ -1,0 +1,13 @@
+Code table: v_10_equilibrator_type,
+,
+CODE,DESCRIPTION
+1600,Showerhead design
+1601,"Showerhead, large volume >10L"
+1602,"Showerhead, small volume <10L"
+1630,Laminar flow design
+1640,Rotating disk design
+1650,Bubbling design
+1660,Tandem design (combined showerhead and bubbling)
+1670,Membrane design
+1680,Aspirator design
+1690,Discrete sample closed loop equilibration

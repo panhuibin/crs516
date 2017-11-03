@@ -1,0 +1,67 @@
+Code table: v_6_methods,
+,
+CODE,DESCRIPTION
+201,Titration (Knudsen 1902)
+202,PSAL78
+300,Winkler method (unknown)
+301,Winkler automated oxygen titration; whole bottle method (Carpenter 1965)
+303,Winkler automated oxygen titration: amperometric end-detection (Culberson 1991)
+304,Winkler automated oxygen titration: photometric end-detection
+305,Winkler manual oxygen titration: visual end-point (Strickland and Parsons 1972)
+320,CTD oxygen
+4100,Winkler automated oxygen titration; (Williams and Jenkinson 1982; Friederich et al. 1991)
+4101,Winkler automated oxygen titration; whole bottle method; end-detection
+400,Spectrophotometric
+401,Spectrophotometric single solution method (Strickland and Parsons 19XX)
+403,Spectrophotometric persulphate oxidation (Menzel and Corwin 1965)
+407,Cadmium reduction (Morris and Riley 1963; Wood et al. 1967)
+412,Spectrophotometric (Parsons and Strickland 1963)
+413,Spectrophotometric (Jeffrey and Humphery 1975)
+501,Technicon Autoanalyzer (Murphy and Riley 1962)
+503,Continuous Flow Analyzer (Bendschneider and Robinson 1952)
+504,Continuous Flow Analyzer (CFA) Indophenol blue (Berthelot's reaction)
+600,Fluoroscence
+603,Fluorometer in situ CTD
+604,Fluorometer (Aiken 1981)
+605,Fluorometric chl-a assay acetone extraction
+606,Fluorometric chl-a assay methanol extraction
+800,14C in situ  incubation
+801,Carbon-14 (14C) simulated in situ or deck incubation
+802,Carbon-14 (14C) artificial light incubation
+803,Sorokin's method
+804,artificial light incubation (Hawaii method)
+805,artificial light incubation (Australian method)
+806,in situ light incubation (Hawaii method)
+807,in situ light incubation (Australian method)
+808,Carbon-14 (14C) simulated in situ  or deck incubation (Steeman Nielsen 1952; Doty and Oguri 1958)
+860,Van Dorn (Japanese)
+901,Modified Gran titration (Brewer et al. 1986)
+910,Ruppin's method (Zubov 1937)
+921,Coulometric (HOTS) Single operator multi-param metabolic analyzer (SOMMA)
+1050,Spectrophotometric wet oxidation with dichromate (Strickland and Parsons 1972)
+1100,High Temperature Catalytic Oxidation (HTCO) (Sugimura and Suzuki)
+1102,Wet oxidation (i.e. persulphate)
+1103,High Temperature Catalytic Oxidation (HTCO) ionics catalytic oxidation with IR CO2 detection
+1104,High Temperature Catalytic Oxidation (HTCO) Shimadzu catalytic oxidation with IR CO2 detection
+1201,Gas chromatography (Weiss 1981)
+1202,Gas chromatography xCO2 at analysis temperature
+1205,Gas chromatography pCO2 at analysis temperature
+1231,Infrared spectrometry
+1261,Nondispersive Infrared spectrometry (NDIR)
+1262,Nondispersive Infrared spectrometry (NDIR) xCO2 at analysis temperature
+1300,pH meter (potentiometric)
+1340,Coulometric
+1343,Coulometric (manual operation)
+1344,Coulometric; automated operation; single-operator multiparameter metabolic analyzer (SOMMA) 
+1450,Spectrophotometric
+1460,pH value determined manually using a pH color chart (Buch 1937)
+4001,Cholofluorocarbon (Freon) gas extraction (Bullister and Weiss 1988)
+4054,Winkler automated oxygen titration: whole-bottle method; photometric end-detection (Culberson 1991)
+4056,Winkler automated oxygen titration: amperometric end-detection (Knapp et al. 1989)
+4057,Winkler automated oxygen titration: amperometric end-detection
+4058,Winkler automated oxygen titration: potentiometric and photometric end-detection (Culberson 1991; Culberson et al. 1991; Dickson 1994)
+4059,Winkler automated oxygen titration: whole-bottle method; photometric end-detection (Culberson 1992; Carpenter 1969; Friederich et al. 1991)
+4061,Winkler automated oxygen titration: whole-bottle method; amperometric end-detection (Culberson and Huang 1987)
+4063,Continuous Flow Analyzer (CFA) (Gordon et al. 1993)
+4102,Winkler automated oxygen titration: (Rosenberg et al. 1995)
+4104,Continuous Flow Analyzer (CFA); Technicon Autoanalyzer (Bernhardt and Wilhelms 1967)
