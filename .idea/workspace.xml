@@ -2,143 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="804c2e5e-f9e7-4228-8233-114248326399" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_10.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_2.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_3.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_4.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_5.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_6.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_7.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_8.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_9.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_A.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_J.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_K.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_club_Q.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_10.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_2.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_3.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_4.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_5.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_6.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_7.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_8.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_9.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_A.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_J.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_K.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_diamond_Q.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_10.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_2.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_3.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_4.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_5.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_6.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_7.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_8.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_9.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_A.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_J.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_K.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_heart_Q.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_10.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_2.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_3.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_4.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_5.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_6.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_7.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_8.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_9.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_A.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_J.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_K.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/200px-Playing_card_spade_Q.svg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/donow72/guiConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/taskengine/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/CommandImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wod.policy" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_10.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_2.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_3.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_4.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_5.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_6.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_7.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_8.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_9.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_A.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_J.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_K.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_club_Q.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_10.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_2.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_3.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_4.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_5.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_6.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_7.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_8.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_9.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_A.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_J.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_K.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_diamond_Q.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_10.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_2.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_3.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_4.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_5.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_6.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_7.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_8.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_9.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_A.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_J.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_K.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_heart_Q.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_10.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_2.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_3.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_4.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_5.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_6.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_7.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_8.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_9.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_A.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_J.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_K.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/200px-Playing_card_spade_Q.svg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ex31/bin/images/license" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/TaskEngineLocator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41-bonus/bin/com/ltree/crs516/data/DataConstants.class" afterPath="$PROJECT_DIR$/ex41-bonus/bin/com/ltree/crs516/data/DataConstants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41-bonus/bin/com/ltree/crs516/tasks/CommandImpl.class" afterPath="$PROJECT_DIR$/ex41-bonus/bin/com/ltree/crs516/tasks/CommandImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donow72/src/com/ltree/crs516/data/FileBasedDataService.java" afterPath="$PROJECT_DIR$/donow72/src/com/ltree/crs516/data/FileBasedDataService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex21/tests/com/ltree/crs516/LinkedListTest.java" afterPath="$PROJECT_DIR$/ex21/tests/com/ltree/crs516/LinkedListTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex22/src/com/ltree/crs516/NumbertoWordsConverter.java" afterPath="$PROJECT_DIR$/ex22/src/com/ltree/crs516/NumbertoWordsConverter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex22/tests/com/ltree/crs516/NumbertoWordsConverterTest.java" afterPath="$PROJECT_DIR$/ex22/tests/com/ltree/crs516/NumbertoWordsConverterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31-bonus/tests/com/ltree/crs516/controller/WODControllerTest.java" afterPath="$PROJECT_DIR$/ex31-bonus/tests/com/ltree/crs516/controller/WODControllerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/CardDeck.java" afterPath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/CardDeck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/CardsViewer.java" afterPath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/CardsViewer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/FutureCardsViewer.java" afterPath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/FutureCardsViewer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/MainFrame.java" afterPath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/MainFrame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/PastCardsViewer.java" afterPath="$PROJECT_DIR$/ex31/src/com/ltree/crs516/PastCardsViewer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex31/tests/com/ltree/crs516/CardDeckTest.java" afterPath="$PROJECT_DIR$/ex31/tests/com/ltree/crs516/CardDeckTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/controller/TehiGame.java" afterPath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/controller/TehiGame.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/data/TehiDAO.java" afterPath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/data/TehiDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/data/TehiFileBasedDAO.java" afterPath="$PROJECT_DIR$/ex32/src/com/ltree/crs516/data/TehiFileBasedDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/console/Task.java" afterPath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/console/Task.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/data/DataService.java" afterPath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/data/DataService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/data/FileBasedDataService.java" afterPath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/data/FileBasedDataService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/domain/Datum.java" afterPath="$PROJECT_DIR$/ex33/src/com/ltree/crs516/domain/Datum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex33/tests/com/ltree/crs516/domain/DatumTest.java" afterPath="$PROJECT_DIR$/ex33/tests/com/ltree/crs516/domain/DatumTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java" afterPath="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java" afterPath="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41/src/ClientStarter.java" afterPath="$PROJECT_DIR$/ex41/src/ClientStarter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/taskengine/TaskEngine.java" afterPath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/taskengine/TaskEngine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/taskengine/TaskEngineImpl.java" afterPath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/taskengine/TaskEngineImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/Client.java" afterPath="$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex41/wod.policy" afterPath="$PROJECT_DIR$/ex41/wod.policy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/Client.java" afterPath="$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wod.policy" afterPath="$PROJECT_DIR$/wod.policy" />
     </list>
     <ignored path="$PROJECT_DIR$/cdc/bin/" />
     <ignored path="$PROJECT_DIR$/donow31/bin/" />
@@ -212,51 +82,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataConstants.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="32" column="58" lean-forward="false" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wod.policy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex41/wod.policy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskEngine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/taskengine/TaskEngine.java">
+      <file leaf-file-name="CommandBytesInProfileImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandBytesInProfileImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeCommandImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CompositeCommandImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="28" column="74" lean-forward="false" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskEngineLocator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/TaskEngineLocator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -264,51 +124,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskEngineImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/taskengine/TaskEngineImpl.java">
+      <file leaf-file-name="TaskEngineStarter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/TaskEngineStarter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/tasks/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommandImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/tasks/CommandImpl.java">
+      <file leaf-file-name="CommandCountryImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandCountryImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientStarter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/ClientStarter.java">
+      <file leaf-file-name="CommandCruiseNumberImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandCruiseNumberImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskEngineStarter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solution-ex41/src/TaskEngineStarter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-646">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="74">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -331,6 +171,7 @@
       <find>guiConfig.xml</find>
       <find>dataService</find>
       <find>throw</find>
+      <find>actionPerformed</find>
     </findStrings>
     <replaceStrings>
       <replace>BasicRobotCyclicBarrier</replace>
@@ -384,8 +225,10 @@
         <option value="$PROJECT_DIR$/ex41/src/ClientStarter.java" />
         <option value="$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/Client.java" />
         <option value="$PROJECT_DIR$/ex41/wod.policy" />
-        <option value="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java" />
         <option value="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java" />
+        <option value="$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java" />
+        <option value="$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/TaskEngineLocator.java" />
+        <option value="$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/Client.java" />
       </list>
     </option>
   </component>
@@ -503,77 +346,30 @@
           <expand>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41" type="cbb8eebc:String" user="ex41" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41" type="cbb8eebc:String" user="ex41" />
-              <item name="ex41" type="cbb8eebc:String" user="ex41" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
               <item name="src" type="cbb8eebc:String" user="src" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
               <item name="src" type="cbb8eebc:String" user="src" />
               <item name="com/ltree/crs516" type="cbb8eebc:String" user="com/ltree/crs516" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-              <item name="ex41-bonus" type="cbb8eebc:String" user="ex41-bonus" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="com/ltree/crs516" type="cbb8eebc:String" user="com/ltree/crs516" />
-              <item name="tasks" type="cbb8eebc:String" user="tasks" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="com/ltree/crs516" type="cbb8eebc:String" user="com/ltree/crs516" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="src" type="cbb8eebc:String" user="src" />
-              <item name="com/ltree/crs516" type="cbb8eebc:String" user="com/ltree/crs516" />
-              <item name="taskengine" type="cbb8eebc:String" user="taskengine" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
-              <item name="solution-ex41" type="cbb8eebc:String" user="solution-ex41" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
+              <item name="ex42" type="cbb8eebc:String" user="ex42" />
               <item name="src" type="cbb8eebc:String" user="src" />
               <item name="com/ltree/crs516" type="cbb8eebc:String" user="com/ltree/crs516" />
               <item name="tasks" type="cbb8eebc:String" user="tasks" />
@@ -587,20 +383,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.rmicompiler" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.45224398" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$/donow72/bin" />
       <recent name="$PROJECT_DIR$/donow72" />
       <recent name="$PROJECT_DIR$/solution-ex61/src/com/robots" />
-      <recent name="$PROJECT_DIR$/solution-ex61/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ltree.crs516.taskengine" />
@@ -634,7 +431,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="solution-ex41-bonus" />
+      <module name="ex42" />
       <envs />
     </configuration>
     <configuration name="ClientStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -662,7 +459,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ex41-bonus" />
+      <module name="ex42" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -926,7 +723,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36062717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5644599" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -938,7 +735,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39721254" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39198607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1065,113 +862,24 @@
           <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/Client.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/Rank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/Suite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31/tests/com/ltree/crs516/PlayingCardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-78">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/util/Observable.java" />
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/CardDeck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/FutureCardsViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31/src/com/ltree/crs516/PastCardsViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solution-ex31-bonus/tests/com/ltree/crs516/controller/WODControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="93" column="62" lean-forward="false" selection-start-line="93" selection-start-column="62" selection-end-line="93" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex31-bonus/tests/com/ltree/crs516/controller/WODControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex32/src/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex32/tests/com/ltree/crs516/data/TehiFileBasedDAOTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/src.zip!/java/awt/event/ActionListener.java" />
-    <entry file="file://$PROJECT_DIR$/ex32/src/com/ltree/crs516/view/MainFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="56" column="45" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex32/src/com/ltree/crs516/controller/TehiGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex32/src/com/ltree/crs516/data/TehiDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
@@ -1393,14 +1101,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/tasks/CommandImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solution-ex41/src/ClientStarter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-66">
@@ -1413,14 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-646">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wod.policy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1441,6 +1133,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution-ex41-bonus/src/ClientStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/TaskEngineStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wod.policy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution-ex41/src/com/ltree/crs516/tasks/CommandImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solution-ex41-bonus/src/com/ltree/crs516/tasks/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42-bonus2/src/com/ltree/crs516/taskengine/TaskEngineImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42-bonus2/src/TaskEngineStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="60" column="37" lean-forward="false" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex41/src/com/ltree/crs516/tasks/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -1449,18 +1216,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/CommandImpl.java">
+    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/tasks/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="78">
+          <caret line="39" column="42" lean-forward="false" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex41-bonus/src/com/ltree/crs516/data/DataConstants.java">
+    <entry file="file://$PROJECT_DIR$/ex41_solution/.settings/org.eclipse.jdt.core.prefs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="32" column="58" lean-forward="false" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex41_solution/ex41_solution.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="63" lean-forward="true" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandCruiseNumberImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandCountryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CommandBytesInProfileImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/CompositeCommandImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/TaskEngineStarter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/TaskEngineLocator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex42/src/com/ltree/crs516/tasks/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="28" column="74" lean-forward="false" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
           <folding />
         </state>
       </provider>
@@ -1522,7 +1355,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.45224398" />
               </list>
             </option>
           </splitter-proportions>

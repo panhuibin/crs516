@@ -25,15 +25,8 @@ public class Client {
 	public void prepareAndSubmitCommand() {
 
 		try {
-			
-//{{Marker 1 	
-			
-			// Find the engine in the registry.
-			Registry registry;
-			registry = LocateRegistry.getRegistry(TaskEngine.hostName);
-			TaskEngine engine = (TaskEngine) registry.lookup(TaskEngine.bindName);
-	
-//}}End marker 1
+			//TaskEngine engine = getTaskEngine();
+			TaskEngine engine = TaskEngineLocator.INSTANCE.getTaskEngine();
 
 			logger.info("engine located ");
 			CompositeCommandImpl cci = new CompositeCommandImpl();
@@ -62,5 +55,7 @@ public class Client {
 			logger.error("Nothing bound under the name {}", TaskEngine.bindName, e);
 		}
 	}
-	
+
+
+
 }

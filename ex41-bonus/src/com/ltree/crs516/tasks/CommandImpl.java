@@ -1,5 +1,6 @@
 package com.ltree.crs516.tasks;
 
+import java.awt.*;
 import java.io.File;
 
 import org.slf4j.Logger;
@@ -22,7 +23,7 @@ public final class CommandImpl implements Command {
 	 */
 	@Override
 	public void run() {
-		logger.info("execute called ");
+		System.out.println("execute called ");
 
 //TODO 1: There is a helper method createDataService() inherited from Command. Call it 
 //giving it the File file above as an input argument to obtain a DataService object.
