@@ -13,7 +13,9 @@ public class PastCardsViewer extends CardsViewer {
 //public void update(Observable o, Object arg). In that method 
 //call updateChart with the input argument the int[] of ranks dealt.
 
-
+	public void update(Observable o, Object arg){
+		updateChart((int[])arg);
+	}
 
 
 	/**

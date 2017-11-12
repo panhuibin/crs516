@@ -47,8 +47,11 @@ public class TehiFileBasedDAO implements TehiDAO {
 //and write the deck to that file. CardDeck is serializable. If you don't 
 //remember how to write to an ObjectOutputStream take a look at the other save methods below.
 
-
-
+		try(ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(SAVED_DECK));){
+			oos.writeObject(deck);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 
 
 
@@ -61,13 +64,14 @@ public class TehiFileBasedDAO implements TehiDAO {
 //Call setImages() on the CardDeck to make the PlayingCards reload their images.
 //Return a reference to the CardDeck.		
 
+		try (ObjectInputStream ois = new ObjectInputStream(new FileInputStream(SAVED_DECK));) {
+			deck = (CardDeck)ois.readObject();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
 
-
-
-
-
-
-		return null;
+		deck.setImages();
+		return deck;
 	}
 			
 	private void saveHand(TehiHand playerHand, File savedFile) {

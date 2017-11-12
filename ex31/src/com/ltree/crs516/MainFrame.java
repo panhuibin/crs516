@@ -34,7 +34,8 @@ public class MainFrame extends JFrame {
 		CardsViewer futureCardsViewer = new FutureCardsViewer();
 //TODO 1: Register pastCardsViewer and futureCardsViewer with deck as observers of deck.
 
-
+		deck.addObserver(pastCardsViewer);
+		deck.addObserver(futureCardsViewer);
 
 		leftPanel.add(pastCardsViewer);
 		leftPanel.add(futureCardsViewer);

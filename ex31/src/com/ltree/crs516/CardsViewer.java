@@ -11,7 +11,7 @@ import javax.swing.JPanel;
 
 //TODO 1: Change the declaration so that this class implements Observer.
  @SuppressWarnings("serial")
-public abstract class CardsViewer extends JPanel {	 
+public abstract class CardsViewer extends JPanel implements Observer {
 	private JPanel centerPanel = new JPanel();
 	protected JLabel[][] tiles = new JLabel[4][13];
 

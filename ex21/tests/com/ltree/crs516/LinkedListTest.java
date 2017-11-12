@@ -1,11 +1,14 @@
 package com.ltree.crs516;
 
+import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
 import java.util.LinkedList;
 
+import com.sun.jdo.api.persistence.enhancer.util.Assertion;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.rules.ExpectedException;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
@@ -22,7 +25,10 @@ public class LinkedListTest {
 //nice one) and annotate it with @Before. In that method instantiate your 
 //LinkedList<String> and store the reference in the field called testSubject.
 	
-
+    @Before
+     public void beforeTest(){
+        testSubject = new LinkedList<String>();
+    }
 
 
 
@@ -30,7 +36,11 @@ public class LinkedListTest {
 //TODO 2: Test that when you call the method testSubject.add("one") you 
 //get the boolean true returned.
 
-
+    @Test
+     public void testAddString(){
+        boolean actual = testSubject.add("one");
+        assertThat(actual, is(true));
+    }
 
 
 
@@ -44,6 +54,12 @@ public class LinkedListTest {
 //testSubject.add("two"), testSubject.add("three") and then call 
 //testSubject.getLast(), you get the third string that was added.
 
+     @Test
+     public void checkGetLast(){
+         testSubject.add("two");
+         testSubject.add("three");
+         assertThat(testSubject.getLast(), is("three"));
+     }
 
 
 
@@ -58,7 +74,12 @@ public class LinkedListTest {
 
 
 
-
+    @Test
+     public void checkGetByIndex(){
+         testSubject.add("two");
+         testSubject.add(1,"three");
+         assertThat(testSubject.get(1),is("three"));
+    }
 
 
 
@@ -69,14 +90,21 @@ public class LinkedListTest {
 //and index is a negative integer you get an IndexOutOfBoundsException.
 
 
-
+    @Test(expected = IndexOutOfBoundsException.class)
+     public void checkNegitiveOutOfBound(){
+         testSubject.add(-1,"test");
+    }
 
 
 
 //TODO 6: Test that when you call testSubject.add(index, "myString") and index
 //is an integer larger than testSubject.size() you get an IndexOutOfBoundsException.
 
-
+     @Test(expected = IndexOutOfBoundsException.class)
+     public void checkPositiveOutOfbound(){
+         int size = testSubject.size();
+         testSubject.add(size+1,"test");
+     }
 
 
 

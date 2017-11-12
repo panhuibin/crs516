@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 //TODO 1:
 //Make this class implement TaskEngine 
  
-public final class TaskEngineImpl extends UnicastRemoteObject{
+public final class TaskEngineImpl extends UnicastRemoteObject implements TaskEngine{
 
 	private final Logger logger = LoggerFactory.getLogger(getClass());
 
@@ -38,10 +38,15 @@ public final class TaskEngineImpl extends UnicastRemoteObject{
 		}
 	}
 
-	
+
+
 //TODO 2:Add the submitTask(Command command) method and in it call the 
 //run() method of the Command object that is input to the method
 
-
+	@Override
+	public void submitTask(Command command) {
+		logger.info("submmit task for command is called");
+		command.run();
+	}
 }
 

@@ -7,22 +7,22 @@ public final  class DataConstants {
 	 */
 	private DataConstants(){}
 	
-	public static String WORKSPACE = "C:\\crs516\\sourcecode\\";
-	
+	public static String WORKSPACE = "/Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/";
+
 	/**
 	 * Location of the code tables. 
 	 */
-	public static final String CODE_TABLES_DIR = WORKSPACE+"codeTables\\";
+	public static final String CODE_TABLES_DIR = WORKSPACE+"codeTables/";
 	
 	/**
 	 * Location of the data files. 
 	 */
-	public static final String DATA_DIR = WORKSPACE+"data\\";
+	public static final String DATA_DIR = WORKSPACE+"data/";
 	
 	/**
 	 * Location of the serialized data files 
 	 */
-	public static final String SER_DATA_DIR = WORKSPACE+"serData\\";
+	public static final String SER_DATA_DIR = WORKSPACE+"serData/";
 	
 	/**
 	 * The work directory. To avoid out-of-memory errors, data files will be
@@ -30,7 +30,7 @@ public final  class DataConstants {
 	 * The blocks have names like 0.db, 1.db,...
 	 * 
 	 */
-	public static final String WORK_DIR = WORKSPACE+"work\\";
+	public static final String WORK_DIR = WORKSPACE+"work/";
 	
 	public static final int SECOND = 1000;
 	

@@ -30,13 +30,13 @@ private Random random = new Random();
 		
 		Object[][] data = new Object[][] { 	
 			{1, "one"}
-//			, {0,"zero"}
-//			, {7,"seven"}
-//			, {11,"eleven"}
-//			, {12,"twelve"}
-//			, {-2, "minus two"}
-//			, {17, "seventeen"}
-//			, {20, "twenty"}
+			, {0,"zero"}
+			, {7,"seven"}
+			, {11,"eleven"}
+			, {12,"twelve"}
+			, {-2, "minus two"}
+			, {17, "seventeen"}
+			, {20, "twenty"}
 			};
 		return Arrays.asList(data);
 	}

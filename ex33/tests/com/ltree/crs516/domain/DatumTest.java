@@ -29,6 +29,12 @@ public class DatumTest {
 //The mandatory fields are value, sigFig, totalFig,  precision and the optional 
 //ones are meaning, originatorsFlag, qualityFlag, and qualityFlagString. 	
 
+		testSubject = new Datum.Builder(value, sigFig, totalFig, precision)
+				.meaning(meaning)
+				.originatorsFlag(originatorsFlag)
+				.qualityFlag(qualityFlag)
+				.qualityFlagString(qualityFlagString)
+				.build();
 
 
 

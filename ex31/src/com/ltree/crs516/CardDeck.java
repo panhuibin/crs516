@@ -39,9 +39,8 @@ public final class CardDeck extends Observable {
 //TODO 1: Call setChanged() and notify the observers giving then an int[]
 //containing the ranks of the cards that have been dealt. [The method getRanksDealt()
 //gives you the ranks of the cards that have been dealt].		
-
-
-
+		setChanged();
+		notifyObservers(getRanksDealt());
 		return card;
 	}
 	

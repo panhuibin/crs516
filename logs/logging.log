@@ -1,0 +1,10 @@
+14:58:39,277  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2db0f6b2: startup date [Fri Nov 03 14:58:39 EDT 2017]; root of context hierarchy
+14:58:39,587  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+14:59:45,450  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2db0f6b2: startup date [Fri Nov 03 14:59:45 EDT 2017]; root of context hierarchy
+14:59:45,628  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+15:00:10,817  INFO ClassPathXmlApplicationContext:500 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2db0f6b2: startup date [Fri Nov 03 15:00:10 EDT 2017]; root of context hierarchy
+15:00:11,028  INFO XmlBeanDefinitionReader:315 - Loading XML bean definitions from class path resource [guiConfig.xml]
+15:00:11,953  INFO ClassPathBeanDefinitionScanner:202 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+15:00:11,957  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+15:00:12,626  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+15:00:12,707  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57e1b0c: defining beans [fileBasedDataService,wodController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy

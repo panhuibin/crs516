@@ -20,7 +20,7 @@ import com.ltree.crs516.domain.Station;
 //TODO 1: Change the declaration of this interface so that it extends
 //the two interfaces Iterable<Station> and Closeable.
 
-public interface DataService{
+public interface DataService extends Iterable<Station> , Cloneable{
 
 	/**
 	 * Reads a record from the database and returns it in the form of a Station

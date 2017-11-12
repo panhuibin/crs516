@@ -21,13 +21,38 @@ public class NumbertoWordsConverter {
 
 	
 	public String convert(int num) {
-
-
-
-
-
-		return null;
+		if(num<0){
+			return "minus " + convert(num*-1);
+		}else if(num>20){
+			throw new IllegalArgumentException();
+		}else{
+			return words[num];
+		}
 	}
+
+	String[] words = {
+			"zero",
+			"one",
+			"two",
+			"three",
+			"four",
+			"five",
+			"six",
+			"seven",
+			"eight",
+			"nine",
+			"ten",
+			"eleven",
+			"twelve",
+			"thirteen",
+			"fourteen",
+			"fifteen",
+			"sixteen",
+			"seventeen",
+			"eighteen",
+			"nineteen",
+			"twenty"
+	};
 	
 
 

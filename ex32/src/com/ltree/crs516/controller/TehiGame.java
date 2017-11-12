@@ -24,7 +24,7 @@ public final class TehiGame extends Observable {
 	
 //TODO 1: create an instance of TehiFileBasedDAO and store the 
 //reference in the dao field below.
-	private TehiDAO dao = null;
+	private TehiDAO dao = new TehiFileBasedDAO();
 
 
 	public TehiGame() {
@@ -37,8 +37,7 @@ public final class TehiGame extends Observable {
 	public void save() {
 
 // TODO 2: Add a method call to dao to save the deck.			
-
-
+			dao.saveDeck(getDeck());
 			dao.saveState(getState().getStateName());
 			dao.savePlayerHand(getPlayerHand());
 			dao.saveSystemHand(getSystemHand());
@@ -50,8 +49,7 @@ public final class TehiGame extends Observable {
 	public void load() throws IOException {
 		
 //TODO 3: Add a method to the dao to get the deck.			
-
-
+			deck = dao.getDeck();
 			playerHand = dao.getPlayerHand(this);
 			systemHand = dao.getSystemHand(this);
 			int[] scores = dao.getScores();

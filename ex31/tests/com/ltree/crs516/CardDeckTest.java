@@ -25,24 +25,28 @@ public class CardDeckTest {
 	@Test
 	public void testObservable(){
 		
-		fail("Test not yest implemented"); //Remove this
+		//fail("Test not yest implemented"); //Remove this
 		
 //TODO 1: Create two mock objects, obs1 and obs2 that implement Observer.
+		obs1 = mock(Observer.class);
+		obs2 = mock(Observer.class);
 
 
 
 //TODO 2: Register the two mocks as observers of subject using the addObserver()
 //method. Note that since the method is not yet present you will get an error message.
-
+		subject.addObserver(obs1);
+		subject.addObserver(obs2);
 
 
 //TODO 3: Call the deal() method of subject		
-
+		subject.deal();
 
 		int[] ranksDealt = subject.getRanksDealt();
 //TODO 4: Verify that both obs1 and obs2 got a call to their respective update methods and that 
 //the arguments were subject and ranksDealt		
-
+		verify(obs1).update(subject,ranksDealt);
+		verify(obs1).update(subject,ranksDealt);
 
 
 	}

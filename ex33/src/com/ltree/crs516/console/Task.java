@@ -26,7 +26,9 @@ public final class Task {
 			//Write a foreach loop going through all the stations of 
 			//dataService and printing the number of bytes in the profile
 			//to the console. 
-
+		while (dataService.iterator().hasNext()) {
+			System.out.println(dataService.iterator().next().getBytesInProfile());
+		}
 
 
 

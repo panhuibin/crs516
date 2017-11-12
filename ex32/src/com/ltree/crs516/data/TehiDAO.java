@@ -10,13 +10,14 @@ import com.ltree.crs516.domain.TehiHand;
 public interface TehiDAO {
 
 //TODO 1: Add a method called saveDeck that accepts an argument of type CardDeck.
-//The return type should be void.	
+//The return type should be void.
+	void saveDeck(CardDeck deck);
 
 	
 
 //TODO 2: Add a method called getDeck that takes no argument and 
 //returns a CardDeck. It should throw IOException.	
-
+	CardDeck getDeck() throws IOException;
 
 	void saveState(StateName stateName);
 	StateName getState() throws IOException;

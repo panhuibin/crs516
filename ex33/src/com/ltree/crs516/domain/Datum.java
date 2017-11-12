@@ -230,7 +230,7 @@ public class Datum {
 
 //TODO 1: Change the default constructor to be private.
 	
-	Datum(){}
+	private Datum(){}
 	
 //TODO 2: Datum objects will be instantiated using the Builder. 
 //Perform the TODO tasks in Builder.
@@ -249,6 +249,9 @@ public class Datum {
 		//You will see error messages appear on the constructor.
 		//Those will go away when you have completed the code.
 		
+		private final int sigFig;
+		private final int totalFig;
+		private final int precision;
 
 
 
@@ -265,7 +268,9 @@ public class Datum {
 		//a String called qualityFlagString with default value 
 		//"See Documentation". 
 
-
+		private int originatorsFlag = 0;
+		private int qualityFlag = 0;
+		private String qualityFlagString = "See Documentation";
 
 
 
@@ -279,7 +284,9 @@ public class Datum {
 			//TODO 3a: assign the values of sigFig, totalFig, and 
 			//precision that are input to their respective fields.
 			
-
+			this.sigFig = sigFig;
+			this.totalFig = totalFig;
+			this.precision = precision;
 
 
 		}
@@ -297,19 +304,29 @@ public class Datum {
 		//TODO 4a: Write a method that accepts the value of originatorsFlag.
 		
 
-
+		public Builder originatorsFlag(int val){
+			originatorsFlag = val;
+			return this;
+		}
 
 
 
 		//TODO 4b: Write a method that accepts the value of qualityFlag.
 
-
+		public Builder qualityFlag(int val){
+			qualityFlag = val;
+			return this;
+		}
 
 
 
 
 		//TODO 4c: Write a method that accepts the value of qualityFlagString.
 
+		public Builder qualityFlagString(String val){
+			qualityFlagString = val;
+			return this;
+		}
 
 
 
@@ -319,7 +336,7 @@ public class Datum {
 //Datum that takes a Builder and pass in a reference to this Builder.
 
 		public Datum build(){
-			return null;//Edit this.
+			return new Datum(this);//Edit this.
 		}
 	}
 	
@@ -333,13 +350,13 @@ public class Datum {
 
 //TODO 6: Replace the nulls and zeros below with the appropriate code.
 		
-		sigFig = 0;//Edit this line.
-		totalFig = 0;//Edit this line.
-		precision = 0;//Edit this line.
-		meaning = null;//Edit this line.
-		originatorsFlag = 0;//Edit this line.
-		qualityFlag = 0;//Edit this line.
-		qualityFlagString = null;//Edit this line.
+		sigFig = builder.sigFig;//Edit this line.
+		totalFig = builder.totalFig;//Edit this line.
+		precision = builder.precision;//Edit this line.
+		meaning = builder.meaning;//Edit this line.
+		originatorsFlag = builder.originatorsFlag;//Edit this line.
+		qualityFlag = builder.qualityFlag;//Edit this line.
+		qualityFlagString = builder.qualityFlagString;//Edit this line.
 	}
 
 }

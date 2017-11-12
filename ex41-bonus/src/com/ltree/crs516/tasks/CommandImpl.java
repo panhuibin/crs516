@@ -27,7 +27,7 @@ public final class CommandImpl implements Command {
 //TODO 1: There is a helper method createDataService() inherited from Command. Call it 
 //giving it the File file above as an input argument to obtain a DataService object.
 
-		DataService dataService = null; //Edit this line.
+		DataService dataService = createDataService(file); //Edit this line.
 
 //TODO 2: Loop through the stations of the dataService. (Use a foreach loop).
 //For each station, print something, e.g., the number of bytes in the profile of that station
@@ -35,7 +35,9 @@ public final class CommandImpl implements Command {
 //This is where the actual work gets done.		
 
 
-
+		for(Station station: dataService) {
+			System.out.print(station.getBytesInProfile());
+		}
 
 
 	}

@@ -248,7 +248,7 @@ public final class FileBasedDataService implements DataService {
 	// We shall cache the proxies we have created in proxyMap. Proxies are
 	//easy to re-create so we shall use Reference types to avoid getting
 	//OutOfMemoryErrors just for storing proxies.
-	private HashMap<Integer, WeakReference<StationProxy>> proxyMap 
+	private HashMap<Integer, WeakReference<StationProxy>> proxyMap
 															= new HashMap<>();
 	
 	//Based on value of boolean noProxy this method either returns a Station or 

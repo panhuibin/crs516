@@ -1,6 +1,7 @@
 package com.ltree.crs516;
 
 import java.util.Observable;
+import java.util.Observer;
 
 public class FutureCardsViewer extends CardsViewer {
 	
@@ -15,7 +16,10 @@ public class FutureCardsViewer extends CardsViewer {
 //Then call updateChart with the input argument the int[] of ranks not yet dealt.
 
 
-
+	public void update(Observable o, Object arg){
+		CardDeck cardDeck = (CardDeck) o;
+		updateChart(cardDeck.getRanksLeft());
+	}
 
 
 	/**

@@ -1,9 +1,9 @@
 package com.ltree.crs516.taskengine;
 
+
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
-@SuppressWarnings("unused") 
 public interface TaskEngine extends Remote{
 
 	static final String bindName = "TaskEngine";
@@ -12,7 +12,7 @@ public interface TaskEngine extends Remote{
 //TODO 1: 
 //Add a method called submitTask to this interface that takes a single argument 
 //of type Command and throws RemoteException. The return type should be void.
-
+	public void submitTask(Command command) throws RemoteException;
 
 
 }

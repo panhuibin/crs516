@@ -411,12 +411,16 @@ public final class FileBasedDataService implements DataService {
 			//If the iterator is invalid throw an IllegalStateException.
 			//Otherwise, return true if currentStation is less than size()-1 
 			//and false if currentStation is not less than size()-1.
-			
+			if(invalid){
+				throw new IllegalStateException();
+			}else{
+				if(currentStation < size()-1){
+					return true;
+				}else{
+					return false;
+				}
+			}
 
-
-
-
-			return false;
 		}
 	
 		/**
@@ -431,18 +435,19 @@ public final class FileBasedDataService implements DataService {
 			//that index. You will have to catch some exceptions. (Highlight 
 			//the code, Right-click | Surround With | Try/catch). In case of 
 			//failure return null.
-			
 
 
+			if(invalid){
+				throw new IllegalStateException();
+			}else{
+				try {
+					return read(currentStation++);
+				} catch (RecordNotFoundException|IOException e) {
+					e.printStackTrace();
+					return null;
+				}
+			}
 
-
-
-
-
-
-
-
-			return null;// Don't forget to change this!
 		}
 
 		@Override
@@ -469,12 +474,12 @@ public final class FileBasedDataService implements DataService {
 		//Otherwise, return a new instance of FileBasedServiceIterator, passing
 		//the name of dataFile into the constructor. 
 		//(The File class has a getName() method).
+			if(dataFile == null || open == false){
+				throw  new IllegalStateException();
+			}else{
+				return new FileBasedServiceIterator(dataFile.getName());
+			}
 
-
-
-
-
-		return null;// Don't forget to change this!
 	}
 
 	// }} End Marker 2

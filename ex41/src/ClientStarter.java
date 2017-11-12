@@ -24,8 +24,8 @@ public final class ClientStarter {
 		
 //TODO 1: Create an instance of Client and invoke the 
 //prepareAndSubmitCommand() method you just wrote.
-		
-
+		Client client = new Client();
+		client.prepareAndSubmitCommand();
 
 
 	}
