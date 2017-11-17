@@ -21,11 +21,11 @@ public final class NamingPatternCommandImpl implements Command {
 	@Override
 	public void run() {
 //TODO 1: Get the Class object for the receiver.		
-
+		Class<?> receiverClass = receiver.getClass();
 
 //TODO 2: Get an array of Method objects representing the methods of 
 //the receiver.		
-
+		Method[] methods = receiverClass.getMethods();
 
 //TODO 3: Loop through the Method objects and for the ones that represent 
 //methods with names that end with "action" or "Action" invoke them on the 
@@ -33,7 +33,13 @@ public final class NamingPatternCommandImpl implements Command {
 //You will have to catch a few exceptions. 
 //Just highlight the loop, then right-click and select Surround With | Try/catch Block.
 
-
+		for(Method method: methods){
+			try {
+				method.invoke(new Object[0]);
+			}catch (Exception e){
+				e.printStackTrace();
+			}
+		}
 
 
 

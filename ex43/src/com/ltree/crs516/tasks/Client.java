@@ -33,13 +33,15 @@ public final class Client {
 //AnnotationReceiverImpl.
 			
 
-			Command annotationCommandImpl = null; //Edit this line.
-			Receiver annotationReceiverImpl = null; //Edit this line.
+			Command annotationCommandImpl = new AnnotationCommandImpl(); //Edit this line.
+			Receiver annotationReceiverImpl = new AnnotationReceiverImpl(); //Edit this line.
+			Command namingPatternCommandImpl = new NamingPatternCommandImpl();
+			Receiver namingPatternReceiverImpl = new NamingPatternReceiverImpl();
 			
 //TODO 2: Set the AnnotationReceiverImpl instance on the AnnotationCommandImpl
 //instance.
-
-
+			annotationCommandImpl.setReceiver(annotationReceiverImpl);
+			namingPatternCommandImpl.setReceiver(namingPatternReceiverImpl);
 
 			logger.info("Annotation based commandImpl created ");
 			
@@ -49,8 +51,12 @@ public final class Client {
 				
 //TODO 3: Submit the annotationCommandImpl to the engine. You will need a  
 //try/catch block.
-
-
+			try {
+				engine.submitTask(annotationCommandImpl);
+				engine.submitTask(namingPatternCommandImpl);
+			}catch (Exception e){
+				e.printStackTrace();
+			}
 	}
 
 }

@@ -31,9 +31,15 @@ public class Client {
 			logger.info("engine located ");
 			CompositeCommandImpl cci = new CompositeCommandImpl();
 			
-			cci.addCommand(new CommandImpl1());
-			cci.addCommand(new CommandImpl2());
-			cci.addCommand(new CommandImpl3());
+			cci.addCommand(new CommandCruiseNumberImpl());
+			cci.addCommand(new CommandCountryImpl());
+			cci.addCommand(new CommandBytesInProfileImpl());
+			cci.addCommand(()->{
+				DataService dataService = DataServiceLocator.INSTANCE.getDataService();
+				for (Station station : dataService) {
+					System.out.println(station.getBytesInProfile());
+				}
+			});
 
 //You will replace the above command objects with lambda expressions
 

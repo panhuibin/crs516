@@ -13,7 +13,7 @@ import com.ltree.crs516.taskengine.Command;
 import com.ltree.crs516.taskengine.Receiver;
 
  @SuppressWarnings("serial")
-public final class AnnotationCommandImpl implements Command {
+public final class  	AnnotationCommandImpl implements Command {
 
 	private final Logger logger = LoggerFactory.getLogger(AnnotationReceiverImpl.class);
 	private Receiver receiver;

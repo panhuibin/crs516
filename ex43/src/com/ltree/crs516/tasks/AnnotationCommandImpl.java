@@ -24,7 +24,7 @@ public final class AnnotationCommandImpl implements Command {
 //TODO 2: Instantiate an ArrayList<SequenceAndMethod> that we will use to 
 //store	Method objects and their sequence numbers.
 
-	private final List<SequenceAndMethod> seqAndMeths = null;//Edit this.
+	private final List<SequenceAndMethod> seqAndMeths = new ArrayList<SequenceAndMethod>() ;
 
 	/**
 	 * Uses reflection to invokes methods of receiver that are annotated with 
@@ -46,9 +46,8 @@ public final class AnnotationCommandImpl implements Command {
 //TODO 3: Create a SequenceAndMethod object giving the constructor the 
 //sequenceNum and method and add it to the list called seqAndMeths that you 
 //created above.
-				
-
-
+				SequenceAndMethod sequenceAndMethod = new SequenceAndMethod(sequenceNum,method);
+				seqAndMeths.add(sequenceAndMethod);
 			}
 		}
 
@@ -56,7 +55,8 @@ public final class AnnotationCommandImpl implements Command {
 //TODO 4: Since SequenceAndMethod implements Comparable you can use the static 
 //sort() method of the Collections class to sort the list seqAndMeths. This is 
 //Stage two. 
-		
+		Collections.sort(seqAndMeths,
+				(m1,m2)-> m1.sequenceNumber.compareTo(m2.sequenceNumber));
 
 
 
@@ -69,7 +69,7 @@ public final class AnnotationCommandImpl implements Command {
 //TODO 5: Get the method associated with this seqAndMeth object (there is a 
 //getter for this on seqAndMeth).			
 			
-			Method currentMethod = null; //edit this line
+			Method currentMethod = seqAndMeth.getMethod(); //edit this line
 
 //TODO 6: Invoke currentMethod on receiver. You will need a try block and catch 
 //a few exceptions. (Method objects have an invoke() method which will take the 
@@ -77,7 +77,11 @@ public final class AnnotationCommandImpl implements Command {
 //input arguments).
 
 
-
+			try{
+				currentMethod.invoke(receiver,new Object[0]);
+			}catch (Exception e){
+				e.printStackTrace();
+			}
 
 
 
@@ -100,7 +104,8 @@ public final class AnnotationCommandImpl implements Command {
 	 * @author crs 516 development team
 	 *
 	 */
-	final class SequenceAndMethod implements Comparable<SequenceAndMethod> {
+	//final class SequenceAndMethod implements Comparable<SequenceAndMethod> {
+	final class SequenceAndMethod {
 		private final Integer sequenceNumber;
 		private final Method method;
 
@@ -113,12 +118,13 @@ public final class AnnotationCommandImpl implements Command {
 		/**
 		 * Specified by the Comparable interface.
 		 */
+		/*
 		@Override
 		public int compareTo(final SequenceAndMethod other) {
 			//The sequence number determines order.
 			return this.sequenceNumber.compareTo(other.sequenceNumber);
 		}
-
+		*/
 		public Method getMethod() {
 			return method;
 		}

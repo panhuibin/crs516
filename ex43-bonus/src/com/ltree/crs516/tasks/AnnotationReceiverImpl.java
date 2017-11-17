@@ -28,9 +28,16 @@ public final class AnnotationReceiverImpl implements Serializable, Receiver {
 	
 //TODO 1: Add a method appropriately annotated that will loop through all
 //the stations and print out the country property of each one.
-	
 
-
+	 @Action(2)
+	 public void printAllStationCountryProperty() {
+		 logger.info("printAllStationCountryProperty action called ");
+		 System.out.println("county property for each stations");
+		 DataService dataService = DataServiceLocator.INSTANCE.getDataService();
+		 for (Station station : dataService) {
+			 System.out.println(station.getCountry());
+		 }
+	 }
 
 
 

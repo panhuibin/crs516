@@ -11,12 +11,12 @@ import com.ltree.crs516.taskengine.DataServiceLocator;
  @SuppressWarnings("serial")
 public final class CommandCountryImpl  implements Command {
 	
-	private final Logger logger = LoggerFactory.getLogger(CommandCountryImpl.class);
+	//private final Logger logger = LoggerFactory.getLogger(CommandCountryImpl.class);
 
 	/* Will be called from run() of CommandImpl. */
 	@Override
 	public void run() {
-		logger.info("run() called ");
+		//logger.info("run() called ");
 		DataService dataService = DataServiceLocator.INSTANCE.getDataService();
 		for (Station station : dataService) {
 			System.out.println(station.getCountry());

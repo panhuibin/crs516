@@ -43,6 +43,7 @@ public class AnnotationCommandImplTest {
 
 //TODO 1: Add an Action annotation with attribute 1 to this method
 
+		@Action(1)
 		public void action() {
 			actionCalled = 1;
 			action2Called = -1; // If action is called last rather than first 
@@ -51,6 +52,7 @@ public class AnnotationCommandImplTest {
 
 //TODO 2:Add an Action annotation with attribute 2 to this method		
 
+		@Action(2)
 		public void action2() {
 			action2Called = 1;
 		}

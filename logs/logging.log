@@ -8,3 +8,125 @@
 15:00:11,957  INFO ClassPathBeanDefinitionScanner:210 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
 15:00:12,626  INFO AutowiredAnnotationBeanPostProcessor:139 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
 15:00:12,707  INFO DefaultListableBeanFactory:581 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@57e1b0c: defining beans [fileBasedDataService,wodController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.internalPersistenceAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+20:19:20,729  INFO TaskEngineStarter:97 - Registry is already closed
+20:19:20,734  INFO TaskEngineStarter:99 - Registry is closed
+20:19:27,850  INFO TaskEngineStarter:60 - RMI registry ready.
+20:19:27,920  INFO TaskEngineImpl:48 - Task engine is registered in rmiRegistry
+20:19:31,965  INFO Client:33 - engine located 
+20:19:31,969  INFO Client:42 - commandImpl created 
+20:19:31,980  INFO Client:51 - command submitted to task engine
+20:19:31,988  INFO FileBasedDataService:146 - Cleaning up work directory
+20:19:31,991  INFO FileBasedDataService:136 - Service ID is 0
+20:19:31,996  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Sun Nov 12 20:19:31 EST 2017
+20:19:32,006  INFO FileBasedDataService:387 - dataSize is now 72
+20:19:32,006  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/0/0.db
+20:19:32,009  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+15:17:51,270  INFO TaskEngineStarter:60 - RMI registry ready.
+15:17:51,337  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+15:17:55,795  INFO Client:49 - Annotation based commandImpl created 
+15:18:34,538  INFO Client:43 - Annotation based commandImpl created 
+15:18:34,622 ERROR TaskEngineLocator:29 - Failed to get engine
+java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:619)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:216)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:202)
+	at sun.rmi.server.UnicastRef.newCall(UnicastRef.java:342)
+	at sun.rmi.registry.RegistryImpl_Stub.lookup(Unknown Source)
+	at com.ltree.crs516.tasks.TaskEngineLocator.getTaskEngine(TaskEngineLocator.java:27)
+	at com.ltree.crs516.tasks.Client.prepareAndSubmitCommand(Client.java:47)
+	at ClientStarter.main(ClientStarter.java:24)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(RMIDirectSocketFactory.java:40)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(RMIMasterSocketFactory.java:148)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:613)
+	... 7 more
+15:18:34,631  INFO TaskEngineLocator:34 - engine located 
+15:19:40,067  INFO Client:43 - Annotation based commandImpl created 
+15:19:40,124 ERROR TaskEngineLocator:29 - Failed to get engine
+java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:619)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:216)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:202)
+	at sun.rmi.server.UnicastRef.newCall(UnicastRef.java:342)
+	at sun.rmi.registry.RegistryImpl_Stub.lookup(Unknown Source)
+	at com.ltree.crs516.tasks.TaskEngineLocator.getTaskEngine(TaskEngineLocator.java:27)
+	at com.ltree.crs516.tasks.Client.prepareAndSubmitCommand(Client.java:47)
+	at ClientStarter.main(ClientStarter.java:24)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(RMIDirectSocketFactory.java:40)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(RMIMasterSocketFactory.java:148)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:613)
+	... 7 more
+15:19:40,132  INFO TaskEngineLocator:34 - engine located 
+15:19:49,463  INFO TaskEngineStarter:60 - RMI registry ready.
+15:19:49,519  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+15:19:54,738  INFO Client:43 - Annotation based commandImpl created 
+15:19:54,916  INFO TaskEngineLocator:34 - engine located 
+15:19:54,938  INFO AnnotationReceiverImpl:20 - method 1 called 
+15:19:54,938  INFO AnnotationReceiverImpl:26 - method 2 called 
+15:19:54,939  INFO AnnotationReceiverImpl:32 - method 3 called 
+15:47:38,281  INFO Client:43 - Annotation based commandImpl created 
+15:47:38,460 ERROR TaskEngineLocator:29 - Failed to get engine
+java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:619)
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:216)
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:202)
+	at sun.rmi.server.UnicastRef.newCall(UnicastRef.java:342)
+	at sun.rmi.registry.RegistryImpl_Stub.lookup(Unknown Source)
+	at com.ltree.crs516.tasks.TaskEngineLocator.getTaskEngine(TaskEngineLocator.java:27)
+	at com.ltree.crs516.tasks.Client.prepareAndSubmitCommand(Client.java:47)
+	at ClientStarter.main(ClientStarter.java:24)
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:211)
+	at sun.rmi.transport.proxy.RMIDirectSocketFactory.createSocket(RMIDirectSocketFactory.java:40)
+	at sun.rmi.transport.proxy.RMIMasterSocketFactory.createSocket(RMIMasterSocketFactory.java:148)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:613)
+	... 7 more
+15:47:38,464  INFO TaskEngineLocator:34 - engine located 
+15:48:03,838  INFO TaskEngineStarter:60 - RMI registry ready.
+15:48:03,895  INFO TaskEngineImpl:41 - Task engine is registered in rmiRegistry
+15:48:08,322  INFO Client:30 - Annotation based commandImpl created 
+15:48:08,571  INFO TaskEngineLocator:34 - engine located 
+15:48:08,587  INFO AnnotationReceiverImpl:21 - bytesInProfile action called 
+15:48:08,591  INFO FileBasedDataService:146 - Cleaning up work directory
+15:48:08,596  INFO FileBasedDataService:136 - Service ID is 0
+15:48:08,599  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 15:48:08 EST 2017
+15:48:08,609  INFO FileBasedDataService:387 - dataSize is now 72
+15:48:08,609  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/0/0.db
+15:48:08,612  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+15:54:26,588  INFO TaskEngineStarter:60 - RMI registry ready.
+15:54:26,649  INFO TaskEngineImpl:40 - Task engine is registered in rmiRegistry
+15:54:30,647  INFO Client:46 - Annotation based commandImpl created 
+15:54:30,871  INFO TaskEngineLocator:34 - engine located 
+15:54:30,895  INFO AnnotationReceiverImpl:20 - method 1 called 
+15:54:30,895  INFO AnnotationReceiverImpl:26 - method 2 called 
+15:54:30,895  INFO AnnotationReceiverImpl:32 - method 3 called 
