@@ -74,7 +74,7 @@ public final class DistanceCalculator {
 //To abandon a run click the red button on the console tab. With the naive 
 //approach you won't get very far!
 		
-		calculator.setFile(new File(DATA_DIR+dataFile[0]));
+		calculator.setFile(new File(DATA_DIR+dataFile[3]));
 		calculator.action();
 		logger.info("maximum distance is {}",calculator.maximumDistance);
 	}

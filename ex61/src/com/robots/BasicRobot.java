@@ -77,14 +77,17 @@ public abstract class BasicRobot implements Robot {
 
 
 //TODO 1: Create a cached thread pool.	
-	protected static ExecutorService threadPool = null; //Edit this	
+	protected static ExecutorService threadPool = Executors.newCachedThreadPool(); //Edit this
 	
 	public void move(final int distance, final Direction direction) {
 //TODO 2: The move() method moves the robot and will run in its own thread.
 //To obtain the basic structure to submit a Runnable to an 
 //executor uncomment the statement below.
 
-//threadPool.submit(new Runnable(){});
+	threadPool.submit(new Runnable(){
+		@Override
+		public void run() {
+
 		
 //TODO 3: Click the error flag (the little light bulb) in the margin so that 
 //Eclipse offers you options. Double-click the option "Choose Add 
@@ -101,17 +104,21 @@ public abstract class BasicRobot implements Robot {
 				try {
 					for (int i = 0; i < distance; i += 1) {
 
-//TODO 6 (Do TODO 5 further down first): Both Force and Fuel are shared fields. To make the 
-//two operations atomic, both of the statements between //{{Marker 2 
-//and  //}}End Marker 2 will have to be nested synchronized blocks. One will 
-//synchronize on theForce and the other on fuel. Follow the instructions in the 
-//manual to make Eclipse insert the synchronized blocks for you.						
-						
-						//{{Marker 2		
-						
-								theForce.reduce();
-								fuel.reduce();
+//TODO 6 (Do TODO 5 further down first): Both Force and Fuel are shared fields. To make the
+//two operations atomic, both of the statements between //{{Marker 2
+//and  //}}End Marker 2 will have to be nested synchronized blocks. One will
+//synchronize on theForce and the other on fuel. Follow the instructions in the
+//manual to make Eclipse insert the synchronized blocks for you.
 
+						//{{Marker 2
+						if((i +1)%20==0) {
+							synchronized (fuel) {
+								synchronized (theForce) {
+									theForce.reduce();
+									fuel.reduce();
+								}
+							}
+						}
 						//}}End Marker 2
 
 						switch (direction) {
@@ -140,10 +147,9 @@ public abstract class BasicRobot implements Robot {
 							+ BasicRobot.getFuel().getAmount());
 					System.out.println(getName() + "  Done!");
 				}// End of finally block.
-
-
+			}
 // }}End Marker 1.
-
+	});
 	}
 
 //TODO 5: Note that the fields x and y would be shared if two threads were trying to move 

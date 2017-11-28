@@ -6,7 +6,7 @@ package com.ltree.crs516.domain;
  *  @author crs516 development team
  *  @see Datum
  */
-public class Level {
+public class 	Level {
 
 	/**
 	 * The depth at which this data was measured.

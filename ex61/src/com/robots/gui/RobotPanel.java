@@ -14,7 +14,7 @@ import com.robots.BasicRobot;
 import com.robots.Robot;
 
  @SuppressWarnings("serial")
-public final class RobotPanel extends JPanel {
+public final class  RobotPanel extends JPanel {
 
 	/*
 	 * Need to synchronize access to the Vector as we add robots and the paint

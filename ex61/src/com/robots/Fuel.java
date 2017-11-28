@@ -6,7 +6,7 @@ public final class Fuel {
 
 //TODO 1: This method is accessed from a thread other than those from move().
 //Synchronize it.
-	public long getAmount() {
+	public synchronized long getAmount() {
 		return amount;
 	}
 

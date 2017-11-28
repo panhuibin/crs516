@@ -5,8 +5,8 @@ public class Force {
 	private long forceStrength = 1_000_000;
 
 //TODO 1: Apart from threads coming from move() which already have a lock, the 
-//method getForceStrength() has another client. Synchronize it.	
-	public long getForceStrength() {
+//method getForceStrength() has another client. Synchronize it.
+	public synchronized long getForceStrength() {
 		return forceStrength;
 	}
 

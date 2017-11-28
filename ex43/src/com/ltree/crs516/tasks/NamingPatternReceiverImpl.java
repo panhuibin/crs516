@@ -23,19 +23,14 @@ public final class NamingPatternReceiverImpl implements Serializable, Receiver {
 
 //TODO 1: Create a public void method whose name ends with 'Action' and which 
 //will print out a message that it was called.	
-	public void printMessageAction1(){
+	public void printMessage1Action(){
 		logger.info("print message of action1");
 	}
-
-
-
-
-
 
 //TODO 2: Create another public void method whose name ends with 'Action' and which will 
 //print out  out a message that it was called.	
 
-	 public void printMessageAction2(){
+	 public void printMessage2Action(){
 		 logger.info("print message of action2");
 	 }
 

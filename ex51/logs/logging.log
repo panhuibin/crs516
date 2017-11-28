@@ -3007,3 +3007,293 @@ java.io.FileNotFoundException: C:\crs516\sourcecode\codeTables\variableSpecificC
 18:05:45,985  INFO FileBasedDataService:343 - Reading block C:\crs516\sourcecode\work\34/0.db
 18:05:45,985  INFO FileBasedDataService:90 - Data from C:\crs516\sourcecode\data\OSDO5711.gz loaded
 18:05:46,985  INFO DistanceCalculator:25 - Data service has size 72
+17:02:57,656  INFO FileBasedDataService:146 - Cleaning up work directory
+17:02:57,670  INFO FileBasedDataService:136 - Service ID is 0
+17:02:57,686  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:02:57 EST 2017
+17:02:57,689  INFO FileBasedDataService:387 - dataSize is now 1
+17:02:57,689  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/0/0.db
+17:02:57,689  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:02:58,687  INFO FileBasedDataService:136 - Service ID is 1
+17:02:58,688  INFO FileBasedDataService:136 - Service ID is 2
+17:02:58,688  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:02:58 EST 2017
+17:02:58,689  INFO FileBasedDataService:387 - dataSize is now 1
+17:02:58,689  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/2/0.db
+17:02:58,689  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:02:59,730  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:02:59,732  INFO FileBasedDataService:136 - Service ID is 3
+17:02:59,733  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:02:59 EST 2017
+17:02:59,734  INFO FileBasedDataService:387 - dataSize is now 1
+17:02:59,736  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/3/0.db
+17:02:59,736  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:00,736  INFO FileBasedDataService:136 - Service ID is 4
+17:03:00,737  INFO FileBasedDataService:136 - Service ID is 5
+17:03:00,737  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:00 EST 2017
+17:03:00,739  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:00,739  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/5/0.db
+17:03:00,739  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:01,740  INFO FileBasedDataService:136 - Service ID is 6
+17:03:01,740  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 17:03:01 EST 2017
+17:03:01,749  INFO FileBasedDataService:387 - dataSize is now 72
+17:03:01,749  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/6/0.db
+17:03:01,751  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+17:03:02,742  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:02,743  INFO FileBasedDataService:136 - Service ID is 7
+17:03:02,743  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:02 EST 2017
+17:03:02,743  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:02,743  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/7/0.db
+17:03:02,744  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:03,748  INFO FileBasedDataService:136 - Service ID is 8
+17:03:03,748  INFO FileBasedDataService:136 - Service ID is 9
+17:03:03,748  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:03 EST 2017
+17:03:03,749  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:03,749  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/9/0.db
+17:03:03,751  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:04,755  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:04,756  INFO FileBasedDataService:136 - Service ID is 10
+17:03:04,756  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:04 EST 2017
+17:03:04,757  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:04,757  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/10/0.db
+17:03:04,757  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:05,762  INFO FileBasedDataService:136 - Service ID is 11
+17:03:05,762  INFO FileBasedDataService:136 - Service ID is 12
+17:03:05,763  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:05 EST 2017
+17:03:05,764  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:05,764  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/12/0.db
+17:03:05,765  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:06,769  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:06,770  INFO FileBasedDataService:136 - Service ID is 13
+17:03:06,770  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:06 EST 2017
+17:03:06,771  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:06,771  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/13/0.db
+17:03:06,772  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:07,772  INFO FileBasedDataService:136 - Service ID is 14
+17:03:07,774  INFO FileBasedDataService:136 - Service ID is 15
+17:03:07,774  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 17:03:07 EST 2017
+17:03:07,779  INFO FileBasedDataService:387 - dataSize is now 72
+17:03:07,780  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/15/0.db
+17:03:07,780  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+17:03:08,776  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:08,777  INFO FileBasedDataService:136 - Service ID is 16
+17:03:08,777  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:08 EST 2017
+17:03:08,778  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:08,778  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/16/0.db
+17:03:08,778  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:09,777  INFO FileBasedDataService:136 - Service ID is 17
+17:03:09,778  INFO FileBasedDataService:136 - Service ID is 18
+17:03:09,778  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:09 EST 2017
+17:03:09,779  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:09,779  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/18/0.db
+17:03:09,779  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:10,784  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:10,784  INFO FileBasedDataService:136 - Service ID is 19
+17:03:10,785  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:10 EST 2017
+17:03:10,785  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:10,785  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/19/0.db
+17:03:10,787  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:11,788  INFO FileBasedDataService:136 - Service ID is 20
+17:03:11,789  INFO FileBasedDataService:136 - Service ID is 21
+17:03:11,789  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:11 EST 2017
+17:03:11,789  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:11,790  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/21/0.db
+17:03:11,791  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:12,792  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:12,793  INFO FileBasedDataService:136 - Service ID is 22
+17:03:12,793  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:12 EST 2017
+17:03:12,795  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:12,795  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/22/0.db
+17:03:12,795  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:13,797  INFO FileBasedDataService:136 - Service ID is 23
+17:03:13,798  INFO FileBasedDataService:136 - Service ID is 24
+17:03:13,799  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 17:03:13 EST 2017
+17:03:13,802  INFO FileBasedDataService:387 - dataSize is now 72
+17:03:13,802  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/24/0.db
+17:03:13,803  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+17:03:14,804  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:14,805  INFO FileBasedDataService:136 - Service ID is 25
+17:03:14,805  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:14 EST 2017
+17:03:14,806  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:14,806  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/25/0.db
+17:03:14,807  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:15,810  INFO FileBasedDataService:136 - Service ID is 26
+17:03:15,811  INFO FileBasedDataService:136 - Service ID is 27
+17:03:15,811  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:15 EST 2017
+17:03:15,812  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:15,812  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/27/0.db
+17:03:15,813  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:16,818  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:16,818  INFO FileBasedDataService:136 - Service ID is 28
+17:03:16,819  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:16 EST 2017
+17:03:16,820  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:16,821  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/28/0.db
+17:03:16,821  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:17,823  INFO FileBasedDataService:136 - Service ID is 29
+17:03:17,823  INFO FileBasedDataService:136 - Service ID is 30
+17:03:17,823  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:17 EST 2017
+17:03:17,824  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:17,824  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/30/0.db
+17:03:17,824  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:18,828  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:18,831  INFO FileBasedDataService:136 - Service ID is 31
+17:03:18,831  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:18 EST 2017
+17:03:18,832  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:18,832  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/31/0.db
+17:03:18,833  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:19,834  INFO FileBasedDataService:136 - Service ID is 32
+17:03:19,835  INFO FileBasedDataService:136 - Service ID is 33
+17:03:19,835  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 17:03:19 EST 2017
+17:03:19,836  INFO FileBasedDataService:387 - dataSize is now 1
+17:03:19,836  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/33/0.db
+17:03:19,837  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+17:03:20,840  INFO FileBasedDataServiceTest:268 - Shutting down executor
+17:03:21,123  INFO DistanceCalculator:16 - file is /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz
+17:03:21,123  INFO FileBasedDataService:136 - Service ID is 34
+17:03:21,124  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 17:03:21 EST 2017
+17:03:21,126  INFO FileBasedDataService:387 - dataSize is now 72
+17:03:21,126  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/34/0.db
+17:03:21,127  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+17:03:22,126  INFO DistanceCalculator:25 - Data service has size 72
+19:57:07,570  INFO FileBasedDataService:146 - Cleaning up work directory
+19:57:07,634  INFO FileBasedDataService:136 - Service ID is 0
+19:57:07,660  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:07 EST 2017
+19:57:07,662  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:07,662  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/0/0.db
+19:57:07,663  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:08,659  INFO FileBasedDataService:136 - Service ID is 1
+19:57:08,660  INFO FileBasedDataService:136 - Service ID is 2
+19:57:08,660  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:08 EST 2017
+19:57:08,661  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:08,661  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/2/0.db
+19:57:08,661  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:09,702  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:09,703  INFO FileBasedDataService:136 - Service ID is 3
+19:57:09,704  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:09 EST 2017
+19:57:09,705  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:09,708  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/3/0.db
+19:57:09,708  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:10,708  INFO FileBasedDataService:136 - Service ID is 4
+19:57:10,709  INFO FileBasedDataService:136 - Service ID is 5
+19:57:10,709  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:10 EST 2017
+19:57:10,710  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:10,710  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/5/0.db
+19:57:10,710  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:11,710  INFO FileBasedDataService:136 - Service ID is 6
+19:57:11,710  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 19:57:11 EST 2017
+19:57:11,718  INFO FileBasedDataService:387 - dataSize is now 72
+19:57:11,718  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/6/0.db
+19:57:11,720  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+19:57:12,711  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:12,713  INFO FileBasedDataService:136 - Service ID is 7
+19:57:12,713  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:12 EST 2017
+19:57:12,715  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:12,715  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/7/0.db
+19:57:12,715  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:13,718  INFO FileBasedDataService:136 - Service ID is 8
+19:57:13,719  INFO FileBasedDataService:136 - Service ID is 9
+19:57:13,719  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:13 EST 2017
+19:57:13,719  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:13,720  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/9/0.db
+19:57:13,720  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:14,727  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:14,727  INFO FileBasedDataService:136 - Service ID is 10
+19:57:14,727  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:14 EST 2017
+19:57:14,728  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:14,728  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/10/0.db
+19:57:14,730  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:15,731  INFO FileBasedDataService:136 - Service ID is 11
+19:57:15,732  INFO FileBasedDataService:136 - Service ID is 12
+19:57:15,732  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:15 EST 2017
+19:57:15,733  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:15,733  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/12/0.db
+19:57:15,735  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:16,736  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:16,737  INFO FileBasedDataService:136 - Service ID is 13
+19:57:16,738  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:16 EST 2017
+19:57:16,739  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:16,740  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/13/0.db
+19:57:16,741  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:17,742  INFO FileBasedDataService:136 - Service ID is 14
+19:57:17,744  INFO FileBasedDataService:136 - Service ID is 15
+19:57:17,744  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 19:57:17 EST 2017
+19:57:17,752  INFO FileBasedDataService:387 - dataSize is now 72
+19:57:17,752  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/15/0.db
+19:57:17,754  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+19:57:18,747  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:18,748  INFO FileBasedDataService:136 - Service ID is 16
+19:57:18,748  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:18 EST 2017
+19:57:18,749  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:18,749  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/16/0.db
+19:57:18,750  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:19,752  INFO FileBasedDataService:136 - Service ID is 17
+19:57:19,753  INFO FileBasedDataService:136 - Service ID is 18
+19:57:19,753  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:19 EST 2017
+19:57:19,754  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:19,754  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/18/0.db
+19:57:19,755  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:20,758  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:20,761  INFO FileBasedDataService:136 - Service ID is 19
+19:57:20,761  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:20 EST 2017
+19:57:20,761  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:20,762  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/19/0.db
+19:57:20,762  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:21,765  INFO FileBasedDataService:136 - Service ID is 20
+19:57:21,766  INFO FileBasedDataService:136 - Service ID is 21
+19:57:21,766  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:21 EST 2017
+19:57:21,767  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:21,767  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/21/0.db
+19:57:21,768  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:22,768  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:22,769  INFO FileBasedDataService:136 - Service ID is 22
+19:57:22,770  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:22 EST 2017
+19:57:22,772  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:22,772  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/22/0.db
+19:57:22,772  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:23,774  INFO FileBasedDataService:136 - Service ID is 23
+19:57:23,775  INFO FileBasedDataService:136 - Service ID is 24
+19:57:23,778  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 19:57:23 EST 2017
+19:57:23,784  INFO FileBasedDataService:387 - dataSize is now 72
+19:57:23,784  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/24/0.db
+19:57:23,785  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+19:57:24,778  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:24,780  INFO FileBasedDataService:136 - Service ID is 25
+19:57:24,780  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:24 EST 2017
+19:57:24,781  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:24,781  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/25/0.db
+19:57:24,782  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:25,783  INFO FileBasedDataService:136 - Service ID is 26
+19:57:25,784  INFO FileBasedDataService:136 - Service ID is 27
+19:57:25,784  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:25 EST 2017
+19:57:25,786  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:25,787  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/27/0.db
+19:57:25,789  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:26,788  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:26,788  INFO FileBasedDataService:136 - Service ID is 28
+19:57:26,789  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:26 EST 2017
+19:57:26,789  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:26,789  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/28/0.db
+19:57:26,791  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:27,791  INFO FileBasedDataService:136 - Service ID is 29
+19:57:27,792  INFO FileBasedDataService:136 - Service ID is 30
+19:57:27,792  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:27 EST 2017
+19:57:27,793  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:27,794  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/30/0.db
+19:57:27,794  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:28,795  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:28,798  INFO FileBasedDataService:136 - Service ID is 31
+19:57:28,798  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:28 EST 2017
+19:57:28,799  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:28,799  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/31/0.db
+19:57:28,800  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:29,803  INFO FileBasedDataService:136 - Service ID is 32
+19:57:29,803  INFO FileBasedDataService:136 - Service ID is 33
+19:57:29,804  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt at Fri Nov 17 19:57:29 EST 2017
+19:57:29,805  INFO FileBasedDataService:387 - dataSize is now 1
+19:57:29,805  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/33/0.db
+19:57:29,807  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/test.txt loaded
+19:57:30,810  INFO FileBasedDataServiceTest:268 - Shutting down executor
+19:57:31,064  INFO DistanceCalculator:16 - file is /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz
+19:57:31,065  INFO FileBasedDataService:136 - Service ID is 34
+19:57:31,066  INFO FileBasedDataService:82 - Data loader loading /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz at Fri Nov 17 19:57:31 EST 2017
+19:57:31,070  INFO FileBasedDataService:387 - dataSize is now 72
+19:57:31,071  INFO FileBasedDataService:343 - Reading block /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/work/34/0.db
+19:57:31,072  INFO FileBasedDataService:90 - Data from /Users/span/Dropbox/LearningTree/HOCD/crs516/sourcecode/data/OSDO5711.gz loaded
+19:57:32,069  INFO DistanceCalculator:25 - Data service has size 72
